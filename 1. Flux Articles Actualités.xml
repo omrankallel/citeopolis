@@ -1,26 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <articles>
-  <article>
-    <title>Inauguration du nouveau centre culturel</title>
-    <category>Culture</category>
-    <summary>Le nouveau centre culturel de la ville a été inauguré ce week-end.</summary>
-    <pubDate>2025-06-01</pubDate>
-    <updateDate>2025-06-02</updateDate>
-    <mainImage>https://example.com/images/centre-culturel.jpg</mainImage>
-    <imageCaption>Vue du nouveau bâtiment lors de l'inauguration</imageCaption>
-    <content>
-      <h1>Un événement très attendu</h1>
-      <p>De nombreux habitants étaient présents pour découvrir les nouvelles installations.</p>
-      <h2>Des espaces modernes</h2>
-      <p>Le centre dispose de plusieurs salles de conférence, d'une médiathèque et d'un espace d'exposition.</p>
-      <h3>Accessibilité</h3>
-      <p>Tous les espaces sont accessibles aux personnes à mobilité réduite.</p>
-      <p><b>Note :</b> L'entrée est gratuite pendant tout le mois de juin.</p>
-      <ul>
-        <li>Expositions permanentes</li>
-        <li>Concerts</li>
-        <li>Ateliers pour enfants</li>
-      </ul>
-    </content>
-  </article>
+    <article>
+        <title>Page de contenu X - Découverte de la côte méditerranéenne</title>
+        <category>Tourisme</category>
+        <summary>Chapo lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec rutrum, lacinia ligula sed feugiat. Donec faucibus, dui vel rutrum tempus, nisl orci fermentum quam, ut vulputate odio elit eget velit.</summary>
+        <pubDate>2024-06-01T10:00:00Z</pubDate>
+        <updateDate>2024-06-05T14:30:00Z</updateDate>
+        <mainImage>https://example.com/images/cote-mediterraneenne.jpg</mainImage>
+        <imageCaption>La superbe côte méditerranéenne avec ses eaux cristallines</imageCaption>
+        <content>
+            <h1>Titre H2 Lorem ipsum dolor sit amet</h1>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit amet. Ipsum. Suspendisse suscipit elit elit mauris et bibendum. Nulla tacitus lectus id suscipit semper. Aenean lobortis bibendum ante et duis rhoncus sit amet nisl. Duis et tincidunt lacus, sit amet molestie quis. Donec quis lorem ipsum mauris id consectetur volutpat. Nullam ornare. Mauris pretium tempus enim. Nullam molestie eros at tellus. Nulla consectetur molestie eros at consectetur.</p>
+            
+            <ul>
+                <li>Maecenas accumsan elit eget odio blandit vehicula</li>
+                <li>Quis lacinia eget fermentum venenatis</li>
+                <li>Id viverra dui</li>
+                <li>Etiam dolor enim, consectat vut molestisbus</li>
+                <li>Aliquam dolor magna, rhoncus vitae consectetur</li>
+                <li>Consectetur adipiscing elit augue duis turpis</li>
+            </ul>
+
+            <h2>Titre H2 Lorem ipsum dolor sit amet</h2>
+            <p>Quisque mtt sapien, faucibus et vehicula vel rhoncus sit amet nisl. Duis et tincidunt lacus, sit amet. Aenean lobortis bibendum ante et consectetur volutpat. Nullam ornare. Mauris commodo volutpat justo molestie consectetur elit. Donec vel ante eget dolor consectetur molestisque quis elit eros. Nunc commodo volutpat justo nec consectetur.</p>
+
+            <h3>Titre H3 lorem ipsum dolor sit amet</h3>
+            <p>Sed convalmendam alieratrum leo id tincidunt. Praeent in libero ut urna, ex viverra lobortis et id lorem. Integer ut mauris rhoncus. bibendum, rhon vtae, dictum lorem. Fusce velit sem dolor.</p>
+        </content>
+    </article>
+
+    <article>
+        <title>Découverte des trésors cachés de la région</title>
+        <category>Culture</category>
+        <summary>Partez à la découverte des sites historiques et culturels méconnus de notre belle région méditerranéenne.</summary>
+        <pubDate>2024-05-28T09:15:00Z</pubDate>
+        <updateDate>2024-06-03T16:45:00Z</updateDate>
+        <mainImage>https://example.com/images/sites-historiques.jpg</mainImage>
+        <imageCaption>Vue panoramique sur les monuments historiques</imageCaption>
+        <content>
+            <h1>Les joyaux cachés de notre patrimoine</h1>
+            <p>Notre région regorge de trésors architecturaux et culturels souvent méconnus du grand public. Ces sites exceptionnels méritent une attention particulière.</p>
+            
+            <h2>Architecture traditionnelle</h2>
+            <p>Les constructions anciennes témoignent d'un savoir-faire ancestral unique, alliant fonctionnalité et esthétique dans un environnement méditerranéen.</p>
+        </content>
+    </article>
+
+    <article>
+        <title>Guide gastronomique local</title>
+        <category>Gastronomie</category>
+        <summary>Explorez les saveurs authentiques de notre terroir à travers une sélection de spécialités locales incontournables.</summary>
+        <pubDate>2024-06-02T11:30:00Z</pubDate>
+        <updateDate>2024-06-04T13:20:00Z</updateDate>
+        <mainImage>https://example.com/images/gastronomie-locale.jpg</mainImage>
+        <imageCaption>Plats traditionnels de la région</imageCaption>
+        <content>
+            <h1>Saveurs du terroir</h1>
+            <p>La gastronomie locale reflète la richesse de notre patrimoine culinaire méditerranéen, mêlant traditions ancestrales et produits du terroir.</p>
+        </content>
+    </article>
 </articles>
