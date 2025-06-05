@@ -1,824 +1,92 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<events xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#">
-  <channel>
-    <title>Agenda Culturel - Gouvernorat de Tunis</title>
-    <description>Événements culturels, sportifs et institutionnels dans le Grand Tunis</description>
-    <link>https://www.gouvernorat-tunis.tn/agenda</link>
-    <lastBuildDate>Mon, 03 Jun 2025 08:30:00 GMT</lastBuildDate>
-    
-    <item>
-      <title>Marathon International de Tunis 2025</title>
-      <category>Sport</category>
-      <summary>42ème édition du Marathon International de Tunis avec 15 000 participants attendus. Parcours historique à travers les sites emblématiques de la capitale tunisienne.</summary>
-      <pubDate>2025-05-15T09:00:00Z</pubDate>
-      <updateDate>2025-06-01T16:30:00Z</updateDate>
-      <eventStartDate>2025-06-15</eventStartDate>
-      <eventEndDate>2025-06-15</eventEndDate>
-      <eventStartTime>07:00</eventStartTime>
-      <eventEndTime>14:00</eventEndTime>
-      <mainImage>https://images.unsplash.com/photo-1551698618-1dfe5d97d256?w=800&amp;h=600</mainImage>
-      <imageCaption>Départ du Marathon 2024 devant le Théâtre Municipal de Tunis</imageCaption>
-      <content>
-        <h1>Un parcours au cœur de l'histoire</h1>
-        <p>Le <strong>42ème Marathon International de Tunis</strong> propose un parcours unique de 42,195 km traversant les sites les plus emblématiques de la capitale. Cet événement sportif majeur de la Méditerranée attire des coureurs de <strong>65 nationalités</strong>.</p>
-        
-        <h2>Parcours et étapes clés</h2>
-        <p>Le tracé 2025 offre un voyage à travers l'histoire :</p>
-        
-        <h3>Secteur historique (0-15 km)</h3>
-        <ul>
-          <li><strong>Départ :</strong> Avenue Habib Bourguiba (7h00 précises)</li>
-          <li><strong>Km 2 :</strong> Médina de Tunis (Site UNESCO)</li>
-          <li><strong>Km 5 :</strong> Mosquée Zitouna et souks traditionnels</li>
-          <li><strong>Km 8 :</strong> Palais du Bardo et musée national</li>
-          <li><strong>Km 12 :</strong> Quartier Halfaouine et ses maisons traditionnelles</li>
-          <li><strong>Km 15 :</strong> Parc du Belvédère (1er ravitaillement majeur)</li>
-        </ul>
-        
-        <h3>Secteur moderne (15-30 km)</h3>
-        <ul>
-          <li><strong>Km 18 :</strong> Lac de Tunis et quartier d'affaires</li>
-          <li><strong>Km 22 :</strong> Berges du Lac et marina</li>
-          <li><strong>Km 25 :</strong> Cité Olympique et stades</li>
-          <li><strong>Km 28 :</strong> Carthage et vestiges antiques</li>
-          <li><strong>Km 30 :</strong> Sidi Bou Saïd (point panoramique)</li>
-        </ul>
-        
-        <h4>Secteur final (30-42 km)</h4>
-        <ul>
-          <li><strong>Km 32 :</strong> La Marsa et front de mer</li>
-          <li><strong>Km 35 :</strong> Corniche de Tunis</li>
-          <li><strong>Km 38 :</strong> Port de Tunis La Goulette</li>
-          <li><strong>Km 40 :</strong> Avenue de France (dernière ligne droite)</li>
-          <li><strong>Arrivée :</strong> Stade Olympique Radès (14h00 limite)</li>
-        </ul>
-        
-        <h2>Catégories et prix</h2>
-        <p>Plusieurs épreuves pour tous les niveaux :</p>
-        
-        <h3>Épreuves principales</h3>
-        <ul>
-          <li><strong>Marathon (42,195 km) :</strong> Départ 7h00 - Limite 6h</li>
-          <li><strong>Semi-marathon (21,1 km) :</strong> Départ 7h30 - Limite 3h</li>
-          <li><strong>Course 10 km :</strong> Départ 8h00 - Tous niveaux</li>
-          <li><strong>Course familiale 5 km :</strong> Départ 8h30 - Avec enfants</li>
-          <li><strong>Course handisport :</strong> Départ 7h15 - Toutes catégories</li>
-        </ul>
-        
-        <h3>Récompenses et dotations</h3>
-        <ul>
-          <li><strong>1er homme/femme Marathon :</strong> 15 000 DT + voyage</li>
-          <li><strong>Podium Marathon :</strong> 8 000 / 5 000 / 3 000 DT</li>
-          <li><strong>Records de parcours :</strong> Prime de 5 000 DT</li>
-          <li><strong>Meilleur Tunisien :</strong> 2 000 DT + équipement sportif</li>
-          <li><strong>Médaille finisher :</strong> Pour tous les participants</li>
-        </ul>
-        
-        <h4>Services aux coureurs</h4>
-        <p>Organisation de niveau international :</p>
-        <ul>
-          <li><strong>15 points de ravitaillement</strong> avec eau, boissons énergétiques</li>
-          <li><strong>3 postes médicaux</strong> avec ambulances et kinésithérapeutes</li>
-          <li><strong>Chronométrage électronique</strong> par puce RFID</li>
-          <li><strong>Application mobile</strong> tracking en temps réel</li>
-          <li><strong>Vestiaire sécurisé</strong> au départ et à l'arrivée</li>
-          <li><strong>Douches et espaces détente</strong> post-course</li>
-        </ul>
-        
-        <h2>Inscriptions et tarifs</h2>
-        
-        <h3>Tarification progressive</h3>
-        <ul>
-          <li><strong>Marathon - Early Bird (avant 15 mai) :</strong> 80 DT</li>
-          <li><strong>Marathon - Standard :</strong> 100 DT</li>
-          <li><strong>Semi-marathon :</strong> 60 DT</li>
-          <li><strong>10 km :</strong> 40 DT</li>
-          <li><strong>5 km familial :</strong> 25 DT (enfants gratuits)</li>
-          <li><strong>Coureurs internationaux :</strong> 50 euros</li>
-        </ul>
-        
-        <h3>Pack participant inclus</h3>
-        <ul>
-          <li><strong>Dossard personnalisé</strong> avec puce de chronométrage</li>
-          <li><strong>T-shirt technique</strong> respirant aux couleurs de l'événement</li>
-          <li><strong>Sac de course</strong> avec sponsors et goodies</li>
-          <li><strong>Petit-déjeuner</strong> énergétique avant le départ</li>
-          <li><strong>Repas de récupération</strong> à l'arrivée</li>
-          <li><strong>Certificat de participation</strong> téléchargeable</li>
-        </ul>
-        
-        <h4>Animations connexes</h4>
-        <p>Un village festif de 3 jours :</p>
-        <ul>
-          <li><strong>Salon du running :</strong> 40 exposants spécialisés</li>
-          <li><strong>Conférences techniques :</strong> Nutrition, entraînement, récupération</li>
-          <li><strong>Animations enfants :</strong> Initiation course, ateliers ludiques</li>
-          <li><strong>Concerts gratuits :</strong> Groupes locaux et internationaux</li>
-          <li><strong>Food trucks :</strong> Gastronomie méditerranéenne</li>
-        </ul>
-        
-        <p>Le champion olympique <strong>Mohamed Gammoudi</strong>, parrain de l'événement, déclare : <em>"Ce marathon illustre parfaitement l'esprit sportif tunisien et notre patrimoine exceptionnel."</em></p>
-        
-        <p>Inscriptions en ligne : <a href="https://www.marathon-tunis.tn">www.marathon-tunis.tn</a> - Contact : 71 123 456</p>
-      </content>
-      <location>
-        <title>Centre-ville de Tunis</title>
-        <address>Avenue Habib Bourguiba</address>
-        <postalCode>1001</postalCode>
-        <city>Tunis</city>
-        <latitude>36.8065</latitude>
-        <longitude>10.1815</longitude>
-      </location>
-    </item>
-    
-    <item>
-      <title>Nuits Musicales de Carthage - Concert Symphonique</title>
-      <category>Culture</category>
-      <summary>Concert exceptionnel de l'Orchestre Symphonique National avec l'Ensemble Ennejma Ezzahra dans une création inédite mêlant musique classique occidentale et patrimoine musical arabo-andalou.</summary>
-      <pubDate>2025-05-20T11:00:00Z</pubDate>
-      <updateDate>2025-05-28T14:15:00Z</updateDate>
-      <eventStartDate>2025-07-12</eventStartDate>
-      <eventEndDate>2025-07-12</eventEndDate>
-      <eventStartTime>21:00</eventStartTime>
-      <eventEndTime>23:30</eventEndTime>
-      <mainImage>https://images.unsplash.com/photo-1465847899084-d164df4dedc6?w=800&amp;h=600</mainImage>
-      <imageCaption>L'Orchestre Symphonique National lors d'une répétition au Théâtre de l'Opéra</imageCaption>
-      <content>
-        <h1>Fusion exceptionnelle Orient-Occident</h1>
-        <p>Les <strong>Nuits Musicales de Carthage</strong> présentent un concert unique mêlant l'<strong>Orchestre Symphonique National de Tunisie</strong> (80 musiciens) et l'<strong>Ensemble Ennejma Ezzahra</strong> dans une création mondiale intitulée <em>"Dialogues de Carthage"</em>.</p>
-        
-        <h2>Programme musical de la soirée</h2>
-        
-        <h3>Première partie - Répertoire classique (21h00-21h45)</h3>
-        <ul>
-          <li><strong>Ouverture :</strong> "L'Enlèvement au Sérail" de Mozart</li>
-          <li><strong>Concerto :</strong> Concerto pour oud et orchestre - Soliste <em>Anouar Brahem</em></li>
-          <li><strong>Symphonie :</strong> Extraits de la 5ème Symphonie de Beethoven</li>
-        </ul>
-        
-        <h3>Deuxième partie - Création "Dialogues de Carthage" (22h15-23h15)</h3>
-        <ul>
-          <li><strong>Mvt 1 :</strong> "Aube sur Carthage" - Fusion malouf et cordes</li>
-          <li><strong>Mvt 2 :</strong> "Mélodie des souks" - Solo de kanoun et vents</li>
-          <li><strong>Mvt 3 :</strong> "Danse des oliviers" - Percussions orientales et orchestre</li>
-          <li><strong>Finale :</strong> "Hymne à la Méditerranée" - Chœur mixte et tutti</li>
-        </ul>
-        
-        <h4>Solistes et direction</h4>
-        <ul>
-          <li><strong>Direction d'orchestre :</strong> Maestro <em>Hafez Makni</em></li>
-          <li><strong>Soliste oud :</strong> <em>Anouar Brahem</em> (renommée internationale)</li>
-          <li><strong>Soliste kanoun :</strong> <em>Nesrine Bensalem</em></li>
-          <li><strong>Percussions orientales :</strong> <em>Ensemble Abderrazak Chraïti</em></li>
-          <li><strong>Soprano :</strong> <em>Sonia M'barek</em> (Opéra de Paris)</li>
-          <li><strong>Chœur mixte :</strong> 40 choristes du Conservatoire National</li>
-        </ul>
-        
-        <h2>Création artistique unique</h2>
-        <p>Cette œuvre commandée spécialement explore les influences musicales méditerranéennes :</p>
-        
-        <h3>Instrumentation exceptionnelle</h3>
-        <ul>
-          <li><strong>Orchestre symphonique :</strong> Formation classique complète</li>
-          <li><strong>Instruments orientaux :</strong> Oud, kanoun, qanon, derbouka</li>
-          <li><strong>Percussions spéciales :</strong> Bendir, riqq, sagat</li>
-          <li><strong>Instruments anciens :</strong> Nay, rebab reconstitués</li>
-        </ul>
-        
-        <h3>Recherche musicologique</h3>
-        <ul>
-          <li><strong>Collaboration :</strong> Centre des Musiques Arabes et Méditerranéennes</li>
-          <li><strong>Sources historiques :</strong> Manuscrits andalous du XIIème siècle</li>
-          <li><strong>Adaptation moderne :</strong> Harmonisation contemporaine respectueuse</li>
-          <li><strong>Enregistrement :</strong> Album studio prévu en octobre 2025</li>
-        </ul>
-        
-        <h4>Mise en scène et scénographie</h4>
-        <ul>
-          <li><strong>Éclairage :</strong> Jeu de lumières évoquant le coucher de soleil sur Carthage</li>
-          <li><strong>Décor :</strong> Projections de mosaïques romaines et motifs islamiques</li>
-          <li><strong>Costumes :</strong> Créations inspirées des habits traditionnels tunisiens</li>
-          <li><strong>Chorégraphie :</strong> Intervention ponctuelle de danseurs contemporains</li>
-        </ul>
-        
-        <h2>Informations pratiques</h2>
-        
-        <h3>Lieu et accès</h3>
-        <ul>
-          <li><strong>Capacité :</strong> 1 200 places assises</li>
-          <li><strong>Acoustique :</strong> Renovée en 2024, classée parmi les meilleures au Maghreb</li>
-          <li><strong>Climatisation :</strong> Système moderne pour le confort estival</li>
-          <li><strong>Accessibilité :</strong> Rampes PMR et places réservées</li>
-        </ul>
-        
-        <h3>Billetterie et tarifs</h3>
-        <ul>
-          <li><strong>Catégorie VIP (premiers rangs) :</strong> 120 DT</li>
-          <li><strong>Catégorie Premium (orchestre) :</strong> 80 DT</li>
-          <li><strong>Catégorie Standard (balcon) :</strong> 50 DT</li>
-          <li><strong>Étudiants et -26 ans :</strong> 30 DT (sur présentation justificatif)</li>
-          <li><strong>Groupes +10 personnes :</strong> Remise de 20%</li>
-          <li><strong>Abonnés saison :</strong> Tarif préférentiel 40 DT</li>
-        </ul>
-        
-        <h4>Services Premium</h4>
-        <ul>
-          <li><strong>Cocktail VIP :</strong> 19h30-20h45 avec les artistes</li>
-          <li><strong>Programme de salle :</strong> Collector avec biographies détaillées</li>
-          <li><strong>Rencontre post-concert :</strong> Échange avec les musiciens</li>
-          <li><strong>Parking réservé :</strong> 200 places gardées (10 DT)</li>
-          <li><strong>Service de restauration :</strong> Bar et collations durant l'entracte</li>
-        </ul>
-        
-        <h2>Contexte culturel</h2>
-        <p>Cet événement s'inscrit dans la politique culturelle ambitieuse de la Tunisie :</p>
-        
-        <h3>Rayonnement international</h3>
-        <ul>
-          <li><strong>Retransmission :</strong> Radio Nationale et Mosaïque FM en direct</li>
-          <li><strong>Captation vidéo :</strong> Diffusion sur Tunisie Culture en différé</li>
-          <li><strong>Streaming :</strong> Disponible sur les plateformes numériques</li>
-          <li><strong>Critique internationale :</strong> Présence de journalistes spécialisés</li>
-        </ul>
-        
-        <h3>Impact pédagogique</h3>
-        <ul>
-          <li><strong>Masterclass :</strong> 13 juillet avec Anouar Brahem (Conservatoire)</li>
-          <li><strong>Ateliers scolaires :</strong> Sensibilisation de 500 élèves</li>
-          <li><strong>Conférence :</strong> "Patrimoine musical méditerranéen" (14 juillet)</li>
-          <li><strong>Documentation :</strong> Dossier pédagogique pour enseignants</li>
-        </ul>
-        
-        <p>Le ministre de la Culture <strong>Hatem Atallah</strong> souligne : <em>"Cette création symbolise parfaitement la vocation de la Tunisie à être un pont entre les civilisations et les expressions artistiques."</em></p>
-        
-        <p>Réservations : <a href="https://www.operatunis.tn">www.operatunis.tn</a> - Billetterie physique ouverte 10h-18h - Tél : 71 347 055</p>
-      </content>
-      <location>
-        <title>Opéra de Tunis</title>
-        <address>1 Avenue de Paris, Cité de la Culture</address>
-        <postalCode>1001</postalCode>
-        <city>Tunis</city>
-        <latitude>36.8086</latitude>
-        <longitude>10.1372</longitude>
-      </location>
-    </item>
-    
-    <item>
-      <title>Marché Nocturne du Ramadan - Souk Al-Leyl</title>
-      <category>Commerce</category>
-      <summary>Marché traditionnel nocturne pendant le mois de Ramadan avec 120 stands d'artisanat, gastronomie traditionnelle, et animations culturelles dans l'enceinte historique de la Médina.</summary>
-      <pubDate>2025-05-10T15:00:00Z</pubDate>
-      <updateDate>2025-06-01T12:30:00Z</updateDate>
-      <eventStartDate>2025-06-06</eventStartDate>
-      <eventEndDate>2025-07-05</eventEndDate>
-      <eventStartTime>19:30</eventStartTime>
-      <eventEndTime>02:00</eventEndTime>
-      <mainImage>https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=800&amp;h=600</mainImage>
-      <imageCaption>Ambiance nocturne du Souk Al-Leyl dans la Médina de Tunis</imageCaption>
-      <content>
-        <h1>Tradition millénaire revisitée</h1>
-        <p>Le <strong>Souk Al-Leyl</strong> (Marché de la Nuit) fait revivre une tradition ancestrale de la Médina de Tunis pendant tout le mois de Ramadan. Cette manifestation culturelle et commerciale unique attire plus de <strong>50 000 visiteurs</strong> chaque soir.</p>
-        
-        <h2>Organisation et zones thématiques</h2>
-        
-        <h3>Zone Artisanat traditionnel (50 stands)</h3>
-        <ul>
-          <li><strong>Céramique de Nabeul :</strong> Poteries, vases, plats décoratifs</li>
-          <li><strong>Cuir de Kairouan :</strong> Babouches, sacs, maroquinerie fine</li>
-          <li><strong>Tissage de Ksar Hellal :</strong> Tapis berbères, kilims, coussins</li>
-          <li><strong>Dinanderie :</strong> Plateaux ciselés, lanternes en cuivre</li>
-          <li><strong>Bijouterie traditionnelle :</strong> Argent de Djerba, corail rouge</li>
-          <li><strong>Parfumerie orientale :</strong> Huiles essentielles, oud, ambre</li>
-          <li><strong>Calligraphie arabe :</strong> Œuvres personnalisées, livres anciens</li>
-        </ul>
-        
-        <h3>Espace Gastronomie (40 stands)</h3>
-        <ul>
-          <li><strong>Pâtisseries traditionnelles :</strong> Makroudh, baklava, deglet nour</li>
-          <li><strong>Spécialités ramadanesques :</strong> Brik, chorba, harissa maison</li>
-          <li><strong>Boissons fraîches :</strong> Jus de fruits frais, limonade artisanale</li>
-          <li><strong>Fruits secs et confiseries :</strong> Amandes, pistaches, loukoum</li>
-          <li><strong>Épices et condiments :</strong> Mélange ras el hanout, harissa</li>
-          <li><strong>Pain traditionnel :</strong> Khubz, mlawi cuit au feu de bois</li>
-        </ul>
-        
-        <h4>Zone Animation culturelle (30 emplacements)</h4>
-        <ul>
-          <li><strong>Conteurs traditionnels :</strong> Récits des Mille et Une Nuits</li>
-          <li><strong>Musiciens folkloriques :</strong> Oud, derbouka, chants soufis</li>
-          <li><strong>Théâtre de rue :</strong> Sketches en dialecte tunisien</li>
-          <li><strong>Ateliers participatifs :</strong> Calligraphie, poterie, cuisine</li>
-          <li><strong>Exposition photos :</strong> "Tunisie d'antan" - Archives nationales</li>
-          <li><strong>Jeux traditionnels :</strong> Dames tunisiennes, sigue</li>
-        </ul>
-        
-        <h2>Programme quotidien détaillé</h2>
-        
-        <h3>Ouverture et animations (19h30-21h30)</h3>
-        <ul>
-          <li><strong>19h30 :</strong> Cérémonie d'ouverture avec fanfare traditionnelle</li>
-          <li><strong>20h00 :</strong> Dégustation guidée de spécialités ramadanesques</li>
-          <li><strong>20h30 :</strong> Concert de musique malouf - Ensemble Rachidia</li>
-          <li><strong>21h00 :</strong> Démonstration artisanale en direct (poterie/tissage)</li>
-          <li><strong>21h30 :</strong> Spectacle de marionnettes pour enfants</li>
-        </ul>
-        
-        <h3>Cœur de soirée (21h30-00h30)</h3>
-        <ul>
-          <li><strong>21h45 :</strong> Grand défilé costumé à travers la Médina</li>
-          <li><strong>22h30 :</strong> Concert de musique andalouse - Invités internationaux</li>
-          <li><strong>23h00 :</strong> Concours de calligraphie arabe en public</li>
-          <li><strong>23h30 :</strong> Spectacle de danse orientale contemporaine</li>
-          <li><strong>00h00 :</strong> Dégustation collective de pâtisseries</li>
-        </ul>
-        
-        <h4>Fin de soirée (00h30-02h00)</h4>
-        <ul>
-          <li><strong>00h30 :</strong> Musique d'ambiance avec DJ spécialisé oriental</li>
-          <li><strong>01h00 :</strong> Contes et légendes de Tunis pour adultes</li>
-          <li><strong>01h30 :</strong> Session improvisée musiciens-visiteurs</li>
-          <li><strong>02h00 :</strong> Fermeture progressive et nettoyage écologique</li>
-        </ul>
-        
-        <h2>Artisans et producteurs participants</h2>
-        
-        <h3>Maîtres artisans sélectionnés</h3>
-        <ul>
-          <li><strong>Mongi Stambouli :</strong> Maître dinandier, 4ème génération</li>
-          <li><strong>Fadhila Ben Salem :</strong> Tisseuse de tapis traditionnels</li>
-          <li><strong>Ahmed Kharrat :</strong> Calligraphe renommé, ancien élève de Baghdad</li>
-          <li><strong>Zohra Makni :</strong> Spécialiste pâtisserie ottomane</li>
-          <li><strong>Habib Jemli :</strong> Parfumeur, créateur de senteurs uniques</li>
-        </ul>
-        
-        <h3>Producteurs locaux certifiés</h3>
-        <ul>
-          <li><strong>Coopérative féminine de Sidi Bouzid :</strong> Huile d'olive bio</li>
-          <li><strong>Association Tataouine :</strong> Henné naturel et plantes</li>
-          <li><strong>Groupement Mahdia :</strong> Poissons séchés, boutargue</li>
-          <li><strong>Ferme El Haouaria :</strong> Fromages de chèvre fermiers</li>
-        </ul>
-        
-        <h4>Certifications et labels</h4>
-        <ul>
-          <li><strong>Label "Produit de Tunisie"</strong> garanti pour tous les stands</li>
-          <li><strong>Certification bio</strong> pour 60% des produits alimentaires</li>
-          <li><strong>Traçabilité complète</strong> des matières premières artisanales</li>
-          <li><strong>Commerce équitable</strong> avec rémunération juste des artisans</li>
-        </ul>
-        
-        <h2>Services et facilités</h2>
-        
-        <h3>Accueil et information</h3>
-        <ul>
-          <li><strong>Point d'accueil trilingue</strong> (arabe/français/anglais)</li>
-          <li><strong>Plans interactifs</strong> avec géolocalisation des stands</li>
-          <li><strong>Guides bénévoles</strong> étudiants en tourisme</li>
-          <li><strong>Application mobile dédiée</strong> avec réalité augmentée</li>
-        </ul>
-        
-        <h3>Commodités pratiques</h3>
-        <ul>
-          <li><strong>Aires de repos</strong> avec coussins traditionnels</li>
-          <li><strong>Fontaines d'eau potable</strong> gratuites et réfrigérées</li>
-          <li><strong>Consignes sécurisées</strong> pour effets personnels</li>
-          <li><strong>Points de recharge</strong> smartphones et appareils</li>
-          <li><strong>Service de livraison</strong> pour gros achats</li>
-          <li><strong>Parking surveillé</strong> 500 places à 200m (gratuit après 19h)</li>
-        </ul>
-        
-        <h4>Accessibilité et inclusion</h4>
-        <ul>
-          <li><strong>Parcours PMR</strong> aménagé dans toute la zone</li>
-          <li><strong>Signalétique braille</strong> et audio-description</li>
-          <li><strong>Interprètes LST</strong> pour les spectacles principaux</li>
-          <li><strong>Tarifs préférentiels</strong> familles nombreuses et étudiants</li>
-        </ul>
-        
-        <h2>Impact culturel et économique</h2>
-        
-        <h3>Retombées économiques</h3>
-        <ul>
-          <li><strong>120 familles d'artisans</strong> bénéficiaires directes</li>
-          <li><strong>Chiffre d'affaires estimé :</strong> 2,5 millions de dinars sur 30 jours</li>
-          <li><strong>Emplois temporaires :</strong> 200 postes (sécurité, nettoyage, logistique)</li>
-          <li><strong>Impact hôtelier :</strong> +40% de réservations dans la Médina</li>
-          <li><strong>Restaurants partenaires :</strong> +60% de fréquentation</li>
-        </ul>
-        
-        <h3>Préservation du patrimoine</h3>
-        <ul>
-          <li><strong>Transmission des savoir-faire</strong> aux jeunes générations</li>
-          <li><strong>Valorisation</strong> des métiers traditionnels menacés</li>
-          <li><strong>Documentation vidéo</strong> des techniques artisanales</li>
-          <li><strong>Création d'un label</strong> "Artisan du Souk Al-Leyl"</li>
-        </ul>
-        
-        <p>Le directeur du patrimoine culturel <strong>Ridha Moumni</strong> précise : <em>"Le Souk Al-Leyl représente un maillon essentiel dans la chaîne de transmission de notre patrimoine immatériel tout en s'adaptant aux attentes contemporaines."</em></p>
-        
-        <p>Entrée libre - Programme détaillé : <a href="https://www.soukalleyl.tn">www.soukalleyl.tn</a> - Info : 71 568 900</p>
-      </content>
-      <location>
-        <title>Médina de Tunis</title>
-        <address>Place de la Kasbah, entrée Bab Bhar</address>
-        <postalCode>1006</postalCode>
-        <city>Tunis</city>
-        <latitude>36.7981</latitude>
-        <longitude>10.1718</longitude>
-      </location>
-    </item>
-    
-    <item>
-      <title>Symposium International des Nouvelles Technologies - TunisTech 2025</title>
-      <category>Innovation</category>
-      <summary>Conférence internationale de 3 jours sur l'intelligence artificielle, la blockchain et l'Internet des objets avec 150 experts mondiaux et 2000 participants attendus au Palais des Congrès.</summary>
-      <pubDate>2025-05-18T10:00:00Z</pubDate>
-      <updateDate>2025-05-30T16:45:00Z</updateDate>
-      <eventStartDate>2025-06-20</eventStartDate>
-      <eventEndDate>2025-06-22</eventEndDate>
-      <eventStartTime>08:30</eventStartTime>
-      <eventEndTime>18:00</eventEndTime>
-      <mainImage>https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800&amp;h=600</mainImage>
-      <imageCaption>Palais des Congrès de Tunis préparé pour l'édition 2024 de TunisTech</imageCaption>
-      <content>
-        <h1>L'excellence technologique en Méditerranée</h1>
-        <p><strong>TunisTech 2025</strong> positionne la Tunisie comme hub technologique régional avec la participation de <strong>150 experts internationaux</strong>, <strong>80 startups</strong> et <strong>2000 professionnels</strong> du secteur numérique.</p>
-        
-        <h2>Programme scientifique - Jour 1 (20 juin)</h2>
-        
-        <h3>Session d'ouverture (08h30-10h00)</h3>
-        <ul>
-          <li><strong>08h30 :</strong> Accueil et petit-déjeuner networking</li>
-          <li><strong>09h00 :</strong> Discours inaugural - <em>Ministre TIC Nizar Ben Neji</em></li>
-          <li><strong>09h15 :</strong> Keynote "IA et développement durable" - <em>Dr. Fei-Fei Li (Stanford)</em></li>
-          <li><strong>09h45 :</strong> Présentation écosystème tech tunisien</li>
-        </ul>
-        
-        <h3>Plénière "Intelligence Artificielle" (10h30-12h00)</h3>
-        <ul>
-          <li><strong>Modérateur :</strong> <em>Pr. Yann LeCun</em> (Meta AI, Prix Turing)</li>
-          <li><strong>Panélistes :</strong></li>
-          <li><em>Dr. Daphne Koller</em> - Co-fondatrice Coursera</li>
-          <li><em>Pr. Yoshua Bengio</em> - Université de Montréal</li>
-          <li><em>Dr. Reda Dehak</em> - Johns Hopkins University</li>
-          <li><em>Pr. Faouzi Ghorbel</em> - ENIT Tunis</li>
-        </ul>
-        
-        <h4>Ateliers parallèles (14h00-17h30)</h4>
-        <ul>
-          <li><strong>Atelier A :</strong> "Machine Learning pour la santé" (Salle Atlas)</li>
-          <li><strong>Atelier B :</strong> "IA conversationnelle et NLP arabe" (Salle Carthage)</li>
-          <li><strong>Atelier C :</strong> "Computer Vision et agriculture" (Salle Hannibal)</li>
-          <li><strong>Atelier D :</strong> "Éthique et IA responsable" (Salle Didon)</li>
-        </ul>
-        
-        <h2>Programme - Jour 2 (21 juin) - Blockchain &amp; Fintech</h2>
-        
-        <h3>Keynote matinale (09h00-09h45)</h3>
-        <ul>
-          <li><strong>Intervenant :</strong> <em>Andreas Antonopoulos</em> - Expert blockchain mondiale</li>
-          <li><strong>Sujet :</strong> "Décentralisation financière en Afrique du Nord"</li>
-        </ul>
-        
-        <h3>Table ronde réglementation (10h00-11h30)</h3>
-        <ul>
-          <li><strong>Participants :</strong></li>
-          <li><em>Marouane El Abassi</em> - Gouverneur Banque Centrale Tunisie</li>
-          <li><em>Dr. Sheila Warren</em> - Crypto Council for Innovation</li>
-          <li><em>Me. Héla Baccouche</em> - Avocate spécialisée fintech</li>
-          <li><em>Saber Cherif</em> - CEO DigitalDinar (startup tunisienne)</li>
-        </ul>
-        
-        <h3>Démonstrations techniques (14h00-16h30)</h3>
-        <ul>
-          <li><strong>Smart contracts</strong> - Cas d'usage gouvernementaux</li>
-          <li><strong>DeFi protocols</strong> - Application microfinance rurale</li>
-          <li><strong>NFT et patrimoine</strong> - Digitalisation sites UNESCO Tunisie</li>
-          <li><strong>Stablecoins</strong> - Solutions pour l'inclusion financière</li>
-        </ul>
-        
-        <h4>Pitch Session Startups (16h30-18h00)</h4>
-        <ul>
-          <li><strong>12 startups sélectionnées</strong> présentent leurs innovations</li>
-          <li><strong>Jury d'investisseurs</strong> internationaux</li>
-          <li><strong>Prix innovation :</strong> 50 000 euros + incubation</li>
-        </ul>
-        
-        <h2>Programme - Jour 3 (22 juin) - IoT &amp; Smart Cities</h2>
-        
-        <h3>Présentation cas d'usage (09h00-10h30)</h3>
-        <ul>
-          <li><strong>"Smart Tunis 2030"</strong> - Plan municipal numérique</li>
-          <li><strong>Agriculture connectée</strong> - Projet pilote Zaghouan</li>
-          <li><strong>Santé digitale</strong> - Télémédecine zones rurales</li>
-          <li><strong>Transport intelligent</strong> - Métro de Tunis connecté</li>
-        </ul>
-        
-        <h3>Laboratoire innovation (11h00-16h00)</h3>
-        <ul>
-          <li><strong>Hackathon express</strong> - Défis Smart City en 5h</li>
-          <li><strong>Équipes mixtes</strong> - Développeurs, designers, experts métier</li>
-          <li><strong>Mentors internationaux</strong> - Accompagnement personnalisé</li>
-          <li><strong>Technologies fournies :</strong> Capteurs IoT, plateformes cloud</li>
-        </ul>
-        
-        <h4>Cérémonie de clôture (16h00-18h00)</h4>
-        <ul>
-          <li><strong>Remise des prix</strong> - Hackathon et pitch startups</li>
-          <li><strong>Signature d'accords</strong> - Partenariats internationaux</li>
-          <li><strong>Annonce TunisTech 2026</strong> - Thématiques futures</li>
-          <li><strong>Cocktail networking</strong> - Terrasse panoramique</li>
-        </ul>
-        
-        <h2>Exposition technologique</h2>
-        
-        <h3>Pavillon entreprises (80 exposants)</h3>
-        <ul>
-          <li><strong>Multinationales :</strong> Microsoft, Google, Amazon, IBM</li>
-          <li><strong>Champions régionaux :</strong> Ooredoo, Orange, Telnet</li>
-          <li><strong>Startups tunisiennes :</strong> 30 entreprises émergentes</li>
-          <li><strong>Organismes publics :</strong> ANSI, Smart Tunisia, CEPEX</li>
-        </ul>
-        
-        <h3>Zones de démonstration</h3>
-        <ul>
-          <li><strong>Réalité virtuelle/augmentée :</strong> Applications éducatives</li>
-          <li><strong>Robotique :</strong> Robots collaboratifs industrie 4.0</li>
-          <li><strong>Cybersécurité :</strong> Solutions anti-piratage</li>
-          <li><strong>Cloud computing :</strong> Infrastructure as a Service</li>
-        </ul>
-        
-        <h4>Espace innovation étudiante</h4>
-        <ul>
-          <li><strong>25 projets</strong> d'écoles d'ingénieurs tunisiennes</li>
-          <li><strong>Concours</strong> meilleur projet étudiant (5000 DT)</li>
-          <li><strong>Bourses d'études</strong> offertes par les sponsors</li>
-          <li><strong>Stages proposés</strong> dans entreprises partenaires</li>
-        </ul>
-        
-        <h2>Informations pratiques</h2>
-        
-        <h3>Inscription et tarifs</h3>
-        <ul>
-          <li><strong>Pass 3 jours complet :</strong> 350 DT (450 DT sur place)</li>
-          <li><strong>Pass journalier :</strong> 150 DT</li>
-          <li><strong>Étudiants et chercheurs :</strong> 100 DT (3 jours)</li>
-          <li><strong>Startups exposantes :</strong> 800 DT (stand inclus)</li>
-          <li><strong>Entreprises sponsors :</strong> Packages de 5000 à 50000 DT</li>
-        </ul>
-        
-        <h3>Services inclus</h3>
-        <ul>
-          <li><strong>Kit participant :</strong> Badge, programme, goodies tech</li>
-          <li><strong>Restauration :</strong> Pauses café et déjeuners buffet</li>
-          <li><strong>Application mobile :</strong> Programme, networking, questions</li>
-          <li><strong>Traduction simultanée :</strong> Français/Anglais/Arabe</li>
-          <li><strong>Certificat de participation :</strong> Crédits formation continue</li>
-        </ul>
-        
-        <h4>Hébergement partenaire</h4>
-        <ul>
-          <li><strong>Hôtel Four Points :</strong> -20% participants TunisTech</li>
-          <li><strong>Movenpick Tunis :</strong> Navette gratuite Palais des Congrès</li>
-          <li><strong>Villa Didon Carthage :</strong> Package VIP avec spa</li>
-          <li><strong>Résidences étudiantes :</strong> Solutions économiques -26 ans</li>
-        </ul>
-        
-        <h2>Partenaires et sponsors</h2>
-        
-        <h3>Sponsors platine</h3>
-        <ul>
-          <li><strong>Huawei Technologies</strong> - Partenaire technologique principal</li>
-          <li><strong>Banque Mondiale</strong> - Soutien programme innovation</li>
-          <li><strong>Union Européenne</strong> - Projet Horizon Digital</li>
-        </ul>
-        
-        <h3>Partenaires institutionnels</h3>
-        <ul>
-          <li><strong>Ministère TIC</strong> - Organisateur officiel</li>
-          <li><strong>UTICA</strong> - Patronat tunisien</li>
-          <li><strong>Université de Tunis</strong> - Partenaire académique</li>
-          <li><strong>ANSI</strong> - Agence Nationale Sécurité Informatique</li>
-        </ul>
-        
-        <p>Le ministre des TIC <strong>Nizar Ben Neji</strong> affirme : <em>"TunisTech 2025 consacre l'ambition de la Tunisie de devenir le laboratoire numérique de l'Afrique et un pont technologique vers l'Europe."</em></p>
-        
-        <p>Inscriptions : <a href="https://www.tunistech.tn">www.tunistech.tn</a> - Contact : +216 71 847 200</p>
-      </content>
-      <location>
-        <title>Palais des Congrès de Tunis</title>
-        <address>Avenue du Docteur Zoheir Essafi, Les Berges du Lac</address>
-        <postalCode>1053</postalCode>
-        <city>Tunis</city>
-        <latitude>36.8419</latitude>
-        <longitude>10.2243</longitude>
-      </location>
-    </item>
-    
-    <item>
-      <title>Festival International du Film Amateur de Tunis - FIFAT 2025</title>
-      <category>Cinéma</category>
-      <summary>12ème édition du festival dédié au cinéma amateur et indépendant avec 180 films en compétition de 45 pays, projections en plein air et masterclass avec des réalisateurs renommés.</summary>
-      <pubDate>2025-05-22T14:00:00Z</pubDate>
-      <updateDate>2025-05-31T10:30:00Z</updateDate>
-      <eventStartDate>2025-07-18</eventStartDate>
-      <eventEndDate>2025-07-25</eventEndDate>
-      <eventStartTime>19:00</eventStartTime>
-      <eventEndTime>23:30</eventEndTime>
-      <mainImage>https://images.unsplash.com/photo-1489599124536-05b29833c68a?w=800&amp;h=600</mainImage>
-      <imageCaption>Projection en plein air lors du FIFAT 2024 dans les jardins de Carthage</imageCaption>
-      <content>
-        <h1>Vitrine du talent cinématographique émergent</h1>
-        <p>Le <strong>Festival International du Film Amateur de Tunis (FIFAT)</strong> célèbre sa 12ème édition avec une sélection exceptionnelle de <strong>180 films</strong> provenant de <strong>45 pays</strong>. Cet événement unique valorise la créativité indépendante et la diversité culturelle mondiale.</p>
-        
-        <h2>Sélection officielle 2025</h2>
-        
-        <h3>Compétition Longs Métrages (25 films)</h3>
-        <ul>
-          <li><strong>"Le Gardien des Oliviers"</strong> - Mehdi Jemli (Tunisie) - Drame rural</li>
-          <li><strong>"Tokyo Nocturne"</strong> - Haruka Tanaka (Japon) - Romance urbaine</li>
-          <li><strong>"Retour à Alger"</strong> - Sophia Benali (Algérie) - Récit diaspora</li>
-          <li><strong>"The Last Shepherd"</strong> - Giovanni Rossi (Italie) - Documentaire</li>
-          <li><strong>"Fragments of Memory"</strong> - Sarah Johnson (Canada) - Thriller psychologique</li>
-        </ul>
-        
-        <h3>Compétition Courts Métrages (85 films)</h3>
-        <ul>
-          <li><strong>Section Fiction :</strong> 35 films (max 30 minutes)</li>
-          <li><strong>Section Documentaire :</strong> 25 films</li>
-          <li><strong>Section Animation :</strong> 15 films</li>
-          <li><strong>Section Expérimentale :</strong> 10 films</li>
-        </ul>
-        
-        <h4>Programmation spéciale (70 films)</h4>
-        <ul>
-          <li><strong>Focus Maghreb :</strong> 20 films du Maghreb contemporain</li>
-          <li><strong>Panorama Africain :</strong> 15 films d'Afrique subsaharienne</li>
-          <li><strong>Cinéma étudiant :</strong> 20 films d'écoles de cinéma</li>
-          <li><strong>Carte blanche femmes :</strong> 15 films de réalisatrices</li>
-        </ul>
-        
-        <h2>Programme quotidien détaillé</h2>
-        
-        <h3>Journée type (exemple 20 juillet)</h3>
-        
-        <h4>Après-midi - Formations (14h00-18h00)</h4>
-        <ul>
-          <li><strong>14h00-15h30 :</strong> Masterclass "Écriture de scénario" - <em>Nouri Bouzid</em></li>
-          <li><strong>16h00-17h30 :</strong> Atelier "Montage numérique" - Logiciels gratuits</li>
-          <li><strong>17h30-18h00 :</strong> Rencontre producteurs tunisiens</li>
-        </ul>
-        
-        <h4>Soirée - Projections (19h00-23h30)</h4>
-        <ul>
-          <li><strong>19h00-19h15 :</strong> Accueil et présentation de la soirée</li>
-          <li><strong>19h15-20h45 :</strong> Bloc courts métrages fiction (5 films)</li>
-          <li><strong>21h00-22h45 :</strong> Long métrage en compétition + débat</li>
-          <li><strong>23h00-23h30 :</strong> Concert live - Artistes émergents tunisiens</li>
-        </ul>
-        
-        <h2>Lieux de projection et capacités</h2>
-        
-        <h3>Sites principaux</h3>
-        <ul>
-          <li><strong>Cinéma Pathé Mall of Sousse :</strong> 350 places - Projections premium</li>
-          <li><strong>Centre Culturel International :</strong> 200 places - Films d'auteur</li>
-          <li><strong>Théâtre de l'Opéra :</strong> 1200 places - Cérémonie ouverture/clôture</li>
-          <li><strong>Cinémathèque Tunisienne :</strong> 120 places - Rétrospectives</li>
-        </ul>
-        
-        <h3>Projections en plein air (nouveauté 2025)</h3>
-        <ul>
-          <li><strong>Jardins de Carthage :</strong> 800 places assises sur gradins</li>
-          <li><strong>Parc Belvédère :</strong> 500 places - Soirées famille</li>
-          <li><strong>Médina de Tunis :</strong> 300 places - Ambiance authentique</li>
-          <li><strong>Plage de Gammarth :</strong> 400 places - Cinéma les pieds dans le sable</li>
-        </ul>
-        
-        <h4>Équipements techniques</h4>
-        <ul>
-          <li><strong>Projecteurs 4K</strong> pour toutes les salles</li>
-          <li><strong>Son Dolby Atmos</strong> dans les sites principaux</li>
-          <li><strong>Écrans géants LED</strong> 15m x 8m pour plein air</li>
-          <li><strong>Traduction simultanée</strong> disponible (4 langues)</li>
-        </ul>
-        
-        <h2>Masterclass et formations</h2>
-        
-        <h3>Intervenants prestigieux</h3>
-        <ul>
-          <li><strong>Nouri Bouzid</strong> - Réalisateur "L'Homme de cendres"</li>
-          <li><strong>Kalthoum Bornaz</strong> - Monteuse internationale</li>
-          <li><strong>Férid Boughedir</strong> - Critique et réalisateur</li>
-          <li><strong>Leyla Bouzid</strong> - Réalisatrice "À peine j'ouvre les yeux"</li>
-          <li><strong>Invité surprise international</strong> - Annonce le 15 juillet</li>
-        </ul>
-        
-        <h3>Ateliers pratiques (gratuits)</h3>
-        <ul>
-          <li><strong>"Smartphone filmmaking"</strong> - Réaliser avec son téléphone</li>
-          <li><strong>"Sound design"</strong> - Création sonore pour courts métrages</li>
-          <li><strong>"Étalonnage numérique"</strong> - Colorimétrie professionnelle</li>
-          <li><strong>"Effets spéciaux"</strong> - Logiciels open source</li>
-          <li><strong>"Financement participatif"</strong> - Crowdfunding pour cinéastes</li>
-        </ul>
-        
-        <h4>Parcours professionnel</h4>
-        <ul>
-          <li><strong>Pitch sessions</strong> - Présentation projets devant producteurs</li>
-          <li><strong>Speed networking</strong> - Rencontres rapides professionnels</li>
-          <li><strong>Marché du film</strong> - Vente et distribution</li>
-          <li><strong>Tables rondes</strong> - Industrie cinématographique tunisienne</li>
-        </ul>
-        
-        <h2>Concours et prix</h2>
-        
-        <h3>Jury international</h3>
-        <ul>
-          <li><strong>Présidente :</strong> <em>Moufida Tlatli</em> - Réalisatrice "Les Silences du Palais"</li>
-          <li><strong>Membres :</strong></li>
-          <li><em>Abderrahmane Sissako</em> - Réalisateur mauritanien</li>
-          <li><em>Yamina Bachir</em> - Productrice franco-algérienne</li>
-          <li><em>Roberto Andò</em> - Réalisateur italien</li>
-          <li><em>Nejib Belkadhi</em> - Réalisateur tunisien</li>
-        </ul>
-        
-        <h3>Palmares et dotations</h3>
-        <ul>
-          <li><strong>Tanit d'Or Long Métrage :</strong> 15 000 DT + distribution</li>
-          <li><strong>Tanit d'Argent Court Métrage :</strong> 8 000 DT</li>
-          <li><strong>Prix du Public :</strong> 5 000 DT (vote en ligne)</li>
-          <li><strong>Prix Jeune Talent :</strong> Formation à l'École Femis Paris</li>
-          <li><strong>Prix Innovation Technique :</strong> Équipement audiovisuel</li>
-          <li><strong>Mention spéciale Maghreb :</strong> Coproduction avec 2M Maroc</li>
-        </ul>
-        
-        <h4>Partenariats distributeurs</h4>
-        <ul>
-          <li><strong>Netflix MENA</strong> - Sélection pour catalogue</li>
-          <li><strong>Arte France</strong> - Diffusion documentaires</li>
-          <li><strong>Cinémas Pathé Tunisie</strong> - Programmation commerciale</li>
-          <li><strong>Plateforme VOD Aflamuna</strong> - Distribution numérique</li>
-        </ul>
-        
-        <h2>Billetterie et accès</h2>
-        
-        <h3>Pass et tarification</h3>
-        <ul>
-          <li><strong>Pass Festival (8 jours) :</strong> 80 DT - Accès toutes projections</li>
-          <li><strong>Pass Étudiant :</strong> 40 DT (sur présentation carte)</li>
-          <li><strong>Pass Soirée :</strong> 15 DT (3 films maximum)</li>
-          <li><strong>Pass Plein Air :</strong> 10 DT - Projections extérieures uniquement</li>
-          <li><strong>Pass VIP :</strong> 200 DT - Accès privilégié + cocktails</li>
-        </ul>
-        
-        <h3>Services premium</h3>
-        <ul>
-          <li><strong>Avant-premières privées</strong> avec équipes de films</li>
-          <li><strong>Déjeuners-débats</strong> avec personnalités du cinéma</li>
-          <li><strong>Masterclass exclusives</strong> en petit comité</li>
-          <li><strong>Soirée de clôture</strong> avec dîner de gala</li>
-        </ul>
-        
-        <h4>Facilités pratiques</h4>
-        <ul>
-          <li><strong>Navettes gratuites</strong> entre sites de projection</li>
-          <li><strong>Parking réservé</strong> festivaliers (tarif préférentiel)</li>
-          <li><strong>Consigne bagages</strong> à la Cinémathèque</li>
-          <li><strong>Point restauration</strong> sur chaque site</li>
-          <li><strong>WiFi gratuit</strong> dans tous les lieux</li>
-        </ul>
-        
-        <h2>Impact culturel et économique</h2>
-        
-        <h3>Rayonnement international</h3>
-        <ul>
-          <li><strong>Couverture médiatique :</strong> 25 pays représentés</li>
-          <li><strong>Retransmission :</strong> Cérémonie sur TV5 Monde</li>
-          <li><strong>Streaming :</strong> Sélection films sur plateforme dédiée</li>
-          <li><strong>Critiques :</strong> Présence Variety, Screen International</li>
-        </ul>
-        
-        <h3>Retombées locales</h3>
-        <ul>
-          <li><strong>Visiteurs attendus :</strong> 15 000 personnes sur 8 jours</li>
-          <li><strong>Nuitées hôtelières :</strong> +3 000 réservations</li>
-          <li><strong>Emplois temporaires :</strong> 120 postes techniques/logistique</li>
-          <li><strong>Restauration :</strong> Partenariat avec 30 établissements</li>
-        </ul>
-        
-        <p>La directrice artistique <strong>Dorra Bouchoucha</strong> souligne : <em>"Le FIFAT est devenu un tremplin essentiel pour la nouvelle génération de cinéastes arabes et africains, favorisant les coproductions et les échanges culturels."</em></p>
-        
-        <p>Programme complet et billetterie : <a href="https://www.fifat.tn">www.fifat.tn</a> - Infos : 71 789 123</p>
-      </content>
-      <location>
-        <title>Cinémathèque Tunisienne</title>
-        <address>24 Rue Pierre de Coubertin, Cité Olympique</address>
-        <postalCode>1003</postalCode>
-        <city>Tunis</city>
-        <latitude>36.8214</latitude>
-        <longitude>10.1953</longitude>
-      </location>
-    </item>
-  </channel>
+<events>
+    <event>
+        <title>Festival de la côte méditerranéenne</title>
+        <category>Culture</category>
+        <summary>Un événement exceptionnel célébrant la richesse culturelle et artistique de notre région méditerranéenne.</summary>
+        <pubDate>2024-06-01T10:00:00Z</pubDate>
+        <updateDate>2024-06-05T14:30:00Z</updateDate>
+        <eventStartDate>2024-07-15</eventStartDate>
+        <eventEndDate>2024-07-17</eventEndDate>
+        <eventStartTime>18:00</eventStartTime>
+        <eventEndTime>23:00</eventEndTime>
+        <mainImage>https://example.com/images/festival-mediterraneen.jpg</mainImage>
+        <imageCaption>Scène principale du festival avec vue sur la mer</imageCaption>
+        <content>
+            <h1>Un festival unique en bord de mer</h1>
+            <p>Venez découvrir trois jours de festivités exceptionnelles dans un cadre idyllique face à la Méditerranée. Au programme : concerts, expositions, gastronomie locale et animations pour toute la famille.</p>
+            
+            <h2>Programme des festivités</h2>
+            <ul>
+                <li>Concerts de musique traditionnelle et moderne</li>
+                <li>Expositions d'artistes locaux</li>
+                <li>Marchés de produits du terroir</li>
+                <li>Animations pour enfants</li>
+                <li>Spectacles de rue</li>
+            </ul>
+            
+            <h3>Informations pratiques</h3>
+            <p>L'événement se déroule en plein air. En cas de mauvais temps, des espaces couverts sont prévus. Restauration sur place avec des spécialités régionales.</p>
+        </content>
+        <location>
+            <title>Esplanade du Port</title>
+            <address>Avenue de la Méditerranée</address>
+            <postalCode>06000</postalCode>
+            <city>Nice</city>
+            <latitude>43.6962</latitude>
+            <longitude>7.2667</longitude>
+        </location>
+    </event>
+
+    <event>
+        <title>Marché nocturne d'été</title>
+        <category>Commerce</category>
+        <summary>Découvrez l'ambiance unique de notre marché nocturne estival, mêlant artisanat local et produits du terroir.</summary>
+        <pubDate>2024-06-03T09:00:00Z</pubDate>
+        <updateDate>2024-06-05T12:00:00Z</updateDate>
+        <eventStartDate>2024-06-15</eventStartDate>
+        <eventEndDate>2024-09-15</eventEndDate>
+        <eventStartTime>19:00</eventStartTime>
+        <eventEndTime>24:00</eventEndTime>
+        <mainImage>https://example.com/images/marche-nocturne.jpg</mainImage>
+        <imageCaption>Ambiance chaleureuse du marché nocturne</imageCaption>
+        <content>
+            <h1>Marché nocturne tous les vendredis</h1>
+            <p>Chaque vendredi soir de l'été, la place du village s'anime avec notre marché nocturne traditionnel. Producteurs locaux, artisans et restaurateurs vous accueillent dans une ambiance conviviale.</p>
+        </content>
+        <location>
+            <title>Place du Village</title>
+            <address>Place de la République</address>
+            <postalCode>06100</postalCode>
+            <city>Antibes</city>
+            <latitude>43.5805</latitude>
+            <longitude>7.1252</longitude>
+        </location>
+    </event>
+
+    <event>
+        <title>Conférence sur le patrimoine architectural</title>
+        <category>Patrimoine</category>
+        <summary>Une conférence passionnante sur l'évolution de l'architecture méditerranéenne à travers les siècles.</summary>
+        <pubDate>2024-06-04T14:00:00Z</pubDate>
+        <updateDate>2024-06-05T16:00:00Z</updateDate>
+        <eventStartDate>2024-06-20</eventStartDate>
+        <eventEndDate>2024-06-20</eventEndDate>
+        <eventStartTime>20:00</eventStartTime>
+        <eventEndTime>22:30</eventEndTime>
+        <mainImage>https://example.com/images/conference-patrimoine.jpg</mainImage>
+        <imageCaption>Salle de conférence avec vue sur les monuments historiques</imageCaption>
+        <content>
+            <h1>Architecture méditerranéenne : un héritage millénaire</h1>
+            <p>Rejoignez-nous pour une conférence exceptionnelle animée par des experts en patrimoine architectural. Découvrez l'évolution des techniques de construction et l'influence des différentes civilisations sur notre architecture locale.</p>
+        </content>
+        <location>
+            <title>Centre Culturel Municipal</title>
+            <address>12 Rue de la Culture</address>
+            <postalCode>06300</postalCode>
+            <city>Cannes</city>
+            <latitude>43.5513</latitude>
+            <longitude>7.0128</longitude>
+        </location>
+    </event>
 </events>
