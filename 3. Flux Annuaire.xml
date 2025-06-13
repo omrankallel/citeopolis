@@ -100,25 +100,25 @@
     <additionalInformation>Terrasse, réservation conseillée, menu enfant disponible</additionalInformation>
     <schedule>
       <day name="Mardi">
-        <time>12:00-14:00, 19:00-22:30</time>
+        <datetime>12:00-14:00, 19:00-22:30</datetime>
       </day>
       <day name="Mercredi">
-        <time>12:00-14:00, 19:00-22:30</time>
+        <datetime>12:00-14:00, 19:00-22:30</datetime>
       </day>
       <day name="Jeudi">
-        <time>12:00-14:00, 19:00-22:30</time>
+        <datetime>12:00-14:00, 19:00-22:30</datetime>
       </day>
       <day name="Vendredi">
-        <time>12:00-14:00, 19:00-22:30</time>
+        <datetime>12:00-14:00, 19:00-22:30</datetime>
       </day>
       <day name="Samedi">
-        <time>12:00-14:00, 19:00-23:00</time>
+        <datetime>12:00-14:00, 19:00-23:00</datetime>
       </day>
       <day name="Dimanche">
-        <time>12:00-14:00</time>
+        <datetime>12:00-14:00</datetime>
       </day>
       <day name="Lundi">
-        <time>Fermé</time>
+        <datetime>Fermé</datetime>
       </day>
     </schedule>
     <website>https://www.restaurant-mediterranee.fr</website>
@@ -168,7 +168,7 @@
     <additionalInformation>Piscine, spa, restaurant, bar, parking, WiFi, climatisation</additionalInformation>
     <schedule>
       <day name="Réception">
-        <time>24h/24</time>
+        <datetime>24h/24</datetime>
       </day>
     </schedule>
     <website>https://www.hotel-vue-mer.com</website>
