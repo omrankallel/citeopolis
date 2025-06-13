@@ -76,7 +76,7 @@
     <summary>Restaurant gastronomique spécialisé dans la cuisine méditerranéenne authentique. Terrasse avec vue panoramique sur la mer.</summary>
     <pubDate>2024-06-02T11:00:00Z</pubDate>
     <updateDate>2024-06-04T15:30:00Z</updateDate>
-    <mainImage>https://example.com/images/restaurant-mediterranee.jpg</mainImage>
+    <mainImage>https://images.unsplash.com/photo-1551698618-1dfe5d97d256?w=800&amp;h=600</mainImage>
     <imageCaption>Terrasse du restaurant avec vue mer</imageCaption>
     <content>
       <h1>Cuisine authentique en bord de mer</h1>
@@ -132,6 +132,9 @@
     </contact>
     <facebook>https://facebook.com/RestaurantMediterranee</facebook>
     <instagram>https://instagram.com/restaurant_mediterranee</instagram>
+    <twitter>https://twitter.com/OTCotedAzur</twitter>
+    <linkedin>https://linkedin.com/company/ot-cotedazur</linkedin>
+    <youtube>https://youtube.com/OTCotedAzur</youtube>
   </entry>
   <entry>
     <title>Hôtel Vue Mer</title>
@@ -139,7 +142,7 @@
     <summary>Hôtel 4 étoiles en bord de mer offrant un confort moderne et des services de qualité dans un cadre exceptionnel.</summary>
     <pubDate>2024-06-03T08:00:00Z</pubDate>
     <updateDate>2024-06-05T10:00:00Z</updateDate>
-    <mainImage>https://example.com/images/hotel-vue-mer.jpg</mainImage>
+    <mainImage>https://images.unsplash.com/photo-1551698618-1dfe5d97d256?w=800&amp;h=600</mainImage>
     <imageCaption>Façade de l'hôtel avec piscine et vue mer</imageCaption>
     <content>
       <h1>Séjour d'exception face à la Méditerranée</h1>
@@ -180,6 +183,8 @@
     </contact>
     <facebook>https://facebook.com/HotelVueMer</facebook>
     <instagram>https://instagram.com/hotel_vue_mer</instagram>
-    <linkedin>https://linkedin.com/company/hotel-vue-mer</linkedin>
+    <twitter>https://twitter.com/OTCotedAzur</twitter>
+    <linkedin>https://linkedin.com/company/ot-cotedazur</linkedin>
+    <youtube>https://youtube.com/OTCotedAzur</youtube>
   </entry>
 </directory>
