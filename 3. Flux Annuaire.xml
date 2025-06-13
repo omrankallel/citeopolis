@@ -1,191 +1,185 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <directory>
-    <entry>
-        <title>Office de Tourisme Côte d'Azur</title>
-        <category>Services publics</category>
-        <summary>Votre point d'information privilégié pour découvrir toutes les richesses de la région. Accueil, documentation et conseils personnalisés.</summary>
-        <pubDate>2024-06-01T10:00:00Z</pubDate>
-        <updateDate>2024-06-05T14:30:00Z</updateDate>
-        <mainImage>https://images.unsplash.com/photo-1551698618-1dfe5d97d256?w=800&amp;h=600</mainImage>
-        <imageCaption>Façade de l'Office de Tourisme avec vue sur la mer</imageCaption>
-        <content>
-            <h1>Votre guide local</h1>
-            <p>L'Office de Tourisme vous accompagne dans la découverte de notre magnifique région. Notre équipe d'experts locaux vous propose des conseils personnalisés, des documentations gratuites et des services de réservation.</p>
-            
-            <h2>Nos services</h2>
-            <ul>
-                <li>Information touristique gratuite</li>
-                <li>Réservation d'hébergements</li>
-                <li>Billetterie pour les spectacles et événements</li>
-                <li>Visites guidées</li>
-                <li>Documentation multilingue</li>
-            </ul>
-            
-            <h3>Équipe multilingue</h3>
-            <p>Notre personnel parle français, anglais, italien et espagnol pour mieux vous accueillir.</p>
-        </content>
-        <location>
-            <title>Office de Tourisme Principal</title>
-            <address>5 Promenade des Anglais</address>
-            <postalCode>06000</postalCode>
-            <city>Nice</city>
-            <latitude>43.6978</latitude>
-            <longitude>7.2658</longitude>
-        </location>
-        <additionalInformation>WiFi gratuit, climatisation, accessibilité PMR</additionalInformation>
-        <schedule>
-            <day name="Lundi">
-                <time>09:00-18:00</time>
-            </day>
-            <day name="Mardi">
-                <time>09:00-18:00</time>
-            </day>
-            <day name="Mercredi">
-                <time>09:00-18:00</time>
-            </day>
-            <day name="Jeudi">
-                <time>09:00-18:00</time>
-            </day>
-            <day name="Vendredi">
-                <time>09:00-18:00</time>
-            </day>
-            <day name="Samedi">
-                <time>09:00-17:00</time>
-            </day>
-            <day name="Dimanche">
-                <time>10:00-16:00</time>
-            </day>
-        </schedule>
-        <website>https://www.ot-cotedazur.fr</website>
-        <phone1>+33 4 93 87 60 60</phone1>
-        <phone2>+33 4 93 87 60 61</phone2>
-        <email>contact@ot-cotedazur.fr</email>
-        <contact>
-            <firstName>Marie</firstName>
-            <lastName>Dubois</lastName>
-            <phone>+33 4 93 87 60 65</phone>
-            <email>marie.dubois@ot-cotedazur.fr</email>
-        </contact>
-        <facebook>https://facebook.com/OTCotedAzur</facebook>
-        <twitter>https://twitter.com/OTCotedAzur</twitter>
-        <instagram>https://instagram.com/ot_cotedazur</instagram>
-        <linkedin>https://linkedin.com/company/ot-cotedazur</linkedin>
-        <youtube>https://youtube.com/OTCotedAzur</youtube>
-    </entry>
-
-    <entry>
-        <title>Restaurant La Méditerranée</title>
-        <category>Restauration</category>
-        <summary>Restaurant gastronomique spécialisé dans la cuisine méditerranéenne authentique. Terrasse avec vue panoramique sur la mer.</summary>
-        <pubDate>2024-06-02T11:00:00Z</pubDate>
-        <updateDate>2024-06-04T15:30:00Z</updateDate>
-        <mainImage>https://example.com/images/restaurant-mediterranee.jpg</mainImage>
-        <imageCaption>Terrasse du restaurant avec vue mer</imageCaption>
-        <content>
-            <h1>Cuisine authentique en bord de mer</h1>
-            <p>Découvrez notre carte élaborée avec des produits frais de la région. Notre chef vous propose une cuisine méditerranéenne raffinée dans un cadre exceptionnel face à la mer.</p>
-            
-            <h2>Spécialités de la maison</h2>
-            <ul>
-                <li>Bouillabaisse traditionnelle</li>
-                <li>Poissons grillés du jour</li>
-                <li>Salade niçoise authentique</li>
-                <li>Ratatouille de légumes du soleil</li>
-            </ul>
-        </content>
-        <location>
-            <title>Restaurant La Méditerranée</title>
-            <address>15 Quai des Pêcheurs</address>
-            <postalCode>06220</postalCode>
-            <city>Vallauris</city>
-            <latitude>43.5778</latitude>
-            <longitude>7.0582</longitude>
-        </location>
-        <additionalInformation>Terrasse, réservation conseillée, menu enfant disponible</additionalInformation>
-        <schedule>
-            <day name="Mardi">
-                <time>12:00-14:00, 19:00-22:30</time>
-            </day>
-            <day name="Mercredi">
-                <time>12:00-14:00, 19:00-22:30</time>
-            </day>
-            <day name="Jeudi">
-                <time>12:00-14:00, 19:00-22:30</time>
-            </day>
-            <day name="Vendredi">
-                <time>12:00-14:00, 19:00-22:30</time>
-            </day>
-            <day name="Samedi">
-                <time>12:00-14:00, 19:00-23:00</time>
-            </day>
-            <day name="Dimanche">
-                <time>12:00-14:00</time>
-            </day>
-            <day name="Lundi">
-                <time>Fermé</time>
-            </day>
-        </schedule>
-        <website>https://www.restaurant-mediterranee.fr</website>
-        <phone1>+33 4 93 64 71 23</phone1>
-        <email>reservation@restaurant-mediterranee.fr</email>
-        <contact>
-            <firstName>Pierre</firstName>
-            <lastName>Martin</lastName>
-            <phone>+33 4 93 64 71 23</phone>
-            <email>pierre.martin@restaurant-mediterranee.fr</email>
-        </contact>
-        <facebook>https://facebook.com/RestaurantMediterranee</facebook>
-        <instagram>https://instagram.com/restaurant_mediterranee</instagram>
-    </entry>
-
-    <entry>
-        <title>Hôtel Vue Mer</title>
-        <category>Hébergement</category>
-        <summary>Hôtel 4 étoiles en bord de mer offrant un confort moderne et des services de qualité dans un cadre exceptionnel.</summary>
-        <pubDate>2024-06-03T08:00:00Z</pubDate>
-        <updateDate>2024-06-05T10:00:00Z</updateDate>
-        <mainImage>https://example.com/images/hotel-vue-mer.jpg</mainImage>
-        <imageCaption>Façade de l'hôtel avec piscine et vue mer</imageCaption>
-        <content>
-            <h1>Séjour d'exception face à la Méditerranée</h1>
-            <p>Notre hôtel 4 étoiles vous propose 45 chambres et suites avec vue mer ou jardin. Profitez de notre piscine chauffée, spa et restaurant gastronomique.</p>
-            
-            <h2>Services et équipements</h2>
-            <ul>
-                <li>Piscine chauffée avec vue mer</li>
-                <li>Spa et centre de bien-être</li>
-                <li>Restaurant gastronomique</li>
-                <li>Bar lounge avec terrasse</li>
-                <li>WiFi gratuit</li>
-                <li>Parking privé</li>
-            </ul>
-        </content>
-        <location>
-            <title>Hôtel Vue Mer</title>
-            <address>8 Boulevard de la Corniche</address>
-            <postalCode>06160</postalCode>
-            <city>Juan-les-Pins</city>
-            <latitude>43.5672</latitude>
-            <longitude>7.1189</longitude>
-        </location>
-        <additionalInformation>Piscine, spa, restaurant, bar, parking, WiFi, climatisation</additionalInformation>
-        <schedule>
-            <day name="Réception">
-                <time>24h/24</time>
-            </day>
-        </schedule>
-        <website>https://www.hotel-vue-mer.com</website>
-        <phone1>+33 4 93 61 45 89</phone1>
-        <phone2>+33 4 93 61 45 90</phone2>
-        <email>contact@hotel-vue-mer.com</email>
-        <contact>
-            <firstName>Sophie</firstName>
-            <lastName>Leroy</lastName>
-            <phone>+33 4 93 61 45 89</phone>
-            <email>direction@hotel-vue-mer.com</email>
-        </contact>
-        <facebook>https://facebook.com/HotelVueMer</facebook>
-        <instagram>https://instagram.com/hotel_vue_mer</instagram>
-        <linkedin>https://linkedin.com/company/hotel-vue-mer</linkedin>
-    </entry>
+  <entry>
+    <title>Office de Tourisme Côte d'Azur</title>
+    <category>Services publics</category>
+    <summary>Votre point d'information privilégié pour découvrir toutes les richesses de la région. Accueil, documentation et conseils personnalisés.</summary>
+    <pubDate>2024-06-01T10:00:00Z</pubDate>
+    <updateDate>2024-06-05T14:30:00Z</updateDate>
+    <mainImage>https://images.unsplash.com/photo-1551698618-1dfe5d97d256?w=800&amp;h=600</mainImage>
+    <imageCaption>Façade de l'Office de Tourisme avec vue sur la mer</imageCaption>
+    <content>
+      <h1>Votre guide local</h1>
+      <p>L'Office de Tourisme vous accompagne dans la découverte de notre magnifique région. Notre équipe d'experts locaux vous propose des conseils personnalisés, des documentations gratuites et des services de réservation.</p>
+      <h2>Nos services</h2>
+      <ul>
+        <li>Information touristique gratuite</li>
+        <li>Réservation d'hébergements</li>
+        <li>Billetterie pour les spectacles et événements</li>
+        <li>Visites guidées</li>
+        <li>Documentation multilingue</li>
+      </ul>
+      <h3>Équipe multilingue</h3>
+      <p>Notre personnel parle français, anglais, italien et espagnol pour mieux vous accueillir.</p>
+    </content>
+    <location>
+      <title>Office de Tourisme Principal</title>
+      <address>5 Promenade des Anglais</address>
+      <postalCode>06000</postalCode>
+      <city>Nice</city>
+      <latitude>43.6978</latitude>
+      <longitude>7.2658</longitude>
+    </location>
+    <additionalInformation>WiFi gratuit, climatisation, accessibilité PMR</additionalInformation>
+    <schedule>
+      <day name="Lundi">
+        <datetime>13/02/2024 09:00-18:00</datetime>
+      </day>
+      <day name="Mardi">
+        <datetime>14/02/2024 09:00-18:00</datetime>
+      </day>
+      <day name="Mercredi">
+        <datetime>15/02/2024 09:00-18:00</datetime>
+      </day>
+      <day name="Jeudi">
+        <datetime>16/02/2024 09:00-18:00</datetime>
+      </day>
+      <day name="Vendredi">
+        <datetime>17/02/2024 09:00-18:00</datetime>
+      </day>
+      <day name="Samedi">
+        <datetime>18/02/2024 09:00-17:00</datetime>
+      </day>
+      <day name="Dimanche">
+        <datetime>19/02/2024 10:00-16:00</datetime>
+      </day>
+    </schedule>
+    <website>https://www.ot-cotedazur.fr</website>
+    <phone1>+33 4 93 87 60 60</phone1>
+    <phone2>+33 4 93 87 60 61</phone2>
+    <email>contact@ot-cotedazur.fr</email>
+    <contact>
+      <firstName>Marie</firstName>
+      <lastName>Dubois</lastName>
+      <phone>+33 4 93 87 60 65</phone>
+      <email>marie.dubois@ot-cotedazur.fr</email>
+    </contact>
+    <facebook>https://facebook.com/OTCotedAzur</facebook>
+    <twitter>https://twitter.com/OTCotedAzur</twitter>
+    <instagram>https://instagram.com/ot_cotedazur</instagram>
+    <linkedin>https://linkedin.com/company/ot-cotedazur</linkedin>
+    <youtube>https://youtube.com/OTCotedAzur</youtube>
+  </entry>
+  <entry>
+    <title>Restaurant La Méditerranée</title>
+    <category>Restauration</category>
+    <summary>Restaurant gastronomique spécialisé dans la cuisine méditerranéenne authentique. Terrasse avec vue panoramique sur la mer.</summary>
+    <pubDate>2024-06-02T11:00:00Z</pubDate>
+    <updateDate>2024-06-04T15:30:00Z</updateDate>
+    <mainImage>https://example.com/images/restaurant-mediterranee.jpg</mainImage>
+    <imageCaption>Terrasse du restaurant avec vue mer</imageCaption>
+    <content>
+      <h1>Cuisine authentique en bord de mer</h1>
+      <p>Découvrez notre carte élaborée avec des produits frais de la région. Notre chef vous propose une cuisine méditerranéenne raffinée dans un cadre exceptionnel face à la mer.</p>
+      <h2>Spécialités de la maison</h2>
+      <ul>
+        <li>Bouillabaisse traditionnelle</li>
+        <li>Poissons grillés du jour</li>
+        <li>Salade niçoise authentique</li>
+        <li>Ratatouille de légumes du soleil</li>
+      </ul>
+    </content>
+    <location>
+      <title>Restaurant La Méditerranée</title>
+      <address>15 Quai des Pêcheurs</address>
+      <postalCode>06220</postalCode>
+      <city>Vallauris</city>
+      <latitude>43.5778</latitude>
+      <longitude>7.0582</longitude>
+    </location>
+    <additionalInformation>Terrasse, réservation conseillée, menu enfant disponible</additionalInformation>
+    <schedule>
+      <day name="Mardi">
+        <time>12:00-14:00, 19:00-22:30</time>
+      </day>
+      <day name="Mercredi">
+        <time>12:00-14:00, 19:00-22:30</time>
+      </day>
+      <day name="Jeudi">
+        <time>12:00-14:00, 19:00-22:30</time>
+      </day>
+      <day name="Vendredi">
+        <time>12:00-14:00, 19:00-22:30</time>
+      </day>
+      <day name="Samedi">
+        <time>12:00-14:00, 19:00-23:00</time>
+      </day>
+      <day name="Dimanche">
+        <time>12:00-14:00</time>
+      </day>
+      <day name="Lundi">
+        <time>Fermé</time>
+      </day>
+    </schedule>
+    <website>https://www.restaurant-mediterranee.fr</website>
+    <phone1>+33 4 93 64 71 23</phone1>
+    <email>reservation@restaurant-mediterranee.fr</email>
+    <contact>
+      <firstName>Pierre</firstName>
+      <lastName>Martin</lastName>
+      <phone>+33 4 93 64 71 23</phone>
+      <email>pierre.martin@restaurant-mediterranee.fr</email>
+    </contact>
+    <facebook>https://facebook.com/RestaurantMediterranee</facebook>
+    <instagram>https://instagram.com/restaurant_mediterranee</instagram>
+  </entry>
+  <entry>
+    <title>Hôtel Vue Mer</title>
+    <category>Hébergement</category>
+    <summary>Hôtel 4 étoiles en bord de mer offrant un confort moderne et des services de qualité dans un cadre exceptionnel.</summary>
+    <pubDate>2024-06-03T08:00:00Z</pubDate>
+    <updateDate>2024-06-05T10:00:00Z</updateDate>
+    <mainImage>https://example.com/images/hotel-vue-mer.jpg</mainImage>
+    <imageCaption>Façade de l'hôtel avec piscine et vue mer</imageCaption>
+    <content>
+      <h1>Séjour d'exception face à la Méditerranée</h1>
+      <p>Notre hôtel 4 étoiles vous propose 45 chambres et suites avec vue mer ou jardin. Profitez de notre piscine chauffée, spa et restaurant gastronomique.</p>
+      <h2>Services et équipements</h2>
+      <ul>
+        <li>Piscine chauffée avec vue mer</li>
+        <li>Spa et centre de bien-être</li>
+        <li>Restaurant gastronomique</li>
+        <li>Bar lounge avec terrasse</li>
+        <li>WiFi gratuit</li>
+        <li>Parking privé</li>
+      </ul>
+    </content>
+    <location>
+      <title>Hôtel Vue Mer</title>
+      <address>8 Boulevard de la Corniche</address>
+      <postalCode>06160</postalCode>
+      <city>Juan-les-Pins</city>
+      <latitude>43.5672</latitude>
+      <longitude>7.1189</longitude>
+    </location>
+    <additionalInformation>Piscine, spa, restaurant, bar, parking, WiFi, climatisation</additionalInformation>
+    <schedule>
+      <day name="Réception">
+        <time>24h/24</time>
+      </day>
+    </schedule>
+    <website>https://www.hotel-vue-mer.com</website>
+    <phone1>+33 4 93 61 45 89</phone1>
+    <phone2>+33 4 93 61 45 90</phone2>
+    <email>contact@hotel-vue-mer.com</email>
+    <contact>
+      <firstName>Sophie</firstName>
+      <lastName>Leroy</lastName>
+      <phone>+33 4 93 61 45 89</phone>
+      <email>direction@hotel-vue-mer.com</email>
+    </contact>
+    <facebook>https://facebook.com/HotelVueMer</facebook>
+    <instagram>https://instagram.com/hotel_vue_mer</instagram>
+    <linkedin>https://linkedin.com/company/hotel-vue-mer</linkedin>
+  </entry>
 </directory>
