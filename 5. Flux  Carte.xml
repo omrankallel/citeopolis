@@ -1,0 +1,744 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cartes>
+	<event>
+        <title>TI MANGÉ KREYOL</title>
+        <category>Marchés - Food truck</category>
+        <summary>Food truck spécialisé dans la cuisine créole authentique. Découvrez les saveurs des îles dans une ambiance conviviale et chaleureuse.</summary>
+        <pubDate>2024-06-15T10:00:00Z</pubDate>
+        <updateDate>2024-06-16T14:30:00Z</updateDate>
+        <eventStartDate>2024-07-01</eventStartDate>
+        <eventEndDate>2024-09-30</eventEndDate>
+        <eventStartTime>11:30</eventStartTime>
+        <eventEndTime>21:00</eventEndTime>
+        <mainImage>https://images.unsplash.com/photo-1565958011703-44f9829ba187?w=800&amp;h=600</mainImage>
+        <imageCaption>Food truck Ti Mangé Kreyol avec spécialités créoles</imageCaption>
+        <content>
+            <h1>Saveurs créoles authentiques</h1>
+            <p>Ti Mangé Kreyol vous propose une cuisine créole traditionnelle préparée avec des produits frais et des épices authentiques importées directement des Antilles.</p>
+            
+            <h2>Nos spécialités</h2>
+            <ul>
+                <li>Colombo de poulet aux légumes du soleil</li>
+                <li>Accras de morue croustillants</li>
+                <li>Boudin créole maison</li>
+                <li>Féroce d'avocat pimenté</li>
+                <li>Ti-punch et jus de fruits exotiques</li>
+            </ul>
+            
+            <h3>Horaires et disponibilité</h3>
+            <p>Ouvert du lundi au samedi de 11h30 à 21h. Fermé le dimanche. Commandes possibles par téléphone pour éviter l'attente.</p>
+        </content>
+        <location>
+            <title>Zone La Gaude</title>
+            <address>06610 LA GAUDE</address>
+            <postalCode>06610</postalCode>
+            <city>LA GAUDE</city>
+            <latitude>43.7204374</latitude>
+            <longitude>7.1783397</longitude>
+        </location>
+        <additionalInformation>Paiement par carte accepté, terrasse couverte disponible</additionalInformation>
+        <schedule>
+            <day name="Lundi">
+                <time>11:30-21:00</time>
+            </day>
+            <day name="Mardi">
+                <time>11:30-21:00</time>
+            </day>
+            <day name="Mercredi">
+                <time>11:30-21:00</time>
+            </day>
+            <day name="Jeudi">
+                <time>11:30-21:00</time>
+            </day>
+            <day name="Vendredi">
+                <time>11:30-21:00</time>
+            </day>
+            <day name="Samedi">
+                <time>11:30-21:00</time>
+            </day>
+            <day name="Dimanche">
+                <time>Fermé</time>
+            </day>
+        </schedule>
+        <website>https://www.ti-mange-kreyol.fr</website>
+        <phone1>+33 4 93 24 78 56</phone1>
+        <email>contact@ti-mange-kreyol.fr</email>
+        <contact>
+            <firstName>Marcus</firstName>
+            <lastName>Belmont</lastName>
+            <phone>+33 4 93 24 78 56</phone>
+            <email>marcus@ti-mange-kreyol.fr</email>
+        </contact>
+        <facebook>https://facebook.com/TiMangeKreyol</facebook>
+        <instagram>https://instagram.com/ti_mange_kreyol</instagram>
+        <download>
+            <icon>pdf</icon>
+            <title>Menu Ti Mangé Kreyol 2024</title>
+            <type>PDF</type>
+            <size>2.8 MB</size>
+            <link>https://drissas.com/wp-content/uploads/2023/01/FLUTTER-REVOLUTION.pdf</link>
+        </download>
+    </event>
+	<event>
+        <title>Cinéma La Coupole</title>
+        <category>Culture</category>
+        <summary>Cinéma moderne proposant les dernières nouveautés ainsi que des films d'art et d'essai dans un cadre confortable et accueillant.</summary>
+        <pubDate>2024-06-10T09:00:00Z</pubDate>
+        <updateDate>2024-06-15T16:00:00Z</updateDate>
+        <eventStartDate>2024-06-20</eventStartDate>
+        <eventEndDate>2024-12-31</eventEndDate>
+        <eventStartTime>14:00</eventStartTime>
+        <eventEndTime>23:30</eventEndTime>
+        <mainImage>https://images.unsplash.com/photo-1489185078261-bb86b64c7513?w=800&amp;h=600</mainImage>
+        <imageCaption>Salle de cinéma moderne avec écran panoramique</imageCaption>
+        <content>
+            <h1>Votre cinéma de proximité</h1>
+            <p>Le Cinéma La Coupole vous accueille dans ses salles climatisées équipées des dernières technologies pour une expérience cinématographique optimale.</p>
+            
+            <h2>Nos services</h2>
+            <ul>
+                <li>3 salles climatisées avec son Dolby Digital</li>
+                <li>Projections numériques HD et 4K</li>
+                <li>Séances en version française et originale sous-titrée</li>
+                <li>Tarifs réduits pour étudiants et seniors</li>
+                <li>Parking gratuit</li>
+                <li>Vente de confiseries et boissons</li>
+            </ul>
+            
+            <h3>Programmation spéciale</h3>
+            <p>Soirées thématiques le premier vendredi de chaque mois, festival du film court en novembre, avant-premières exclusives.</p>
+        </content>
+        <location>
+            <title>Cinéma La Coupole</title>
+            <address>7396, route de Cagnes sur Mer</address>
+            <postalCode>06610</postalCode>
+            <city>LA GAUDE</city>
+            <latitude>43.7206836</latitude>
+            <longitude>7.1495864</longitude>
+        </location>
+        <additionalInformation>Accessibilité PMR, parking gratuit, climatisation</additionalInformation>
+        <schedule>
+            <day name="Lundi">
+                <time>14:00-23:30</time>
+            </day>
+            <day name="Mardi">
+                <time>14:00-23:30</time>
+            </day>
+            <day name="Mercredi">
+                <time>14:00-23:30</time>
+            </day>
+            <day name="Jeudi">
+                <time>14:00-23:30</time>
+            </day>
+            <day name="Vendredi">
+                <time>14:00-23:30</time>
+            </day>
+            <day name="Samedi">
+                <time>10:00-23:30</time>
+            </day>
+            <day name="Dimanche">
+                <time>10:00-22:00</time>
+            </day>
+        </schedule>
+        <website>https://www.cinema-lacoupole.fr</website>
+        <phone1>+33 4 93 58 42 17</phone1>
+        <email>info@cinema-lacoupole.fr</email>
+        <contact>
+            <firstName>Sylvie</firstName>
+            <lastName>Moreau</lastName>
+            <phone>+33 4 93 58 42 17</phone>
+            <email>direction@cinema-lacoupole.fr</email>
+        </contact>
+        <facebook>https://facebook.com/CinemaLaCoupole</facebook>
+        <instagram>https://instagram.com/cinema_lacoupole</instagram>
+        <download>
+            <icon>pdf</icon>
+            <title>Programme cinéma juin 2024</title>
+            <type>PDF</type>
+            <size>1.2 MB</size>
+            <link>https://drissas.com/wp-content/uploads/2023/01/FLUTTER-REVOLUTION.pdf</link>
+        </download>
+    </event>
+	<event>
+        <title>Vélos électriques en libre service</title>
+        <category>Mobilité</category>
+        <summary>Service de vélos électriques en libre-service disponible 24h/24 sur plusieurs points de la commune pour faciliter vos déplacements.</summary>
+        <pubDate>2024-06-08T08:00:00Z</pubDate>
+        <updateDate>2024-06-14T12:00:00Z</updateDate>
+        <eventStartDate>2024-06-15</eventStartDate>
+        <eventEndDate>2024-12-31</eventEndDate>
+        <eventStartTime>00:00</eventStartTime>
+        <eventEndTime>23:59</eventEndTime>
+        <mainImage>https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&amp;h=600</mainImage>
+        <imageCaption>Station de vélos électriques en libre service</imageCaption>
+        <content>
+            <h1>Mobilité verte et pratique</h1>
+            <p>Découvrez notre réseau de vélos électriques en libre-service réparti sur 5 stations stratégiques de La Gaude. Service accessible 24h/24, 7j/7.</p>
+            
+            <h2>Points de service</h2>
+            <ul>
+                <li>Station Village - Parking de la mairie</li>
+                <li>Station Basse Gaude - Marché d'Apolline</li>
+                <li>Station Vacquières - Route de Saint Laurent</li>
+                <li>Station Domaine de l'étoile - Avenue Marcel Pagnol</li>
+                <li>Station Nertières - Zone commerciale (en cours)</li>
+            </ul>
+            
+            <h3>Tarification</h3>
+            <p>Première demi-heure gratuite, puis 1€ par demi-heure. Abonnements mensuels et annuels disponibles. Inscription en ligne ou sur l'application mobile.</p>
+        </content>
+        <location>
+            <title>Station principale - Village</title>
+            <address>6, Rue Louis Michel Féraud</address>
+            <postalCode>06610</postalCode>
+            <city>LA GAUDE</city>
+            <latitude>43.7219862</latitude>
+            <longitude>7.1527769</longitude>
+        </location>
+        <additionalInformation>Service 24h/24, application mobile disponible, assistance technique</additionalInformation>
+        <schedule>
+            <day name="Service continu">
+                <time>24h/24 - 7j/7</time>
+            </day>
+        </schedule>
+        <website>https://www.velolibre-lagaude.fr</website>
+        <phone1>+33 4 93 27 85 63</phone1>
+        <email>contact@velolibre-lagaude.fr</email>
+        <contact>
+            <firstName>Thomas</firstName>
+            <lastName>Rivière</lastName>
+            <phone>+33 4 93 27 85 63</phone>
+            <email>thomas.riviere@velolibre-lagaude.fr</email>
+        </contact>
+        <facebook>https://facebook.com/VeloLibreLaGaude</facebook>
+        <download>
+            <icon>pdf</icon>
+            <title>Guide d'utilisation vélos électriques</title>
+            <type>PDF</type>
+            <size>3.5 MB</size>
+            <link>https://drissas.com/wp-content/uploads/2023/01/FLUTTER-REVOLUTION.pdf</link>
+        </download>
+    </event>
+	<event>
+        <title>Médiathèque Chaïm SOUTINE</title>
+        <category>Culture</category>
+        <summary>Espace culturel moderne proposant livres, multimédia, animations et ateliers pour tous les âges dans un cadre convivial et accueillant.</summary>
+        <pubDate>2024-06-12T09:30:00Z</pubDate>
+        <updateDate>2024-06-15T11:45:00Z</updateDate>
+        <eventStartDate>2024-06-17</eventStartDate>
+        <eventEndDate>2024-12-31</eventEndDate>
+        <eventStartTime>09:00</eventStartTime>
+        <eventEndTime>18:00</eventEndTime>
+        <mainImage>https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&amp;h=600</mainImage>
+        <imageCaption>Espace de lecture moderne de la médiathèque</imageCaption>
+        <content>
+            <h1>Votre espace culturel de proximité</h1>
+            <p>La médiathèque Chaïm Soutine vous accueille dans un espace de 400m² entièrement rénové, proposant plus de 15 000 documents et de nombreux services numériques.</p>
+            
+            <h2>Nos collections et services</h2>
+            <ul>
+                <li>Livres fiction et documentaires pour tous les âges</li>
+                <li>BD, mangas et romans graphiques</li>
+                <li>DVD et CD audio</li>
+                <li>Accès internet et WiFi gratuit</li>
+                <li>Animations jeunesse et ateliers créatifs</li>
+                <li>Conférences et rencontres d'auteurs</li>
+            </ul>
+            
+            <h3>Événements à venir</h3>
+            <p>Club de lecture mensuel, atelier d'écriture créative, séances de contes pour enfants chaque mercredi, exposition d'art local changeante.</p>
+        </content>
+        <location>
+            <title>Médiathèque Chaïm SOUTINE</title>
+            <address>7, rue Louis Michel Féraud</address>
+            <postalCode>06610</postalCode>
+            <city>LA GAUDE</city>
+            <latitude>43.7219862</latitude>
+            <longitude>7.1524349</longitude>
+        </location>
+        <additionalInformation>WiFi gratuit, accessibilité PMR, espace jeunesse dédié</additionalInformation>
+        <schedule>
+            <day name="Mardi">
+                <time>14:00-18:00</time>
+            </day>
+            <day name="Mercredi">
+                <time>09:00-12:00, 14:00-18:00</time>
+            </day>
+            <day name="Jeudi">
+                <time>14:00-18:00</time>
+            </day>
+            <day name="Vendredi">
+                <time>14:00-18:00</time>
+            </day>
+            <day name="Samedi">
+                <time>09:00-12:00, 14:00-17:00</time>
+            </day>
+            <day name="Dimanche">
+                <time>Fermé</time>
+            </day>
+            <day name="Lundi">
+                <time>Fermé</time>
+            </day>
+        </schedule>
+        <website>https://www.mediatheque-lagaude.fr</website>
+        <phone1>+33 4 93 24 65 78</phone1>
+        <email>mediatheque@lagaude.fr</email>
+        <contact>
+            <firstName>Catherine</firstName>
+            <lastName>Dubois</lastName>
+            <phone>+33 4 93 24 65 78</phone>
+            <email>catherine.dubois@lagaude.fr</email>
+        </contact>
+        <facebook>https://facebook.com/MediathequeLaGaude</facebook>
+        <instagram>https://instagram.com/mediatheque_lagaude</instagram>
+        <download>
+            <icon>pdf</icon>
+            <title>Programme culturel automne 2024</title>
+            <type>PDF</type>
+            <size>4.1 MB</size>
+            <link>https://drissas.com/wp-content/uploads/2023/01/FLUTTER-REVOLUTION.pdf</link>
+        </download>
+    </event>
+	<event>
+        <title>E.S.B.F Entente Sportive des Baous Football</title>
+        <category>Sport</category>
+        <summary>Club de football local proposant formation et compétition pour toutes les catégories d'âge dans un esprit convivial et familial.</summary>
+        <pubDate>2024-06-14T10:15:00Z</pubDate>
+        <updateDate>2024-06-16T09:30:00Z</updateDate>
+        <eventStartDate>2024-09-01</eventStartDate>
+        <eventEndDate>2025-06-30</eventEndDate>
+        <eventStartTime>14:00</eventStartTime>
+        <eventEndTime>19:00</eventEndTime>
+        <mainImage>https://images.unsplash.com/photo-1552318965-6e6be7484ada?w=800&amp;h=600</mainImage>
+        <imageCaption>Terrain de football du Mont Gros avec équipe junior</imageCaption>
+        <content>
+            <h1>Football pour tous à La Gaude</h1>
+            <p>L'Entente Sportive des Baous Football accueille les joueurs de 6 à 77 ans dans un cadre familial et convivial. Notre club privilégie la formation et l'épanouissement de chacun.</p>
+            
+            <h2>Nos catégories</h2>
+            <ul>
+                <li>École de football (U6-U7-U8-U9)</li>
+                <li>Équipes jeunes (U11, U13, U15, U17, U19)</li>
+                <li>Équipe senior masculine</li>
+                <li>Section féminine en développement</li>
+                <li>Football loisir pour vétérans</li>
+            </ul>
+            
+            <h3>Installations</h3>
+            <p>Stade du Mont Gros avec terrain principal en herbe, terrain d'entraînement synthétique, vestiaires rénovés, club-house convivial.</p>
+        </content>
+        <location>
+            <title>Stade du Mont Gros</title>
+            <address>1403 route de saint-laurent du var</address>
+            <postalCode>06610</postalCode>
+            <city>LA GAUDE</city>
+            <latitude>43.7289952</latitude>
+            <longitude>7.1690404</longitude>
+        </location>
+        <additionalInformation>Club-house, vestiaires, terrain synthétique d'entraînement</additionalInformation>
+        <schedule>
+            <day name="Mercredi">
+                <time>14:00-17:00 (Jeunes)</time>
+            </day>
+            <day name="Vendredi">
+                <time>18:00-19:30 (Seniors)</time>
+            </day>
+            <day name="Samedi">
+                <time>Matchs et entraînements selon calendrier</time>
+            </day>
+            <day name="Dimanche">
+                <time>Matchs officiels</time>
+            </day>
+        </schedule>
+        <website>https://www.esbf-lagaude.fr</website>
+        <phone1>+33 4 93 24 87 92</phone1>
+        <email>contact@esbf-lagaude.fr</email>
+        <contact>
+            <firstName>Jean-Luc</firstName>
+            <lastName>Martinelli</lastName>
+            <phone>+33 4 93 24 87 92</phone>
+            <email>president@esbf-lagaude.fr</email>
+        </contact>
+        <facebook>https://facebook.com/ESBFLaGaude</facebook>
+        <instagram>https://instagram.com/esbf_lagaude</instagram>
+        <download>
+            <icon>pdf</icon>
+            <title>Dossier d'inscription saison 2024-2025</title>
+            <type>PDF</type>
+            <size>1.8 MB</size>
+            <link>https://drissas.com/wp-content/uploads/2023/01/FLUTTER-REVOLUTION.pdf</link>
+        </download>
+    </event>
+	<event>
+        <title>Exposition "Peintres de la Méditerranée"</title>
+        <category>Art</category>
+        <summary>Une exposition exceptionnelle dédiée aux artistes qui ont puisé leur inspiration dans la lumière et les paysages méditerranéens.</summary>
+        <pubDate>2024-06-05T10:30:00Z</pubDate>
+        <updateDate>2024-06-08T16:00:00Z</updateDate>
+        <eventStartDate>2024-06-15</eventStartDate>
+        <eventEndDate>2024-09-30</eventEndDate>
+        <eventStartTime>10:00</eventStartTime>
+        <eventEndTime>18:00</eventEndTime>
+        <mainImage>https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=800&amp;h=600</mainImage>
+        <imageCaption>Galerie d'art avec œuvres d'artistes méditerranéens</imageCaption>
+        <content>
+            <h1>La Méditerranée des artistes</h1>
+            <p>Cette exposition rassemble plus de 80 œuvres d'artistes qui ont trouvé dans la Méditerranée une source d'inspiration inépuisable. De l'impressionnisme au contemporain, découvrez comment la lumière du Midi a influencé l'art occidental.</p>
+            
+            <h2>Artistes exposés</h2>
+            <ul>
+                <li>Claude Monet - Série "Antibes"</li>
+                <li>Henri Matisse - Période niçoise</li>
+                <li>Pablo Picasso - Vallauris</li>
+                <li>Marc Chagall - Œuvres méditerranéennes</li>
+                <li>Artistes contemporains régionaux</li>
+            </ul>
+            
+            <h3>Visites guidées</h3>
+            <p>Visites guidées tous les samedis à 15h. Réservation recommandée. Tarif réduit pour les groupes de plus de 10 personnes.</p>
+        </content>
+        <location>
+            <title>Musée d'Art Moderne</title>
+            <address>Avenue du Musée</address>
+            <postalCode>06300</postalCode>
+            <city>Cannes</city>
+            <latitude>43.5513</latitude>
+            <longitude>7.0128</longitude>
+        </location>
+    </event>
+	<event>
+        <title>Course Cycliste "Tour de la Côte d'Azur"</title>
+        <category>Sport</category>
+        <summary>Événement cycliste majeur de la région proposant trois parcours pour tous les niveaux à travers les plus beaux paysages méditerranéens.</summary>
+        <pubDate>2024-06-12T08:00:00Z</pubDate>
+        <updateDate>2024-06-13T12:30:00Z</updateDate>
+        <eventStartDate>2024-07-14</eventStartDate>
+        <eventEndDate>2024-07-14</eventEndDate>
+        <eventStartTime>07:00</eventStartTime>
+        <eventEndTime>17:00</eventEndTime>
+        <mainImage>https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&amp;h=600</mainImage>
+        <imageCaption>Cyclistes sur la route côtière avec vue mer</imageCaption>
+        <content>
+            <h1>Le défi cycliste de l'été</h1>
+            <p>Participez au plus beau défi cycliste de la Côte d'Azur ! Trois parcours balisés vous feront découvrir les plus beaux points de vue de la région, des villages perchés aux routes côtières.</p>
+            
+            <h2>Les parcours</h2>
+            <ul>
+                <li>Parcours Famille : 25 km - Dénivelé 300m</li>
+                <li>Parcours Sportif : 75 km - Dénivelé 1200m</li>
+                <li>Parcours Expert : 130 km - Dénivelé 2500m</li>
+            </ul>
+            
+            <h3>Services inclus</h3>
+            <p>Ravitaillements, assistance mécanique, service médical, transport des bagages. Remise des dossards la veille de 14h à 19h.</p>
+        </content>
+        <location>
+            <title>Port de Plaisance</title>
+            <address>Quai des Milliardaires</address>
+            <postalCode>06160</postalCode>
+            <city>Juan-les-Pins</city>
+            <latitude>43.5672</latitude>
+            <longitude>7.1189</longitude>
+        </location>
+    </event>
+	<event>
+        <title>Festival Gastronomique "Saveurs du Sud"</title>
+        <category>Gastronomie</category>
+        <summary>Week-end gourmand célébrant la richesse culinaire méditerranéenne avec les plus grands chefs de la région.</summary>
+        <pubDate>2024-06-14T11:00:00Z</pubDate>
+        <updateDate>2024-06-15T14:15:00Z</updateDate>
+        <eventStartDate>2024-08-10</eventStartDate>
+        <eventEndDate>2024-08-11</eventEndDate>
+        <eventStartTime>10:00</eventStartTime>
+        <eventEndTime>22:00</eventEndTime>
+        <mainImage>https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?w=800&amp;h=600</mainImage>
+        <imageCaption>Démonstration culinaire par un chef étoilé</imageCaption>
+        <content>
+            <h1>L'excellence culinaire méditerranéenne</h1>
+            <p>Deux jours dédiés à la gastronomie du Sud avec des démonstrations culinaires, dégustations, ateliers et rencontres avec les producteurs locaux. Les plus grands chefs de la région vous dévoilent leurs secrets.</p>
+            
+            <h2>Programme du weekend</h2>
+            <ul>
+                <li>Samedi : Démonstrations culinaires et ateliers</li>
+                <li>Dimanche : Marché des producteurs et dégustation</li>
+                <li>Concours du meilleur jeune chef amateur</li>
+                <li>Animations pour enfants autour du goût</li>
+            </ul>
+            
+            <h3>Chefs invités</h3>
+            <p>Participation exceptionnelle de chefs étoilés de Monaco, Nice et Cannes. Réservation obligatoire pour les ateliers culinaires.</p>
+        </content>
+        <location>
+            <title>Palais des Festivals</title>
+            <address>1 Boulevard de la Croisette</address>
+            <postalCode>06400</postalCode>
+            <city>Cannes</city>
+            <latitude>43.5501</latitude>
+            <longitude>7.0174</longitude>
+        </location>
+    </event>
+	<event>
+        <title>Conférence "Patrimoine Maritime Méditerranéen"</title>
+        <category>Patrimoine</category>
+        <summary>Conférence exceptionnelle sur l'histoire maritime de la Méditerranée et son influence sur le développement régional.</summary>
+        <pubDate>2024-06-11T15:00:00Z</pubDate>
+        <updateDate>2024-06-13T09:45:00Z</updateDate>
+        <eventStartDate>2024-07-05</eventStartDate>
+        <eventEndDate>2024-07-05</eventEndDate>
+        <eventStartTime>20:00</eventStartTime>
+        <eventEndTime>22:30</eventEndTime>
+        <mainImage>https://images.unsplash.com/photo-1516733725897-1aa73b87c8c8?w=800&amp;h=600</mainImage>
+        <imageCaption>Vue sur le port historique avec bateaux traditionnels</imageCaption>
+        <content>
+            <h1>2000 ans d'histoire maritime</h1>
+            <p>Une conférence passionnante animée par des historiens et archéologues marins, retraçant l'évolution du patrimoine maritime méditerranéen et son impact sur notre région.</p>
+            
+            <h2>Thèmes abordés</h2>
+            <ul>
+                <li>Navigation antique et routes commerciales</li>
+                <li>Évolution des techniques navales</li>
+                <li>Patrimoine portuaire et architectural</li>
+                <li>Traditions maritimes locales</li>
+                <li>Enjeux contemporains de la mer</li>
+            </ul>
+            
+            <h3>Intervenants</h3>
+            <p>Professeur Michel Durand (Université de Nice), Dr. Sarah Martinez (CNRS), Capitaine Jean-Luc Vernay (Marine Nationale). Entrée libre, réservation conseillée.</p>
+        </content>
+        <location>
+            <title>Auditorium du Musée Océanographique</title>
+            <address>Avenue Saint-Martin</address>
+            <postalCode>98000</postalCode>
+            <city>Monaco</city>
+            <latitude>43.7317</latitude>
+            <longitude>7.4256</longitude>
+        </location>
+    </event>
+
+	
+    <event>
+        <title>Festival International de Jazz de la Côte d'Azur</title>
+        <category>Musique</category>
+        <summary>Le plus grand festival de jazz de la région revient pour sa 25ème édition avec des artistes internationaux de renom dans un cadre exceptionnel face à la mer.</summary>
+        <pubDate>2024-06-10T09:00:00Z</pubDate>
+        <updateDate>2024-06-12T15:30:00Z</updateDate>
+        <eventStartDate>2024-07-20</eventStartDate>
+        <eventEndDate>2024-07-23</eventEndDate>
+        <eventStartTime>19:30</eventStartTime>
+        <eventEndTime>23:30</eventEndTime>
+        <mainImage>https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=800&amp;h=600</mainImage>
+        <imageCaption>Scène principale du festival avec vue panoramique sur la mer</imageCaption>
+        <content>
+            <h1>25 ans de passion musicale</h1>
+            <p>Le Festival International de Jazz revient pour une édition exceptionnelle réunissant les plus grands noms du jazz mondial. Quatre soirées inoubliables dans un amphithéâtre naturel face à la Méditerranée.</p>
+            
+            <h2>Programmation prestigieuse</h2>
+            <ul>
+                <li>Samedi 20 juillet : Marcus Miller Quartet</li>
+                <li>Dimanche 21 juillet : Diana Krall Trio</li>
+                <li>Lundi 22 juillet : Ibrahim Maalouf &amp; Friends</li>
+                <li>Mardi 23 juillet : Brad Mehldau Solo Piano</li>
+            </ul>
+            
+            <h3>Informations pratiques</h3>
+            <p>Ouverture des portes à 18h30. Restauration sur site avec des spécialités locales. Parking gratuit à 500m du site. En cas de pluie, repli dans la salle municipale.</p>
+        </content>
+        <location>
+            <title>Théâtre de Verdure</title>
+            <address>Avenue du Théâtre de Verdure</address>
+            <postalCode>06000</postalCode>
+            <city>Nice</city>
+            <latitude>43.6962</latitude>
+            <longitude>7.2667</longitude>
+        </location>
+        <additionalInformation>WiFi gratuit, climatisation, accessibilité PMR</additionalInformation>
+		<schedule>
+			<day name="Lundi">
+				<datetime>13/02/2024 09:00-18:00</datetime>
+			</day>
+			<day name="Mardi">
+				<datetime>14/02/2024 09:00-18:00</datetime>
+			</day>
+			<day name="Mercredi">
+				<datetime>15/02/2024 09:00-18:00</datetime>
+			</day>
+			<day name="Jeudi">
+				<datetime>16/02/2024 09:00-18:00</datetime>
+			</day>
+			<day name="Vendredi">
+				<datetime>17/02/2024 09:00-18:00</datetime>
+			</day>
+			<day name="Samedi">
+				<datetime>18/02/2024 09:00-17:00</datetime>
+			</day>
+			<day name="Dimanche">
+				<datetime>19/02/2024 10:00-16:00</datetime>
+			</day>
+		</schedule>
+		<website>https://www.ot-cotedazur.fr</website>
+        <phone1>+33 4 93 87 60 60</phone1>
+        <phone2>+33 4 93 87 60 61</phone2>
+        <email>contact@ot-cotedazur.fr</email>
+        <contact>
+            <firstName>Marie</firstName>
+            <lastName>Dubois</lastName>
+            <phone>+33 4 93 87 60 65</phone>
+            <email>marie.dubois@ot-cotedazur.fr</email>
+        </contact>
+        <facebook>https://facebook.com/OTCotedAzur</facebook>
+        <twitter>https://twitter.com/OTCotedAzur</twitter>
+        <instagram>https://instagram.com/ot_cotedazur</instagram>
+        <linkedin>https://linkedin.com/company/ot-cotedazur</linkedin>
+        <youtube>https://youtube.com/OTCotedAzur</youtube>
+		<download>
+            <icon>pdf</icon>
+            <title>Guide touristique officiel 2024</title>
+            <type>PDF</type>
+            <size>15.2 MB</size>
+            <link>https://drissas.com/wp-content/uploads/2023/01/FLUTTER-REVOLUTION.pdf</link>
+        </download>
+
+    </event>
+
+    <event>
+        <title>Marché Provençal Nocturne</title>
+        <category>Tradition</category>
+        <summary>Tous les vendredis soir de l'été, découvrez l'authenticité provençale dans une ambiance chaleureuse et conviviale au cœur du village.</summary>
+        <pubDate>2024-06-08T14:00:00Z</pubDate>
+        <updateDate>2024-06-10T11:00:00Z</updateDate>
+        <eventStartDate>2024-06-21</eventStartDate>
+        <eventEndDate>2024-09-13</eventEndDate>
+        <eventStartTime>18:00</eventStartTime>
+        <eventEndTime>23:00</eventEndTime>
+        <mainImage>https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=800&amp;h=600</mainImage>
+        <imageCaption>Étals colorés du marché nocturne avec produits locaux</imageCaption>
+        <content>
+            <h1>L'art de vivre provençal</h1>
+            <p>Chaque vendredi soir, la place du village retrouve son animation d'antan avec le marché nocturne. Producteurs locaux, artisans et restaurateurs vous font découvrir les saveurs authentiques de la Provence.</p>
+            
+            <h2>Au programme</h2>
+            <ul>
+                <li>Produits du terroir : fruits, légumes, fromages, miel</li>
+                <li>Artisanat local : poterie, bijoux, textiles</li>
+                <li>Restauration sur place : spécialités provençales</li>
+                <li>Animations musicales avec musiciens locaux</li>
+            </ul>
+        </content>
+        <location>
+            <title>Place du Village</title>
+            <address>Place de la République</address>
+            <postalCode>06100</postalCode>
+            <city>Antibes</city>
+            <latitude>43.5805</latitude>
+            <longitude>7.1252</longitude>
+        </location>
+		<additionalInformation>Terrasse, réservation conseillée, menu enfant disponible</additionalInformation>
+       <schedule>
+			<day name="Mardi">
+				<time>12:00-14:00, 19:00-22:30</time>
+			</day>
+			<day name="Mercredi">
+				<time>12:00-14:00, 19:00-22:30</time>
+			</day>
+			<day name="Jeudi">
+				<time>12:00-14:00, 19:00-22:30</time>
+			</day>
+			<day name="Vendredi">
+				<time>12:00-14:00, 19:00-22:30</time>
+			</day>
+			<day name="Samedi">
+				<time>12:00-14:00, 19:00-23:00</time>
+			</day>
+			<day name="Dimanche">
+				<time>12:00-14:00</time>
+			</day>
+			<day name="Lundi">
+				<time>Fermé</time>
+			</day>
+		</schedule>
+        <website>https://www.restaurant-mediterranee.fr</website>
+        <phone1>+33 4 93 64 71 23</phone1>
+        <email>reservation@restaurant-mediterranee.fr</email>
+        <contact>
+            <firstName>Pierre</firstName>
+            <lastName>Martin</lastName>
+            <phone>+33 4 93 64 71 23</phone>
+            <email>pierre.martin@restaurant-mediterranee.fr</email>
+        </contact>
+        <facebook>https://facebook.com/RestaurantMediterranee</facebook>
+        <instagram>https://instagram.com/restaurant_mediterranee</instagram>
+		<download>
+            <icon>pdf</icon>
+            <title>Plan des transports 2024</title>
+            <type>PDF</type>
+            <size>8.7 MB</size>
+            <link>https://drissas.com/wp-content/uploads/2023/01/FLUTTER-REVOLUTION.pdf</link>
+        </download>
+    </event>
+
+    <event>
+        <title>Exposition "Peintres de la Méditerranée"</title>
+        <category>Art</category>
+        <summary>Une exposition exceptionnelle dédiée aux artistes qui ont puisé leur inspiration dans la lumière et les paysages méditerranéens.</summary>
+        <pubDate>2024-06-05T10:30:00Z</pubDate>
+        <updateDate>2024-06-08T16:00:00Z</updateDate>
+        <eventStartDate>2024-06-15</eventStartDate>
+        <eventEndDate>2024-09-30</eventEndDate>
+        <eventStartTime>10:00</eventStartTime>
+        <eventEndTime>18:00</eventEndTime>
+        <mainImage>https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=800&amp;h=600</mainImage>
+        <imageCaption>Galerie d'art avec œuvres d'artistes méditerranéens</imageCaption>
+        <content>
+            <h1>La Méditerranée des artistes</h1>
+            <p>Cette exposition rassemble plus de 80 œuvres d'artistes qui ont trouvé dans la Méditerranée une source d'inspiration inépuisable. De l'impressionnisme au contemporain, découvrez comment la lumière du Midi a influencé l'art occidental.</p>
+            
+            <h2>Artistes exposés</h2>
+            <ul>
+                <li>Claude Monet - Série "Antibes"</li>
+                <li>Henri Matisse - Période niçoise</li>
+                <li>Pablo Picasso - Vallauris</li>
+                <li>Marc Chagall - Œuvres méditerranéennes</li>
+                <li>Artistes contemporains régionaux</li>
+            </ul>
+            
+            <h3>Visites guidées</h3>
+            <p>Visites guidées tous les samedis à 15h. Réservation recommandée. Tarif réduit pour les groupes de plus de 10 personnes.</p>
+        </content>
+        <location>
+            <title>Musée d'Art Moderne</title>
+            <address>Avenue du Musée</address>
+            <postalCode>06300</postalCode>
+            <city>Cannes</city>
+            <latitude>43.5513</latitude>
+            <longitude>7.0128</longitude>
+        </location>
+		<additionalInformation>Piscine, spa, restaurant, bar, parking, WiFi, climatisation</additionalInformation>
+        <schedule>
+            <day name="Réception">
+                <time>24h/24</time>
+            </day>
+        </schedule>
+        <website>https://www.hotel-vue-mer.com</website>
+        <phone1>+33 4 93 61 45 89</phone1>
+        <phone2>+33 4 93 61 45 90</phone2>
+        <email>contact@hotel-vue-mer.com</email>
+        <contact>
+            <firstName>Sophie</firstName>
+            <lastName>Leroy</lastName>
+            <phone>+33 4 93 61 45 89</phone>
+            <email>direction@hotel-vue-mer.com</email>
+        </contact>
+        <facebook>https://facebook.com/HotelVueMer</facebook>
+        <instagram>https://instagram.com/hotel_vue_mer</instagram>
+        <linkedin>https://linkedin.com/company/hotel-vue-mer</linkedin>
+		<download>
+            <icon>pdf</icon>
+            <title>Carte des sentiers de randonnée</title>
+            <type>PDF</type>
+            <size>18.9 MB</size>
+            <link>https://drissas.com/wp-content/uploads/2023/01/FLUTTER-REVOLUTION.pdf</link>
+        </download>
+    </event>
+
+ 
+</cartes>
