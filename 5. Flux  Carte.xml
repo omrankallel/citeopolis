@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cartes>
-	<event>
+    <event>
         <title>TI MANGÉ KREYOL</title>
         <category>Marchés - Food truck</category>
         <summary>Food truck spécialisé dans la cuisine créole authentique. Découvrez les saveurs des îles dans une ambiance conviviale et chaleureuse.</summary>
@@ -79,7 +79,219 @@
             <link>https://drissas.com/wp-content/uploads/2023/01/FLUTTER-REVOLUTION.pdf</link>
         </download>
     </event>
-	<event>
+
+    <event>
+        <title>LE PETIT MARRAKECH</title>
+        <category>Marchés - Food truck</category>
+        <summary>Food truck marocain authentique proposant tajines, couscous et pâtisseries orientales dans un cadre coloré et chaleureux.</summary>
+        <pubDate>2024-06-15T11:00:00Z</pubDate>
+        <updateDate>2024-06-16T15:00:00Z</updateDate>
+        <eventStartDate>2024-07-01</eventStartDate>
+        <eventEndDate>2024-09-30</eventEndDate>
+        <eventStartTime>12:00</eventStartTime>
+        <eventEndTime>22:00</eventEndTime>
+        <mainImage>https://images.unsplash.com/photo-1563379091090-336a950c938b?w=800&amp;h=600</mainImage>
+        <imageCaption>Food truck Le Petit Marrakech avec spécialités marocaines</imageCaption>
+        <content>
+            <h1>Voyage culinaire au Maroc</h1>
+            <p>Le Petit Marrakech vous transporte directement dans les souks de Marrakech avec ses tajines parfumés, couscous généreux et pâtisseries aux mille saveurs.</p>
+            
+            <h2>Nos spécialités</h2>
+            <ul>
+                <li>Tajine d'agneau aux pruneaux et amandes</li>
+                <li>Couscous royal aux légumes de saison</li>
+                <li>Pastilla au poulet et cannelle</li>
+                <li>Cornes de gazelle et makroudh</li>
+                <li>Thé à la menthe fraîche</li>
+            </ul>
+            
+            <h3>Ambiance orientale</h3>
+            <p>Décoration authentique avec tapis berbères et lanternes. Musique traditionnelle pour une immersion totale. Possibilité de privatisation pour événements.</p>
+        </content>
+        <location>
+            <title>Le Petit Marrakech</title>
+            <address>122 route de Gattières</address>
+            <postalCode>06610</postalCode>
+            <city>LA GAUDE</city>
+            <latitude>43.7206331</latitude>
+            <longitude>7.1781331</longitude>
+        </location>
+        <additionalInformation>Terrasse orientale, thé à la menthe offert, service traiteur</additionalInformation>
+        <schedule>
+            <day name="Lundi">
+                <time>12:00-22:00</time>
+            </day>
+            <day name="Mardi">
+                <time>12:00-22:00</time>
+            </day>
+            <day name="Mercredi">
+                <time>12:00-22:00</time>
+            </day>
+            <day name="Jeudi">
+                <time>12:00-22:00</time>
+            </day>
+            <day name="Vendredi">
+                <time>12:00-22:00</time>
+            </day>
+            <day name="Samedi">
+                <time>12:00-22:00</time>
+            </day>
+            <day name="Dimanche">
+                <time>12:00-21:00</time>
+            </day>
+        </schedule>
+        <website>https://www.lepetitmarrakech.fr</website>
+        <phone1>+33 4 93 24 89 45</phone1>
+        <email>contact@lepetitmarrakech.fr</email>
+        <contact>
+            <firstName>Youssef</firstName>
+            <lastName>El Amrani</lastName>
+            <phone>+33 4 93 24 89 45</phone>
+            <email>youssef@lepetitmarrakech.fr</email>
+        </contact>
+        <facebook>https://facebook.com/LePetitMarrakech</facebook>
+        <instagram>https://instagram.com/le_petit_marrakech</instagram>
+        <download>
+            <icon>pdf</icon>
+            <title>Carte Le Petit Marrakech</title>
+            <type>PDF</type>
+            <size>1.9 MB</size>
+            <link>https://drissas.com/wp-content/uploads/2023/01/FLUTTER-REVOLUTION.pdf</link>
+        </download>
+    </event>
+
+    <event>
+        <title>TAXI VALÉRIE</title>
+        <category>Transport</category>
+        <summary>Service de taxi local disponible 24h/24 pour tous vos déplacements dans la région avec des tarifs préférentiels résidents.</summary>
+        <pubDate>2024-06-14T08:00:00Z</pubDate>
+        <updateDate>2024-06-16T10:30:00Z</updateDate>
+        <eventStartDate>2024-06-16</eventStartDate>
+        <eventEndDate>2024-12-31</eventEndDate>
+        <eventStartTime>00:00</eventStartTime>
+        <eventEndTime>23:59</eventEndTime>
+        <mainImage>https://images.unsplash.com/photo-1449965408869-eaa3f722e40d?w=800&amp;h=600</mainImage>
+        <imageCaption>Véhicule taxi moderne et confortable</imageCaption>
+        <content>
+            <h1>Votre taxi de confiance</h1>
+            <p>Taxi Valérie vous propose un service de transport personnalisé disponible 24h/24. Véhicules récents, climatisés et conduite professionnelle pour tous vos déplacements.</p>
+            
+            <h2>Nos services</h2>
+            <ul>
+                <li>Transport vers aéroports Nice et Monaco</li>
+                <li>Courses locales et déplacements médicaux</li>
+                <li>Service colis et petits déménagements</li>
+                <li>Courses touristiques avec guide local</li>
+                <li>Réservations pour événements</li>
+            </ul>
+            
+            <h3>Tarifs préférentiels</h3>
+            <p>Tarifs réduits pour les résidents de La Gaude. Paiement par carte accepté. Facturation disponible pour les entreprises.</p>
+        </content>
+        <location>
+            <title>Taxi Valérie - La Gaude</title>
+            <address>06610 LA GAUDE</address>
+            <postalCode>06610</postalCode>
+            <city>LA GAUDE</city>
+            <latitude>43.7219862</latitude>
+            <longitude>7.1531269</longitude>
+        </location>
+        <additionalInformation>Service 24h/24, véhicule climatisé, paiement carte bancaire</additionalInformation>
+        <schedule>
+            <day name="Service continu">
+                <time>24h/24 - 7j/7</time>
+            </day>
+        </schedule>
+        <website>https://www.taxi-valerie-lagaude.fr</website>
+        <phone1>+33 6 12 34 56 78</phone1>
+        <email>contact@taxi-valerie.fr</email>
+        <contact>
+            <firstName>Valérie</firstName>
+            <lastName>Rousseau</lastName>
+            <phone>+33 6 12 34 56 78</phone>
+            <email>valerie@taxi-valerie.fr</email>
+        </contact>
+        <download>
+            <icon>pdf</icon>
+            <title>Tarifs Taxi Valérie 2024</title>
+            <type>PDF</type>
+            <size>650 KB</size>
+            <link>https://drissas.com/wp-content/uploads/2023/01/FLUTTER-REVOLUTION.pdf</link>
+        </download>
+    </event>
+
+    <event>
+        <title>Hôtel Mon Soleil et Restaurant Longo Maï</title>
+        <category>Hôtellerie-Restauration</category>
+        <summary>Hôtel de charme avec restaurant gastronomique offrant une vue panoramique sur les collines provençales et un service personnalisé.</summary>
+        <pubDate>2024-06-12T09:00:00Z</pubDate>
+        <updateDate>2024-06-15T14:00:00Z</updateDate>
+        <eventStartDate>2024-06-16</eventStartDate>
+        <eventEndDate>2024-12-31</eventEndDate>
+        <eventStartTime>06:00</eventStartTime>
+        <eventEndTime>23:00</eventEndTime>
+        <mainImage>https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800&amp;h=600</mainImage>
+        <imageCaption>Terrasse de l'hôtel avec vue panoramique sur la campagne</imageCaption>
+        <content>
+            <h1>L'art de vivre provençal</h1>
+            <p>L'Hôtel Mon Soleil vous accueille dans un cadre authentique avec ses 15 chambres de charme et son restaurant Longo Maï proposant une cuisine méditerranéenne raffinée.</p>
+            
+            <h2>Nos prestations</h2>
+            <ul>
+                <li>15 chambres climatisées avec vue panoramique</li>
+                <li>Restaurant gastronomique Longo Maï</li>
+                <li>Piscine extérieure chauffée</li>
+                <li>Spa et espace bien-être</li>
+                <li>Salles de séminaires et événements</li>
+                <li>Parking privé et WiFi gratuit</li>
+            </ul>
+            
+            <h3>Restaurant Longo Maï</h3>
+            <p>Cuisine créative du chef étoilé utilisant exclusivement des produits locaux. Carte des vins régionaux. Terrasse panoramique pour dîners romantiques.</p>
+        </content>
+        <location>
+            <title>Hôtel Mon Soleil et Restaurant Longo Maï</title>
+            <address>Route des Collines</address>
+            <postalCode>06610</postalCode>
+            <city>LA GAUDE</city>
+            <latitude>43.7328017</latitude>
+            <longitude>7.1579254</longitude>
+        </location>
+        <additionalInformation>Piscine chauffée, spa, WiFi gratuit, parking privé, climatisation</additionalInformation>
+        <schedule>
+            <day name="Hôtel">
+                <time>Accueil 24h/24</time>
+            </day>
+            <day name="Restaurant">
+                <time>12:00-14:00, 19:30-22:00</time>
+            </day>
+            <day name="Spa">
+                <time>09:00-20:00</time>
+            </day>
+        </schedule>
+        <website>https://www.hotel-monsoleil.fr</website>
+        <phone1>+33 4 93 24 95 67</phone1>
+        <phone2>+33 4 93 24 95 68</phone2>
+        <email>contact@hotel-monsoleil.fr</email>
+        <contact>
+            <firstName>Antoine</firstName>
+            <lastName>Mercier</lastName>
+            <phone>+33 4 93 24 95 67</phone>
+            <email>direction@hotel-monsoleil.fr</email>
+        </contact>
+        <facebook>https://facebook.com/HotelMonSoleil</facebook>
+        <instagram>https://instagram.com/hotel_mon_soleil</instagram>
+        <linkedin>https://linkedin.com/company/hotel-mon-soleil</linkedin>
+        <download>
+            <icon>pdf</icon>
+            <title>Brochure Hôtel Mon Soleil 2024</title>
+            <type>PDF</type>
+            <size>5.2 MB</size>
+            <link>https://drissas.com/wp-content/uploads/2023/01/FLUTTER-REVOLUTION.pdf</link>
+        </download>
+    </event>
+
+    <event>
         <title>Cinéma La Coupole</title>
         <category>Culture</category>
         <summary>Cinéma moderne proposant les dernières nouveautés ainsi que des films d'art et d'essai dans un cadre confortable et accueillant.</summary>
@@ -159,7 +371,8 @@
             <link>https://drissas.com/wp-content/uploads/2023/01/FLUTTER-REVOLUTION.pdf</link>
         </download>
     </event>
-	<event>
+
+    <event>
         <title>Vélos électriques en libre service</title>
         <category>Mobilité</category>
         <summary>Service de vélos électriques en libre-service disponible 24h/24 sur plusieurs points de la commune pour faciliter vos déplacements.</summary>
@@ -219,7 +432,169 @@
             <link>https://drissas.com/wp-content/uploads/2023/01/FLUTTER-REVOLUTION.pdf</link>
         </download>
     </event>
-	<event>
+
+    <event>
+        <title>AUTO ECOLE YES</title>
+        <category>Formation</category>
+        <summary>Auto-école moderne proposant formation au permis de conduire avec des méthodes pédagogiques adaptées et un suivi personnalisé.</summary>
+        <pubDate>2024-06-09T09:00:00Z</pubDate>
+        <updateDate>2024-06-14T16:45:00Z</updateDate>
+        <eventStartDate>2024-06-17</eventStartDate>
+        <eventEndDate>2024-12-31</eventEndDate>
+        <eventStartTime>08:00</eventStartTime>
+        <eventEndTime>19:00</eventEndTime>
+        <mainImage>https://images.unsplash.com/photo-1449965408869-eaa3f722e40d?w=800&amp;h=600</mainImage>
+        <imageCaption>Véhicule école moderne avec moniteur diplômé</imageCaption>
+        <content>
+            <h1>Votre permis de conduire en confiance</h1>
+            <p>Auto École YES vous accompagne dans l'apprentissage de la conduite avec des moniteurs diplômés d'État et un parc de véhicules récents et sécurisés.</p>
+            
+            <h2>Nos formations</h2>
+            <ul>
+                <li>Permis B (voiture) - Formation traditionnelle et accélérée</li>
+                <li>Conduite accompagnée (AAC) dès 15 ans</li>
+                <li>Conduite supervisée dès 18 ans</li>
+                <li>Permis AM (cyclomoteur) dès 14 ans</li>
+                <li>Stage de récupération de points</li>
+                <li>Formation post-permis pour jeunes conducteurs</li>
+            </ul>
+            
+            <h3>Nos atouts</h3>
+            <p>Taux de réussite élevé, planning flexible, cours théoriques en ligne, véhicules équipés double commande, prix transparent sans surprise.</p>
+        </content>
+        <location>
+            <title>Auto École YES</title>
+            <address>Allée Hector PINTUS - GALERIE MARCHANDE LES NERTIERES</address>
+            <postalCode>06610</postalCode>
+            <city>LA GAUDE</city>
+            <latitude>43.731414</latitude>
+            <longitude>7.1643734</longitude>
+        </location>
+        <additionalInformation>Parking gratuit, véhicules récents, planning flexible</additionalInformation>
+        <schedule>
+            <day name="Lundi">
+                <time>09:00-12:00, 14:00-19:00</time>
+            </day>
+            <day name="Mardi">
+                <time>09:00-12:00, 14:00-19:00</time>
+            </day>
+            <day name="Mercredi">
+                <time>09:00-12:00, 14:00-19:00</time>
+            </day>
+            <day name="Jeudi">
+                <time>09:00-12:00, 14:00-19:00</time>
+            </day>
+            <day name="Vendredi">
+                <time>09:00-12:00, 14:00-19:00</time>
+            </day>
+            <day name="Samedi">
+                <time>08:00-12:00</time>
+            </day>
+            <day name="Dimanche">
+                <time>Fermé</time>
+            </day>
+        </schedule>
+        <website>https://www.autoecole-yes.fr</website>
+        <phone1>+33 4 93 24 79 85</phone1>
+        <email>contact@autoecole-yes.fr</email>
+        <contact>
+            <firstName>Stéphane</firstName>
+            <lastName>Rossi</lastName>
+            <phone>+33 4 93 24 79 85</phone>
+            <email>s.rossi@autoecole-yes.fr</email>
+        </contact>
+        <facebook>https://facebook.com/AutoEcoleYES</facebook>
+        <download>
+            <icon>pdf</icon>
+            <title>Tarifs et forfaits Auto École YES</title>
+            <type>PDF</type>
+            <size>850 KB</size>
+            <link>https://drissas.com/wp-content/uploads/2023/01/FLUTTER-REVOLUTION.pdf</link>
+        </download>
+    </event>
+
+    <event>
+        <title>COIFFURE – BLACK ONYX</title>
+        <category>Coiffure - Esthétique</category>
+        <summary>Salon de coiffure moderne proposant coupes tendances, colorations techniques et soins capillaires haut de gamme dans un cadre contemporain.</summary>
+        <pubDate>2024-06-13T10:30:00Z</pubDate>
+        <updateDate>2024-06-16T11:45:00Z</updateDate>
+        <eventStartDate>2024-06-17</eventStartDate>
+        <eventEndDate>2024-12-31</eventEndDate>
+        <eventStartTime>09:00</eventStartTime>
+        <eventEndTime>19:00</eventEndTime>
+        <mainImage>https://images.unsplash.com/photo-1560869713-bf165ad0d623?w=800&amp;h=600</mainImage>
+        <imageCaption>Salon de coiffure moderne avec équipements professionnels</imageCaption>
+        <content>
+            <h1>L'art de la coiffure moderne</h1>
+            <p>Black Onyx vous accueille dans un salon au design contemporain pour vous offrir les dernières tendances en matière de coiffure et de soins capillaires.</p>
+            
+            <h2>Nos prestations</h2>
+            <ul>
+                <li>Coupes femmes, hommes et enfants</li>
+                <li>Colorations techniques et mèches</li>
+                <li>Permanentes et lissages</li>
+                <li>Soins capillaires réparateurs</li>
+                <li>Coiffures de mariée et événements</li>
+                <li>Extensions et pose de chignons</li>
+            </ul>
+            
+            <h3>Produits professionnels</h3>
+            <p>Utilisation exclusive de produits haut de gamme Kérastase, L'Oréal Professionnel et Redken. Conseil personnalisé pour l'entretien à domicile.</p>
+        </content>
+        <location>
+            <title>Coiffure Black Onyx</title>
+            <address>862 Route de Saint-Laurent</address>
+            <postalCode>06610</postalCode>
+            <city>LA GAUDE</city>
+            <latitude>43.7187605</latitude>
+            <longitude>7.1656609</longitude>
+        </location>
+        <additionalInformation>Parking client, produits professionnels, prise de rendez-vous en ligne</additionalInformation>
+        <schedule>
+            <day name="Mardi">
+                <time>09:00-18:00</time>
+            </day>
+            <day name="Mercredi">
+                <time>09:00-18:00</time>
+            </day>
+            <day name="Jeudi">
+                <time>09:00-19:00</time>
+            </day>
+            <day name="Vendredi">
+                <time>09:00-19:00</time>
+            </day>
+            <day name="Samedi">
+                <time>08:30-17:00</time>
+            </day>
+            <day name="Dimanche">
+                <time>Fermé</time>
+            </day>
+            <day name="Lundi">
+                <time>Fermé</time>
+            </day>
+        </schedule>
+        <website>https://www.blackonyx-coiffure.fr</website>
+        <phone1>+33 4 93 24 87 36</phone1>
+        <email>contact@blackonyx-coiffure.fr</email>
+        <contact>
+            <firstName>Sandra</firstName>
+            <lastName>Monet</lastName>
+            <phone>+33 4 93 24 87 36</phone>
+            <email>sandra@blackonyx-coiffure.fr</email>
+        </contact>
+        <facebook>https://facebook.com/BlackOnyxCoiffure</facebook>
+        <instagram>https://instagram.com/blackonyx_coiffure</instagram>
+        <download>
+            <icon>pdf</icon>
+            <title>Carte de fidélité Black Onyx</title>
+            <type>PDF</type>
+            <size>1.1 MB</size>
+            <link>https://drissas.com/wp-content/uploads/2023/01/FLUTTER-REVOLUTION.pdf</link>
+        </download>
+    </event>
+
+    <event>
         <title>Médiathèque Chaïm SOUTINE</title>
         <category>Culture</category>
         <summary>Espace culturel moderne proposant livres, multimédia, animations et ateliers pour tous les âges dans un cadre convivial et accueillant.</summary>
@@ -299,7 +674,89 @@
             <link>https://drissas.com/wp-content/uploads/2023/01/FLUTTER-REVOLUTION.pdf</link>
         </download>
     </event>
-	<event>
+
+    <event>
+        <title>RESTAURANT LA GAUDRIOLE</title>
+        <category>Restauration</category>
+        <summary>Restaurant traditionnel au cœur du village proposant une cuisine provençale authentique dans un cadre chaleureux et convivial.</summary>
+        <pubDate>2024-06-13T11:00:00Z</pubDate>
+        <updateDate>2024-06-16T15:30:00Z</updateDate>
+        <eventStartDate>2024-06-17</eventStartDate>
+        <eventEndDate>2024-12-31</eventEndDate>
+        <eventStartTime>12:00</eventStartTime>
+        <eventEndTime>22:00</eventEndTime>
+        <mainImage>https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=800&amp;h=600</mainImage>
+        <imageCaption>Terrasse du restaurant avec vue sur le village</imageCaption>
+        <content>
+            <h1>Saveurs provençales authentiques</h1>
+            <p>Au cœur du village historique de La Gaude, le Restaurant La Gaudriole vous accueille dans un cadre typiquement provençal pour découvrir les saveurs du terroir local.</p>
+            
+            <h2>Notre carte</h2>
+            <ul>
+                <li>Spécialités provençales traditionnelles</li>
+                <li>Produits frais du marché local</li>
+                <li>Carte des vins régionaux sélectionnés</li>
+                <li>Menu enfant disponible</li>
+                <li>Plats végétariens et sans gluten</li>
+                <li>Desserts maison</li>
+            </ul>
+            
+            <h3>Terrasse panoramique</h3>
+            <p>Profitez de notre terrasse avec vue imprenable sur les collines environnantes. Réservation conseillée, notamment le week-end.</p>
+        </content>
+        <location>
+            <title>Restaurant La Gaudriole</title>
+            <address>6, rue centrale</address>
+            <postalCode>06610</postalCode>
+            <city>LA GAUDE</city>
+            <latitude>43.7227305</latitude>
+            <longitude>7.150721</longitude>
+        </location>
+        <additionalInformation>Terrasse, réservation conseillée, parking proximité</additionalInformation>
+        <schedule>
+            <day name="Mardi">
+                <time>12:00-14:00, 19:00-22:00</time>
+            </day>
+            <day name="Mercredi">
+                <time>12:00-14:00, 19:00-22:00</time>
+            </day>
+            <day name="Jeudi">
+                <time>12:00-14:00, 19:00-22:00</time>
+            </day>
+            <day name="Vendredi">
+                <time>12:00-14:00, 19:00-22:00</time>
+            </day>
+            <day name="Samedi">
+                <time>12:00-14:00, 19:00-22:30</time>
+            </day>
+            <day name="Dimanche">
+                <time>12:00-14:00</time>
+            </day>
+            <day name="Lundi">
+                <time>Fermé</time>
+            </day>
+        </schedule>
+        <website>https://www.restaurant-lagaudriole.fr</website>
+        <phone1>+33 4 93 24 86 74</phone1>
+        <email>reservation@restaurant-lagaudriole.fr</email>
+        <contact>
+            <firstName>Jean-Pierre</firstName>
+            <lastName>Olivier</lastName>
+            <phone>+33 4 93 24 86 74</phone>
+            <email>jp.olivier@restaurant-lagaudriole.fr</email>
+        </contact>
+        <facebook>https://facebook.com/RestaurantLaGaudriole</facebook>
+        <instagram>https://instagram.com/restaurant_lagaudriole</instagram>
+        <download>
+            <icon>pdf</icon>
+            <title>Carte Restaurant La Gaudriole</title>
+            <type>PDF</type>
+            <size>1.9 MB</size>
+            <link>https://drissas.com/wp-content/uploads/2023/01/FLUTTER-REVOLUTION.pdf</link>
+        </download>
+    </event>
+
+    <event>
         <title>E.S.B.F Entente Sportive des Baous Football</title>
         <category>Sport</category>
         <summary>Club de football local proposant formation et compétition pour toutes les catégories d'âge dans un esprit convivial et familial.</summary>
@@ -369,376 +826,669 @@
             <link>https://drissas.com/wp-content/uploads/2023/01/FLUTTER-REVOLUTION.pdf</link>
         </download>
     </event>
-	<event>
-        <title>Exposition "Peintres de la Méditerranée"</title>
-        <category>Art</category>
-        <summary>Une exposition exceptionnelle dédiée aux artistes qui ont puisé leur inspiration dans la lumière et les paysages méditerranéens.</summary>
-        <pubDate>2024-06-05T10:30:00Z</pubDate>
-        <updateDate>2024-06-08T16:00:00Z</updateDate>
-        <eventStartDate>2024-06-15</eventStartDate>
-        <eventEndDate>2024-09-30</eventEndDate>
-        <eventStartTime>10:00</eventStartTime>
-        <eventEndTime>18:00</eventEndTime>
-        <mainImage>https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=800&amp;h=600</mainImage>
-        <imageCaption>Galerie d'art avec œuvres d'artistes méditerranéens</imageCaption>
-        <content>
-            <h1>La Méditerranée des artistes</h1>
-            <p>Cette exposition rassemble plus de 80 œuvres d'artistes qui ont trouvé dans la Méditerranée une source d'inspiration inépuisable. De l'impressionnisme au contemporain, découvrez comment la lumière du Midi a influencé l'art occidental.</p>
-            
-            <h2>Artistes exposés</h2>
-            <ul>
-                <li>Claude Monet - Série "Antibes"</li>
-                <li>Henri Matisse - Période niçoise</li>
-                <li>Pablo Picasso - Vallauris</li>
-                <li>Marc Chagall - Œuvres méditerranéennes</li>
-                <li>Artistes contemporains régionaux</li>
-            </ul>
-            
-            <h3>Visites guidées</h3>
-            <p>Visites guidées tous les samedis à 15h. Réservation recommandée. Tarif réduit pour les groupes de plus de 10 personnes.</p>
-        </content>
-        <location>
-            <title>Musée d'Art Moderne</title>
-            <address>Avenue du Musée</address>
-            <postalCode>06300</postalCode>
-            <city>Cannes</city>
-            <latitude>43.5513</latitude>
-            <longitude>7.0128</longitude>
-        </location>
-    </event>
-	<event>
-        <title>Course Cycliste "Tour de la Côte d'Azur"</title>
-        <category>Sport</category>
-        <summary>Événement cycliste majeur de la région proposant trois parcours pour tous les niveaux à travers les plus beaux paysages méditerranéens.</summary>
-        <pubDate>2024-06-12T08:00:00Z</pubDate>
-        <updateDate>2024-06-13T12:30:00Z</updateDate>
-        <eventStartDate>2024-07-14</eventStartDate>
-        <eventEndDate>2024-07-14</eventEndDate>
-        <eventStartTime>07:00</eventStartTime>
-        <eventEndTime>17:00</eventEndTime>
-        <mainImage>https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&amp;h=600</mainImage>
-        <imageCaption>Cyclistes sur la route côtière avec vue mer</imageCaption>
-        <content>
-            <h1>Le défi cycliste de l'été</h1>
-            <p>Participez au plus beau défi cycliste de la Côte d'Azur ! Trois parcours balisés vous feront découvrir les plus beaux points de vue de la région, des villages perchés aux routes côtières.</p>
-            
-            <h2>Les parcours</h2>
-            <ul>
-                <li>Parcours Famille : 25 km - Dénivelé 300m</li>
-                <li>Parcours Sportif : 75 km - Dénivelé 1200m</li>
-                <li>Parcours Expert : 130 km - Dénivelé 2500m</li>
-            </ul>
-            
-            <h3>Services inclus</h3>
-            <p>Ravitaillements, assistance mécanique, service médical, transport des bagages. Remise des dossards la veille de 14h à 19h.</p>
-        </content>
-        <location>
-            <title>Port de Plaisance</title>
-            <address>Quai des Milliardaires</address>
-            <postalCode>06160</postalCode>
-            <city>Juan-les-Pins</city>
-            <latitude>43.5672</latitude>
-            <longitude>7.1189</longitude>
-        </location>
-    </event>
-	<event>
-        <title>Festival Gastronomique "Saveurs du Sud"</title>
-        <category>Gastronomie</category>
-        <summary>Week-end gourmand célébrant la richesse culinaire méditerranéenne avec les plus grands chefs de la région.</summary>
-        <pubDate>2024-06-14T11:00:00Z</pubDate>
+
+    <event>
+        <title>Pharmacie Plan du Bois</title>
+        <category>Santé</category>
+        <summary>Pharmacie moderne proposant conseils personnalisés, médicaments, parapharmacie et services de santé dans un cadre accueillant.</summary>
+        <pubDate>2024-06-11T08:30:00Z</pubDate>
         <updateDate>2024-06-15T14:15:00Z</updateDate>
-        <eventStartDate>2024-08-10</eventStartDate>
-        <eventEndDate>2024-08-11</eventEndDate>
-        <eventStartTime>10:00</eventStartTime>
-        <eventEndTime>22:00</eventEndTime>
-        <mainImage>https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?w=800&amp;h=600</mainImage>
-        <imageCaption>Démonstration culinaire par un chef étoilé</imageCaption>
+        <eventStartDate>2024-06-16</eventStartDate>
+        <eventEndDate>2024-12-31</eventEndDate>
+        <eventStartTime>08:30</eventStartTime>
+        <eventEndTime>19:30</eventEndTime>
+        <mainImage>https://images.unsplash.com/photo-1576091160399-112ba8d25d1f?w=800&amp;h=600</mainImage>
+        <imageCaption>Intérieur moderne de la pharmacie avec conseil personnalisé</imageCaption>
         <content>
-            <h1>L'excellence culinaire méditerranéenne</h1>
-            <p>Deux jours dédiés à la gastronomie du Sud avec des démonstrations culinaires, dégustations, ateliers et rencontres avec les producteurs locaux. Les plus grands chefs de la région vous dévoilent leurs secrets.</p>
+            <h1>Votre pharmacie de proximité</h1>
+            <p>La Pharmacie Plan du Bois vous accompagne au quotidien avec des conseils experts et un large choix de produits de santé et de bien-être.</p>
             
-            <h2>Programme du weekend</h2>
+            <h2>Nos services</h2>
             <ul>
-                <li>Samedi : Démonstrations culinaires et ateliers</li>
-                <li>Dimanche : Marché des producteurs et dégustation</li>
-                <li>Concours du meilleur jeune chef amateur</li>
-                <li>Animations pour enfants autour du goût</li>
+                <li>Délivrance d'ordonnances et conseils pharmaceutiques</li>
+                <li>Parapharmacie et cosmétiques</li>
+                <li>Matériel médical et orthopédique</li>
+                <li>Tests rapides (Covid, grippe, angine)</li>
+                <li>Vaccination (sur rendez-vous)</li>
+                <li>Préparations magistrales</li>
             </ul>
             
-            <h3>Chefs invités</h3>
-            <p>Participation exceptionnelle de chefs étoilés de Monaco, Nice et Cannes. Réservation obligatoire pour les ateliers culinaires.</p>
+            <h3>Services spécialisés</h3>
+            <p>Conseil en aromathérapie, orthopédie, matériel médical, suivi des traitements chroniques, livraison à domicile pour personnes âgées.</p>
         </content>
         <location>
-            <title>Palais des Festivals</title>
-            <address>1 Boulevard de la Croisette</address>
-            <postalCode>06400</postalCode>
-            <city>Cannes</city>
-            <latitude>43.5501</latitude>
-            <longitude>7.0174</longitude>
+            <title>Pharmacie Plan du Bois</title>
+            <address>856 Route de Saint laurent du var</address>
+            <postalCode>06610</postalCode>
+            <city>LA GAUDE</city>
+            <latitude>43.7311349</latitude>
+            <longitude>7.1641427</longitude>
         </location>
-    </event>
-	<event>
-        <title>Conférence "Patrimoine Maritime Méditerranéen"</title>
-        <category>Patrimoine</category>
-        <summary>Conférence exceptionnelle sur l'histoire maritime de la Méditerranée et son influence sur le développement régional.</summary>
-        <pubDate>2024-06-11T15:00:00Z</pubDate>
-        <updateDate>2024-06-13T09:45:00Z</updateDate>
-        <eventStartDate>2024-07-05</eventStartDate>
-        <eventEndDate>2024-07-05</eventEndDate>
-        <eventStartTime>20:00</eventStartTime>
-        <eventEndTime>22:30</eventEndTime>
-        <mainImage>https://images.unsplash.com/photo-1516733725897-1aa73b87c8c8?w=800&amp;h=600</mainImage>
-        <imageCaption>Vue sur le port historique avec bateaux traditionnels</imageCaption>
-        <content>
-            <h1>2000 ans d'histoire maritime</h1>
-            <p>Une conférence passionnante animée par des historiens et archéologues marins, retraçant l'évolution du patrimoine maritime méditerranéen et son impact sur notre région.</p>
-            
-            <h2>Thèmes abordés</h2>
-            <ul>
-                <li>Navigation antique et routes commerciales</li>
-                <li>Évolution des techniques navales</li>
-                <li>Patrimoine portuaire et architectural</li>
-                <li>Traditions maritimes locales</li>
-                <li>Enjeux contemporains de la mer</li>
-            </ul>
-            
-            <h3>Intervenants</h3>
-            <p>Professeur Michel Durand (Université de Nice), Dr. Sarah Martinez (CNRS), Capitaine Jean-Luc Vernay (Marine Nationale). Entrée libre, réservation conseillée.</p>
-        </content>
-        <location>
-            <title>Auditorium du Musée Océanographique</title>
-            <address>Avenue Saint-Martin</address>
-            <postalCode>98000</postalCode>
-            <city>Monaco</city>
-            <latitude>43.7317</latitude>
-            <longitude>7.4256</longitude>
-        </location>
-    </event>
-
-	
-    <event>
-        <title>Festival International de Jazz de la Côte d'Azur</title>
-        <category>Musique</category>
-        <summary>Le plus grand festival de jazz de la région revient pour sa 25ème édition avec des artistes internationaux de renom dans un cadre exceptionnel face à la mer.</summary>
-        <pubDate>2024-06-10T09:00:00Z</pubDate>
-        <updateDate>2024-06-12T15:30:00Z</updateDate>
-        <eventStartDate>2024-07-20</eventStartDate>
-        <eventEndDate>2024-07-23</eventEndDate>
-        <eventStartTime>19:30</eventStartTime>
-        <eventEndTime>23:30</eventEndTime>
-        <mainImage>https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=800&amp;h=600</mainImage>
-        <imageCaption>Scène principale du festival avec vue panoramique sur la mer</imageCaption>
-        <content>
-            <h1>25 ans de passion musicale</h1>
-            <p>Le Festival International de Jazz revient pour une édition exceptionnelle réunissant les plus grands noms du jazz mondial. Quatre soirées inoubliables dans un amphithéâtre naturel face à la Méditerranée.</p>
-            
-            <h2>Programmation prestigieuse</h2>
-            <ul>
-                <li>Samedi 20 juillet : Marcus Miller Quartet</li>
-                <li>Dimanche 21 juillet : Diana Krall Trio</li>
-                <li>Lundi 22 juillet : Ibrahim Maalouf &amp; Friends</li>
-                <li>Mardi 23 juillet : Brad Mehldau Solo Piano</li>
-            </ul>
-            
-            <h3>Informations pratiques</h3>
-            <p>Ouverture des portes à 18h30. Restauration sur site avec des spécialités locales. Parking gratuit à 500m du site. En cas de pluie, repli dans la salle municipale.</p>
-        </content>
-        <location>
-            <title>Théâtre de Verdure</title>
-            <address>Avenue du Théâtre de Verdure</address>
-            <postalCode>06000</postalCode>
-            <city>Nice</city>
-            <latitude>43.6962</latitude>
-            <longitude>7.2667</longitude>
-        </location>
-        <additionalInformation>WiFi gratuit, climatisation, accessibilité PMR</additionalInformation>
-		<schedule>
-			<day name="Lundi">
-				<datetime>13/02/2024 09:00-18:00</datetime>
-			</day>
-			<day name="Mardi">
-				<datetime>14/02/2024 09:00-18:00</datetime>
-			</day>
-			<day name="Mercredi">
-				<datetime>15/02/2024 09:00-18:00</datetime>
-			</day>
-			<day name="Jeudi">
-				<datetime>16/02/2024 09:00-18:00</datetime>
-			</day>
-			<day name="Vendredi">
-				<datetime>17/02/2024 09:00-18:00</datetime>
-			</day>
-			<day name="Samedi">
-				<datetime>18/02/2024 09:00-17:00</datetime>
-			</day>
-			<day name="Dimanche">
-				<datetime>19/02/2024 10:00-16:00</datetime>
-			</day>
-		</schedule>
-		<website>https://www.ot-cotedazur.fr</website>
-        <phone1>+33 4 93 87 60 60</phone1>
-        <phone2>+33 4 93 87 60 61</phone2>
-        <email>contact@ot-cotedazur.fr</email>
-        <contact>
-            <firstName>Marie</firstName>
-            <lastName>Dubois</lastName>
-            <phone>+33 4 93 87 60 65</phone>
-            <email>marie.dubois@ot-cotedazur.fr</email>
-        </contact>
-        <facebook>https://facebook.com/OTCotedAzur</facebook>
-        <twitter>https://twitter.com/OTCotedAzur</twitter>
-        <instagram>https://instagram.com/ot_cotedazur</instagram>
-        <linkedin>https://linkedin.com/company/ot-cotedazur</linkedin>
-        <youtube>https://youtube.com/OTCotedAzur</youtube>
-		<download>
-            <icon>pdf</icon>
-            <title>Guide touristique officiel 2024</title>
-            <type>PDF</type>
-            <size>15.2 MB</size>
-            <link>https://drissas.com/wp-content/uploads/2023/01/FLUTTER-REVOLUTION.pdf</link>
-        </download>
-
-    </event>
-
-    <event>
-        <title>Marché Provençal Nocturne</title>
-        <category>Tradition</category>
-        <summary>Tous les vendredis soir de l'été, découvrez l'authenticité provençale dans une ambiance chaleureuse et conviviale au cœur du village.</summary>
-        <pubDate>2024-06-08T14:00:00Z</pubDate>
-        <updateDate>2024-06-10T11:00:00Z</updateDate>
-        <eventStartDate>2024-06-21</eventStartDate>
-        <eventEndDate>2024-09-13</eventEndDate>
-        <eventStartTime>18:00</eventStartTime>
-        <eventEndTime>23:00</eventEndTime>
-        <mainImage>https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=800&amp;h=600</mainImage>
-        <imageCaption>Étals colorés du marché nocturne avec produits locaux</imageCaption>
-        <content>
-            <h1>L'art de vivre provençal</h1>
-            <p>Chaque vendredi soir, la place du village retrouve son animation d'antan avec le marché nocturne. Producteurs locaux, artisans et restaurateurs vous font découvrir les saveurs authentiques de la Provence.</p>
-            
-            <h2>Au programme</h2>
-            <ul>
-                <li>Produits du terroir : fruits, légumes, fromages, miel</li>
-                <li>Artisanat local : poterie, bijoux, textiles</li>
-                <li>Restauration sur place : spécialités provençales</li>
-                <li>Animations musicales avec musiciens locaux</li>
-            </ul>
-        </content>
-        <location>
-            <title>Place du Village</title>
-            <address>Place de la République</address>
-            <postalCode>06100</postalCode>
-            <city>Antibes</city>
-            <latitude>43.5805</latitude>
-            <longitude>7.1252</longitude>
-        </location>
-		<additionalInformation>Terrasse, réservation conseillée, menu enfant disponible</additionalInformation>
-       <schedule>
-			<day name="Mardi">
-				<time>12:00-14:00, 19:00-22:30</time>
-			</day>
-			<day name="Mercredi">
-				<time>12:00-14:00, 19:00-22:30</time>
-			</day>
-			<day name="Jeudi">
-				<time>12:00-14:00, 19:00-22:30</time>
-			</day>
-			<day name="Vendredi">
-				<time>12:00-14:00, 19:00-22:30</time>
-			</day>
-			<day name="Samedi">
-				<time>12:00-14:00, 19:00-23:00</time>
-			</day>
-			<day name="Dimanche">
-				<time>12:00-14:00</time>
-			</day>
-			<day name="Lundi">
-				<time>Fermé</time>
-			</day>
-		</schedule>
-        <website>https://www.restaurant-mediterranee.fr</website>
-        <phone1>+33 4 93 64 71 23</phone1>
-        <email>reservation@restaurant-mediterranee.fr</email>
-        <contact>
-            <firstName>Pierre</firstName>
-            <lastName>Martin</lastName>
-            <phone>+33 4 93 64 71 23</phone>
-            <email>pierre.martin@restaurant-mediterranee.fr</email>
-        </contact>
-        <facebook>https://facebook.com/RestaurantMediterranee</facebook>
-        <instagram>https://instagram.com/restaurant_mediterranee</instagram>
-		<download>
-            <icon>pdf</icon>
-            <title>Plan des transports 2024</title>
-            <type>PDF</type>
-            <size>8.7 MB</size>
-            <link>https://drissas.com/wp-content/uploads/2023/01/FLUTTER-REVOLUTION.pdf</link>
-        </download>
-    </event>
-
-    <event>
-        <title>Exposition "Peintres de la Méditerranée"</title>
-        <category>Art</category>
-        <summary>Une exposition exceptionnelle dédiée aux artistes qui ont puisé leur inspiration dans la lumière et les paysages méditerranéens.</summary>
-        <pubDate>2024-06-05T10:30:00Z</pubDate>
-        <updateDate>2024-06-08T16:00:00Z</updateDate>
-        <eventStartDate>2024-06-15</eventStartDate>
-        <eventEndDate>2024-09-30</eventEndDate>
-        <eventStartTime>10:00</eventStartTime>
-        <eventEndTime>18:00</eventEndTime>
-        <mainImage>https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=800&amp;h=600</mainImage>
-        <imageCaption>Galerie d'art avec œuvres d'artistes méditerranéens</imageCaption>
-        <content>
-            <h1>La Méditerranée des artistes</h1>
-            <p>Cette exposition rassemble plus de 80 œuvres d'artistes qui ont trouvé dans la Méditerranée une source d'inspiration inépuisable. De l'impressionnisme au contemporain, découvrez comment la lumière du Midi a influencé l'art occidental.</p>
-            
-            <h2>Artistes exposés</h2>
-            <ul>
-                <li>Claude Monet - Série "Antibes"</li>
-                <li>Henri Matisse - Période niçoise</li>
-                <li>Pablo Picasso - Vallauris</li>
-                <li>Marc Chagall - Œuvres méditerranéennes</li>
-                <li>Artistes contemporains régionaux</li>
-            </ul>
-            
-            <h3>Visites guidées</h3>
-            <p>Visites guidées tous les samedis à 15h. Réservation recommandée. Tarif réduit pour les groupes de plus de 10 personnes.</p>
-        </content>
-        <location>
-            <title>Musée d'Art Moderne</title>
-            <address>Avenue du Musée</address>
-            <postalCode>06300</postalCode>
-            <city>Cannes</city>
-            <latitude>43.5513</latitude>
-            <longitude>7.0128</longitude>
-        </location>
-		<additionalInformation>Piscine, spa, restaurant, bar, parking, WiFi, climatisation</additionalInformation>
+        <additionalInformation>Parking client, accessibilité PMR, service de livraison</additionalInformation>
         <schedule>
-            <day name="Réception">
-                <time>24h/24</time>
+            <day name="Lundi">
+                <time>08:30-12:30, 14:30-19:30</time>
+            </day>
+            <day name="Mardi">
+                <time>08:30-12:30, 14:30-19:30</time>
+            </day>
+            <day name="Mercredi">
+                <time>08:30-12:30, 14:30-19:30</time>
+            </day>
+            <day name="Jeudi">
+                <time>08:30-12:30, 14:30-19:30</time>
+            </day>
+            <day name="Vendredi">
+                <time>08:30-12:30, 14:30-19:30</time>
+            </day>
+            <day name="Samedi">
+                <time>08:30-12:30, 14:30-19:00</time>
+            </day>
+            <day name="Dimanche">
+                <time>Fermé (garde selon planning)</time>
             </day>
         </schedule>
-        <website>https://www.hotel-vue-mer.com</website>
-        <phone1>+33 4 93 61 45 89</phone1>
-        <phone2>+33 4 93 61 45 90</phone2>
-        <email>contact@hotel-vue-mer.com</email>
+        <website>https://www.pharmacie-plandubois.fr</website>
+        <phone1>+33 4 93 24 75 86</phone1>
+        <email>contact@pharmacie-plandubois.fr</email>
         <contact>
-            <firstName>Sophie</firstName>
-            <lastName>Leroy</lastName>
-            <phone>+33 4 93 61 45 89</phone>
-            <email>direction@hotel-vue-mer.com</email>
+            <firstName>Dr. Marine</firstName>
+            <lastName>Lefebvre</lastName>
+            <phone>+33 4 93 24 75 86</phone>
+            <email>marine.lefebvre@pharmacie-plandubois.fr</email>
         </contact>
-        <facebook>https://facebook.com/HotelVueMer</facebook>
-        <instagram>https://instagram.com/hotel_vue_mer</instagram>
-        <linkedin>https://linkedin.com/company/hotel-vue-mer</linkedin>
-		<download>
+        <facebook>https://facebook.com/PharmaciePlanDuBois</facebook>
+        <download>
             <icon>pdf</icon>
-            <title>Carte des sentiers de randonnée</title>
+            <title>Guide des services pharmaceutiques</title>
             <type>PDF</type>
-            <size>18.9 MB</size>
+            <size>2.3 MB</size>
             <link>https://drissas.com/wp-content/uploads/2023/01/FLUTTER-REVOLUTION.pdf</link>
         </download>
     </event>
 
- 
+    <event>
+        <title>MARCHÉ À LA BARONNE</title>
+        <category>Marchés - Food truck</category>
+        <summary>Marché local hebdomadaire proposant produits frais, spécialités régionales et artisanat dans le quartier résidentiel de La Baronne.</summary>
+        <pubDate>2024-06-14T07:30:00Z</pubDate>
+        <updateDate>2024-06-16T08:45:00Z</updateDate>
+        <eventStartDate>2024-06-18</eventStartDate>
+        <eventEndDate>2024-12-31</eventEndDate>
+        <eventStartTime>08:00</eventStartTime>
+        <eventEndTime>13:00</eventEndTime>
+        <mainImage>https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=800&amp;h=600</mainImage>
+        <imageCaption>Étals colorés du marché de La Baronne avec produits locaux</imageCaption>
+        <content>
+            <h1>Le marché de quartier authentique</h1>
+            <p>Chaque mardi matin, la Place Sciandra se transforme en marché de proximité où producteurs locaux et commerçants proposent le meilleur du terroir provençal.</p>
+            
+            <h2>Nos producteurs</h2>
+            <ul>
+                <li>Fruits et légumes de saison bio</li>
+                <li>Fromages fermiers de la région</li>
+                <li>Charcuterie artisanale</li>
+                <li>Pain et pâtisseries traditionnelles</li>
+                <li>Fleurs et plantes aromatiques</li>
+                <li>Miel et produits de la ruche</li>
+            </ul>
+            
+            <h3>Ambiance conviviale</h3>
+            <p>Marché familial dans un cadre résidentiel calme. Parking facile, accès poussettes. Ambiance musicale avec accordéoniste certains matins.</p>
+        </content>
+        <location>
+            <title>Marché à La Baronne</title>
+            <address>Place Sciandra</address>
+            <postalCode>06610</postalCode>
+            <city>LA GAUDE</city>
+            <latitude>43.7194274</latitude>
+            <longitude>7.179155</longitude>
+        </location>
+        <additionalInformation>Parking gratuit, accès PMR, ambiance familiale</additionalInformation>
+        <schedule>
+            <day name="Mardi">
+                <time>08:00-13:00</time>
+            </day>
+        </schedule>
+        <website>https://www.lagaude.fr/marches</website>
+        <phone1>+33 4 93 24 65 89</phone1>
+        <email>marches@lagaude.fr</email>
+        <contact>
+            <firstName>Michel</firstName>
+            <lastName>Torrès</lastName>
+            <phone>+33 4 93 24 65 89</phone>
+            <email>michel.torres@lagaude.fr</email>
+        </contact>
+        <download>
+            <icon>pdf</icon>
+            <title>Plan du marché de La Baronne</title>
+            <type>PDF</type>
+            <size>1.3 MB</size>
+            <link>https://drissas.com/wp-content/uploads/2023/01/FLUTTER-REVOLUTION.pdf</link>
+        </download>
+    </event>
+
+    <event>
+        <title>MARCHÉ D'APOLLINE</title>
+        <category>Marchés - Food truck</category>
+        <summary>Grand marché hebdomadaire de La Gaude proposant un large choix de produits frais, vêtements, brocante et spécialités locales.</summary>
+        <pubDate>2024-06-14T07:00:00Z</pubDate>
+        <updateDate>2024-06-16T08:30:00Z</updateDate>
+        <eventStartDate>2024-06-20</eventStartDate>
+        <eventEndDate>2024-12-31</eventEndDate>
+        <eventStartTime>07:30</eventStartTime>
+        <eventEndTime>13:30</eventEndTime>
+        <mainImage>https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=800&amp;h=600</mainImage>
+        <imageCaption>Grand marché d'Apolline avec nombreux étals variés</imageCaption>
+        <content>
+            <h1>Le grand marché de La Gaude</h1>
+            <p>Tous les jeudis, le Marché d'Apolline anime la Basse Gaude avec plus de 40 commerçants proposant produits frais, textile, brocante et spécialités régionales.</p>
+            
+            <h2>Large gamme de produits</h2>
+            <ul>
+                <li>Primeurs et producteurs bio locaux</li>
+                <li>Poissonnerie et fruits de mer</li>
+                <li>Boucherie et charcuterie</li>
+                <li>Textile et maroquinerie</li>
+                <li>Brocante et antiquités</li>
+                <li>Épicerie fine et spécialités</li>
+            </ul>
+            
+            <h3>Le plus grand marché local</h3>
+            <p>Parking gratuit de 64 places. Navette gratuite depuis le village les jours de marché. Présence de food trucks pour restauration sur place.</p>
+        </content>
+        <location>
+            <title>Marché d'Apolline</title>
+            <address>Rue du Pontis</address>
+            <postalCode>06610</postalCode>
+            <city>LA GAUDE</city>
+            <latitude>43.7195049</latitude>
+            <longitude>7.1496923</longitude>
+        </location>
+        <additionalInformation>Grand parking gratuit, navette villageoise, food trucks</additionalInformation>
+        <schedule>
+            <day name="Jeudi">
+                <time>07:30-13:30</time>
+            </day>
+        </schedule>
+        <website>https://www.lagaude.fr/marches</website>
+        <phone1>+33 4 93 24 65 89</phone1>
+        <email>marches@lagaude.fr</email>
+        <contact>
+            <firstName>Sylvie</firstName>
+            <lastName>Perrin</lastName>
+            <phone>+33 4 93 24 65 89</phone>
+            <email>sylvie.perrin@lagaude.fr</email>
+        </contact>
+        <download>
+            <icon>pdf</icon>
+            <title>Plan du marché d'Apolline</title>
+            <type>PDF</type>
+            <size>2.1 MB</size>
+            <link>https://drissas.com/wp-content/uploads/2023/01/FLUTTER-REVOLUTION.pdf</link>
+        </download>
+    </event>
+
+    <event>
+        <title>Parc des Constellations</title>
+        <category>Loisirs</category>
+        <summary>Espace vert familial de 2 hectares proposant aires de jeux, parcours sportif et espaces de détente dans un cadre naturel préservé.</summary>
+        <pubDate>2024-06-07T10:00:00Z</pubDate>
+        <updateDate>2024-06-12T14:00:00Z</updateDate>
+        <eventStartDate>2024-06-15</eventStartDate>
+        <eventEndDate>2024-12-31</eventEndDate>
+        <eventStartTime>07:00</eventStartTime>
+        <eventEndTime>20:00</eventEndTime>
+        <mainImage>https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800&amp;h=600</mainImage>
+        <imageCaption>Aire de jeux moderne au Parc des Constellations</imageCaption>
+        <content>
+            <h1>Espace nature et détente</h1>
+            <p>Le Parc des Constellations offre un cadre idéal pour les familles avec ses 2 hectares d'espaces verts aménagés au cœur du Domaine de l'Étoile.</p>
+            
+            <h2>Équipements disponibles</h2>
+            <ul>
+                <li>Aires de jeux pour enfants (2-12 ans)</li>
+                <li>Parcours santé et fitness en plein air</li>
+                <li>Tables de pique-nique et barbecues</li>
+                <li>Terrain de pétanque</li>
+                <li>Sentiers de promenade balisés</li>
+                <li>Aire de repos ombragée</li>
+            </ul>
+            
+            <h3>Services</h3>
+            <p>Parking gratuit, accès PMR, fontaine d'eau potable, poubelles de tri sélectif, surveillance estivale, entretien quotidien.</p>
+        </content>
+        <location>
+            <title>Parc des Constellations</title>
+            <address>Grande Allée Alpha du Centaure</address>
+            <postalCode>06610</postalCode>
+            <city>LA GAUDE</city>
+            <latitude>43.7028314</latitude>
+            <longitude>7.1631503</longitude>
+        </location>
+        <additionalInformation>Accès libre, parking gratuit, aire de pique-nique</additionalInformation>
+        <schedule>
+            <day name="Ouverture">
+                <time>7h00-20h00 (été) / 8h00-18h00 (hiver)</time>
+            </day>
+        </schedule>
+        <website>https://www.lagaude.fr/parcs-jardins</website>
+        <phone1>+33 4 93 24 65 89</phone1>
+        <email>espaces.verts@lagaude.fr</email>
+        <contact>
+            <firstName>Marc</firstName>
+            <lastName>Fontaine</lastName>
+            <phone>+33 4 93 24 65 89</phone>
+            <email>marc.fontaine@lagaude.fr</email>
+        </contact>
+        <download>
+            <icon>pdf</icon>
+            <title>Plan et règlement du Parc des Constellations</title>
+            <type>PDF</type>
+            <size>1.4 MB</size>
+            <link>https://drissas.com/wp-content/uploads/2023/01/FLUTTER-REVOLUTION.pdf</link>
+        </download>
+    </event>
+
+    <event>
+        <title>BOULANGERIE PATISSERIE AUX DÉLICES DE LA GAUDE</title>
+        <category>Alimentation</category>
+        <summary>Boulangerie artisanale proposant pains traditionnels, viennoiseries, pâtisseries et spécialités locales dans un esprit familial.</summary>
+        <pubDate>2024-06-13T06:00:00Z</pubDate>
+        <updateDate>2024-06-16T07:30:00Z</updateDate>
+        <eventStartDate>2024-06-17</eventStartDate>
+        <eventEndDate>2024-12-31</eventEndDate>
+        <eventStartTime>06:30</eventStartTime>
+        <eventEndTime>19:30</eventEndTime>
+        <mainImage>https://images.unsplash.com/photo-1509440159596-0249088772ff?w=800&amp;h=600</mainImage>
+        <imageCaption>Vitrine de la boulangerie avec pains et pâtisseries artisanales</imageCaption>
+        <content>
+            <h1>L'art boulanger traditionnel</h1>
+            <p>La Boulangerie Aux Délices de La Gaude perpétue la tradition artisanale avec des pains cuits au feu de bois et des pâtisseries préparées quotidiennement selon des recettes familiales.</p>
+            
+            <h2>Nos spécialités</h2>
+            <ul>
+                <li>Pain traditionnel cuit au feu de bois</li>
+                <li>Viennoiseries pur beurre</li>
+                <li>Pâtisseries fraîches quotidiennes</li>
+                <li>Sandwichs et salades préparés</li>
+                <li>Gâteaux personnalisés sur commande</li>
+                <li>Spécialités provençales (fougasses, croquants)</li>
+            </ul>
+            
+            <h3>Service traiteur</h3>
+            <p>Plateaux apéritifs, buffets salés et sucrés pour vos événements. Livraison possible sur La Gaude. Commandes spéciales pour mariages et baptêmes.</p>
+        </content>
+        <location>
+            <title>Boulangerie Aux Délices de La Gaude</title>
+            <address>6 Allée Hector PINTUS</address>
+            <postalCode>06610</postalCode>
+            <city>LA GAUDE</city>
+            <latitude>43.7316621</latitude>
+            <longitude>7.1641079</longitude>
+        </location>
+        <additionalInformation>Parking galerie marchande, commandes spéciales, service traiteur</additionalInformation>
+        <schedule>
+            <day name="Lundi">
+                <time>06:30-13:00, 15:30-19:30</time>
+            </day>
+            <day name="Mardi">
+                <time>06:30-13:00, 15:30-19:30</time>
+            </day>
+            <day name="Mercredi">
+                <time>06:30-13:00, 15:30-19:30</time>
+            </day>
+            <day name="Jeudi">
+                <time>06:30-13:00, 15:30-19:30</time>
+            </day>
+            <day name="Vendredi">
+                <time>06:30-13:00, 15:30-19:30</time>
+            </day>
+            <day name="Samedi">
+                <time>06:30-13:00, 15:30-19:00</time>
+            </day>
+            <day name="Dimanche">
+                <time>07:00-13:00</time>
+            </day>
+        </schedule>
+        <website>https://www.delices-lagaude.fr</website>
+        <phone1>+33 4 93 24 78 92</phone1>
+        <email>contact@delices-lagaude.fr</email>
+        <contact>
+            <firstName>Patrick</firstName>
+            <lastName>Lemoine</lastName>
+            <phone>+33 4 93 24 78 92</phone>
+            <email>patrick@delices-lagaude.fr</email>
+        </contact>
+        <facebook>https://facebook.com/DelicesLaGaude</facebook>
+        <instagram>https://instagram.com/delices_lagaude</instagram>
+        <download>
+            <icon>pdf</icon>
+            <title>Catalogue traiteur 2024</title>
+            <type>PDF</type>
+            <size>2.7 MB</size>
+            <link>https://drissas.com/wp-content/uploads/2023/01/FLUTTER-REVOLUTION.pdf</link>
+        </download>
+    </event>
+
+    <event>
+        <title>MIDAS</title>
+        <category>Automobile</category>
+        <summary>Centre auto Midas spécialisé dans l'entretien automobile, pneumatiques, freinage et révisions toutes marques avec garantie constructeur.</summary>
+        <pubDate>2024-06-11T08:30:00Z</pubDate>
+        <updateDate>2024-06-15T16:00:00Z</updateDate>
+        <eventStartDate>2024-06-17</eventStartDate>
+        <eventEndDate>2024-12-31</eventEndDate>
+        <eventStartTime>08:00</eventStartTime>
+        <eventEndTime>18:30</eventEndTime>
+        <mainImage>https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?w=800&amp;h=600</mainImage>
+        <imageCaption>Atelier Midas avec véhicule sur pont élévateur</imageCaption>
+        <content>
+            <h1>Votre expert automobile</h1>
+            <p>Le centre Midas La Gaude vous propose tous les services d'entretien et de réparation automobile avec des techniciens certifiés et des pièces de qualité garanties.</p>
+            
+            <h2>Nos services</h2>
+            <ul>
+                <li>Révisions et vidanges toutes marques</li>
+                <li>Pneumatiques et équilibrage</li>
+                <li>Freinage et amortisseurs</li>
+                <li>Échappement et catalyseur</li>
+                <li>Climatisation automobile</li>
+                <li>Contrôle technique et contre-visite</li>
+            </ul>
+            
+            <h3>Garanties et services</h3>
+            <p>Devis gratuit, garantie pièces et main d'œuvre, véhicule de courtoisie sur demande. Paiement en plusieurs fois possible. Prise de rendez-vous en ligne.</p>
+        </content>
+        <location>
+            <title>Midas La Gaude</title>
+            <address>734 Route de Saint-Laurent-du-Var</address>
+            <postalCode>06610</postalCode>
+            <city>LA GAUDE</city>
+            <latitude>43.7319102</latitude>
+            <longitude>7.1637726</longitude>
+        </location>
+        <additionalInformation>Véhicule de courtoisie, devis gratuit, paiement facilités</additionalInformation>
+        <schedule>
+            <day name="Lundi">
+                <time>08:00-12:00, 14:00-18:30</time>
+            </day>
+            <day name="Mardi">
+                <time>08:00-12:00, 14:00-18:30</time>
+            </day>
+            <day name="Mercredi">
+                <time>08:00-12:00, 14:00-18:30</time>
+            </day>
+            <day name="Jeudi">
+                <time>08:00-12:00, 14:00-18:30</time>
+            </day>
+            <day name="Vendredi">
+                <time>08:00-12:00, 14:00-18:30</time>
+            </day>
+            <day name="Samedi">
+                <time>08:00-12:00, 14:00-17:00</time>
+            </day>
+            <day name="Dimanche">
+                <time>Fermé</time>
+            </day>
+        </schedule>
+        <website>https://www.midas.fr/centres/la-gaude</website>
+        <phone1>+33 4 93 24 89 67</phone1>
+        <email>lagaude@midas.fr</email>
+        <contact>
+            <firstName>Christophe</firstName>
+            <lastName>Vasseur</lastName>
+            <phone>+33 4 93 24 89 67</phone>
+            <email>christophe.vasseur@midas.fr</email>
+        </contact>
+        <download>
+            <icon>pdf</icon>
+            <title>Guide entretien automobile Midas</title>
+            <type>PDF</type>
+            <size>3.2 MB</size>
+            <link>https://drissas.com/wp-content/uploads/2023/01/FLUTTER-REVOLUTION.pdf</link>
+        </download>
+    </event>
+
+    <event>
+        <title>PIZZA VALERIA</title>
+        <category>Restauration</category>
+        <summary>Pizzeria familiale proposant pizzas artisanales, pâtes fraîches et spécialités italiennes à emporter ou en livraison dans un cadre convivial.</summary>
+        <pubDate>2024-06-12T11:30:00Z</pubDate>
+        <updateDate>2024-06-16T14:45:00Z</updateDate>
+        <eventStartDate>2024-06-17</eventStartDate>
+        <eventEndDate>2024-12-31</eventEndDate>
+        <eventStartTime>18:00</eventStartTime>
+        <eventEndTime>22:30</eventEndTime>
+        <mainImage>https://images.unsplash.com/photo-1513104890138-7c749659a591?w=800&amp;h=600</mainImage>
+        <imageCaption>Four à pizza traditionnel avec pizza margherita</imageCaption>
+        <content>
+            <h1>Saveurs italiennes authentiques</h1>
+            <p>Pizza Valeria vous propose une cuisine italienne traditionnelle avec des pizzas cuites au feu de bois, pâtes fraîches maison et produits importés directement d'Italie.</p>
+            
+            <h2>Notre carte</h2>
+            <ul>
+                <li>Pizzas au feu de bois (pâte 24h de repos)</li>
+                <li>Pâtes fraîches et sauces maison</li>
+                <li>Antipasti et charcuteries italiennes</li>
+                <li>Salades fraîches et bruschetta</li>
+                <li>Desserts italiens (tiramisu, panna cotta)</li>
+                <li>Vins italiens sélectionnés</li>
+            </ul>
+            
+            <h3>Livraison à domicile</h3>
+            <p>Service de livraison gratuite sur La Gaude et communes limitrophes dès 25€. Commande en ligne ou par téléphone. Emballages écologiques.</p>
+        </content>
+        <location>
+            <title>Pizza Valeria</title>
+            <address>2067 Avenue Marcel Pagnol</address>
+            <postalCode>06610</postalCode>
+            <city>LA GAUDE</city>
+            <latitude>43.7000623</latitude>
+            <longitude>7.164191</longitude>
+        </location>
+        <additionalInformation>Livraison gratuite, emporter, terrasse, parking</additionalInformation>
+        <schedule>
+            <day name="Mardi">
+                <time>18:00-22:30</time>
+            </day>
+            <day name="Mercredi">
+                <time>18:00-22:30</time>
+            </day>
+            <day name="Jeudi">
+                <time>18:00-22:30</time>
+            </day>
+            <day name="Vendredi">
+                <time>18:00-22:30</time>
+            </day>
+            <day name="Samedi">
+                <time>18:00-22:30</time>
+            </day>
+            <day name="Dimanche">
+                <time>18:00-22:00</time>
+            </day>
+            <day name="Lundi">
+                <time>Fermé</time>
+            </day>
+        </schedule>
+        <website>https://www.pizza-valeria.fr</website>
+        <phone1>+33 4 93 24 96 78</phone1>
+        <email>contact@pizza-valeria.fr</email>
+        <contact>
+            <firstName>Giuseppe</firstName>
+            <lastName>Valeria</lastName>
+            <phone>+33 4 93 24 96 78</phone>
+            <email>giuseppe@pizza-valeria.fr</email>
+        </contact>
+        <facebook>https://facebook.com/PizzaValeria</facebook>
+        <instagram>https://instagram.com/pizza_valeria</instagram>
+        <download>
+            <icon>pdf</icon>
+            <title>Carte Pizza Valeria</title>
+            <type>PDF</type>
+            <size>1.6 MB</size>
+            <link>https://drissas.com/wp-content/uploads/2023/01/FLUTTER-REVOLUTION.pdf</link>
+        </download>
+    </event>
+
+    <event>
+        <title>Mairie de La Gaude</title>
+        <category>Service public</category>
+        <summary>Hôtel de ville proposant tous les services administratifs municipaux avec un accueil personnalisé et des démarches simplifiées pour les citoyens.</summary>
+        <pubDate>2024-06-10T08:00:00Z</pubDate>
+        <updateDate>2024-06-15T17:00:00Z</updateDate>
+        <eventStartDate>2024-06-17</eventStartDate>
+        <eventEndDate>2024-12-31</eventEndDate>
+        <eventStartTime>08:30</eventStartTime>
+        <eventEndTime>17:00</eventEndTime>
+        <mainImage>https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&amp;h=600</mainImage>
+        <imageCaption>Façade de la mairie de La Gaude avec drapeau français</imageCaption>
+        <content>
+            <h1>Votre mairie au service des citoyens</h1>
+            <p>La Mairie de La Gaude vous accueille dans ses locaux rénovés pour toutes vos démarches administratives. Une équipe de 25 agents vous accompagne au quotidien.</p>
+            
+            <h2>Services disponibles</h2>
+            <ul>
+                <li>État civil (naissances, mariages, décès)</li>
+                <li>Cartes d'identité et passeports</li>
+                <li>Urbanisme et permis de construire</li>
+                <li>Inscriptions scolaires et périscolaires</li>
+                <li>Associations et vie citoyenne</li>
+                <li>Police municipale et sécurité</li>
+            </ul>
+            
+            <h3>Services numériques</h3>
+            <p>Téléprocédures en ligne, prise de rendez-vous sur internet, WiFi gratuit dans le hall d'accueil. Borne d'accueil automatique pour les démarches simples.</p>
+        </content>
+        <location>
+            <title>Mairie de La Gaude</title>
+            <address>6, rue Louis Michel Féraud</address>
+            <postalCode>06610</postalCode>
+            <city>LA GAUDE</city>
+            <latitude>43.7219862</latitude>
+            <longitude>7.1527863</longitude>
+        </location>
+        <additionalInformation>Accessibilité PMR, WiFi gratuit, parking municipal</additionalInformation>
+        <schedule>
+            <day name="Lundi">
+                <time>08:30-12:00, 13:30-17:00</time>
+            </day>
+            <day name="Mardi">
+                <time>08:30-12:00, 13:30-17:00</time>
+            </day>
+            <day name="Mercredi">
+                <time>08:30-12:00, 13:30-17:00</time>
+            </day>
+            <day name="Jeudi">
+                <time>08:30-12:00, 13:30-17:00</time>
+            </day>
+            <day name="Vendredi">
+                <time>08:30-12:00, 13:30-17:00</time>
+            </day>
+            <day name="Samedi">
+                <time>09:00-12:00 (État civil uniquement)</time>
+            </day>
+            <day name="Dimanche">
+                <time>Fermé</time>
+            </day>
+        </schedule>
+        <website>https://www.lagaude.fr</website>
+        <phone1>+33 4 93 24 65 00</phone1>
+        <phone2>+33 4 93 24 65 01</phone2>
+        <email>accueil@lagaude.fr</email>
+        <contact>
+            <firstName>Marie-Claire</firstName>
+            <lastName>Dubois</lastName>
+            <phone>+33 4 93 24 65 00</phone>
+            <email>marie-claire.dubois@lagaude.fr</email>
+        </contact>
+        <facebook>https://facebook.com/VilleLaGaude</facebook>
+        <instagram>https://instagram.com/ville_lagaude</instagram>
+        <download>
+            <icon>pdf</icon>
+            <title>Guide des démarches administratives</title>
+            <type>PDF</type>
+            <size>4.8 MB</size>
+            <link>https://drissas.com/wp-content/uploads/2023/01/FLUTTER-REVOLUTION.pdf</link>
+        </download>
+    </event>
+
+    <event>
+        <title>La Poste</title>
+        <category>Service public</category>
+        <summary>Bureau de poste proposant tous les services postaux, bancaires et numériques avec des horaires adaptés aux besoins des habitants.</summary>
+        <pubDate>2024-06-12T09:00:00Z</pubDate>
+        <updateDate>2024-06-16T10:30:00Z</updateDate>
+        <eventStartDate>2024-06-17</eventStartDate>
+        <eventEndDate>2024-12-31</eventEndDate>
+        <eventStartTime>09:00</eventStartTime>
+        <eventEndTime>17:30</eventEndTime>
+        <mainImage>https://images.unsplash.com/photo-1586953983019-35ba93df4e40?w=800&amp;h=600</mainImage>
+        <imageCaption>Bureau de poste moderne avec guichets automatiques</imageCaption>
+        <content>
+            <h1>Tous vos services postaux</h1>
+            <p>Le bureau de poste de La Gaude vous propose l'ensemble des services La Poste dans un cadre moderne et accueillant, avec des solutions adaptées aux particuliers et professionnels.</p>
+            
+            <h2>Nos services</h2>
+            <ul>
+                <li>Envoi et réception de courrier et colis</li>
+                <li>Services bancaires La Banque Postale</li>
+                <li>Boîtes postales et domiciliation</li>
+                <li>Timbres, emballages et fournitures</li>
+                <li>Services numériques et identité</li>
+                <li>Retraits de colis Amazon et autres</li>
+            </ul>
+            
+            <h3>Services complémentaires</h3>
+            <p>Distributeur automatique 24h/24, point relais colis, services aux entreprises. Accès PMR, parking proche. Personnel multilingue.</p>
+        </content>
+        <location>
+            <title>La Poste La Gaude</title>
+            <address>7, rue Louis Michel Féraud</address>
+            <postalCode>06610</postalCode>
+            <city>LA GAUDE</city>
+            <latitude>43.7219862</latitude>
+            <longitude>7.1520996</longitude>
+        </location>
+        <additionalInformation>Distributeur 24h/24, point relais, services bancaires</additionalInformation>
+        <schedule>
+            <day name="Lundi">
+                <time>09:00-12:00, 14:00-17:30</time>
+            </day>
+            <day name="Mardi">
+                <time>09:00-12:00, 14:00-17:30</time>
+            </day>
+            <day name="Mercredi">
+                <time>09:00-12:00, 14:00-17:30</time>
+            </day>
+            <day name="Jeudi">
+                <time>09:00-12:00, 14:00-17:30</time>
+            </day>
+            <day name="Vendredi">
+                <time>09:00-12:00, 14:00-17:30</time>
+            </day>
+            <day name="Samedi">
+                <time>09:00-12:00</time>
+            </day>
+            <day name="Dimanche">
+                <time>Fermé</time>
+            </day>
+        </schedule>
+        <website>https://www.laposte.fr/particulier</website>
+        <phone1>+33 4 93 24 67 89</phone1>
+        <email>bureau.lagaude@laposte.fr</email>
+        <contact>
+            <firstName>Françoise</firstName>
+            <lastName>Martin</lastName>
+            <phone>+33 4 93 24 67 89</phone>
+            <email>francoise.martin@laposte.fr</email>
+        </contact>
+        <download>
+            <icon>pdf</icon>
+            <title>Guide des services La Poste</title>
+            <type>PDF</type>
+            <size>2.9 MB</size>
+            <link>https://drissas.com/wp-content/uploads/2023/01/FLUTTER-REVOLUTION.pdf</link>
+        </download>
+    </event>
 </cartes>
