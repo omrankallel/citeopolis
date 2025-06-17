@@ -40,7 +40,7 @@
         <summary>Plan détaillé du réseau de transports en commun avec horaires et tarifs actualisés. Indispensable pour vos déplacements.</summary>
         <pubDate>2024-06-02T09:00:00Z</pubDate>
         <updateDate>2024-06-04T16:00:00Z</updateDate>
-        <mainImage>https://example.com/images/plan-transport-cover.jpg</mainImage>
+        <mainImage>https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?w=800&amp;h=600</mainImage>
         <imageCaption>Aperçu du plan des transports</imageCaption>
         <content>
             <h1>Tous les transports à portée de main</h1>
@@ -71,7 +71,7 @@
         <summary>Découvrez l'histoire fascinante de notre architecture locale à travers cette brochure richement documentée et illustrée.</summary>
         <pubDate>2024-06-03T11:30:00Z</pubDate>
         <updateDate>2024-06-05T09:15:00Z</updateDate>
-        <mainImage>https://example.com/images/brochure-patrimoine-cover.jpg</mainImage>
+        <mainImage>https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800&amp;h=600</mainImage>
         <imageCaption>Couverture de la brochure patrimoine</imageCaption>
         <content>
             <h1>Un patrimoine architectural exceptionnel</h1>
@@ -102,7 +102,7 @@
         <summary>Carte détaillée des sentiers de randonnée avec niveaux de difficulté, points d'intérêt et conseils de sécurité.</summary>
         <pubDate>2024-06-04T08:45:00Z</pubDate>
         <updateDate>2024-06-05T12:30:00Z</updateDate>
-        <mainImage>https://example.com/images/carte-randonnee-cover.jpg</mainImage>
+        <mainImage>https://images.unsplash.com/photo-1551632811-561732d1e306?w=800&amp;h=600</mainImage>
         <imageCaption>Aperçu de la carte des sentiers</imageCaption>
         <content>
             <h1>Explorez notre territoire à pied</h1>
@@ -133,7 +133,7 @@
         <summary>Guide d'utilisation complet de notre application mobile pour profiter pleinement de toutes ses fonctionnalités.</summary>
         <pubDate>2024-06-05T10:00:00Z</pubDate>
         <updateDate>2024-06-05T14:00:00Z</updateDate>
-        <mainImage>https://example.com/images/app-guide-cover.jpg</mainImage>
+        <mainImage>https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=800&amp;h=600</mainImage>
         <imageCaption>Guide d'utilisation de l'application</imageCaption>
         <content>
             <h1>Maîtrisez votre application mobile</h1>
@@ -165,7 +165,7 @@
         <summary>Formulaire officiel pour les demandes d'autorisation d'événements et manifestations sur le territoire communal.</summary>
         <pubDate>2024-06-01T14:00:00Z</pubDate>
         <updateDate>2024-06-03T11:00:00Z</updateDate>
-        <mainImage>https://example.com/images/formulaire-autorisation.jpg</mainImage>
+        <mainImage>https://images.unsplash.com/photo-1586281380349-632531db7ed4?w=800&amp;h=600</mainImage>
         <imageCaption>Formulaire officiel d'autorisation</imageCaption>
         <content>
             <h1>Démarches administratives simplifiées</h1>
