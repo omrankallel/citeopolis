@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<downloads>
-    <download>
+<publications>
+    <publication>
         <title>Guide touristique officiel 2024</title>
         <category>Tourisme</category>
         <summary>Le guide complet pour découvrir toutes les merveilles de la côte méditerranéenne. Cartes détaillées, bonnes adresses et conseils pratiques.</summary>
@@ -32,9 +32,9 @@
             <size>15.2 MB</size>
             <link>https://drissas.com/wp-content/uploads/2023/01/FLUTTER-REVOLUTION.pdf</link>
         </download>
-    </download>
+    </publication>
 
-    <download>
+    <publication>
         <title>Plan des transports en commun</title>
         <category>Transport</category>
         <summary>Plan détaillé du réseau de transports en commun avec horaires et tarifs actualisés. Indispensable pour vos déplacements.</summary>
@@ -63,9 +63,9 @@
             <size>8.7 MB</size>
             <link>https://drissas.com/wp-content/uploads/2023/01/FLUTTER-REVOLUTION.pdf</link>
         </download>
-    </download>
+    </publication>
 
-    <download>
+    <publication>
         <title>Brochure patrimoine architectural</title>
         <category>Culture</category>
         <summary>Découvrez l'histoire fascinante de notre architecture locale à travers cette brochure richement documentée et illustrée.</summary>
@@ -94,9 +94,9 @@
             <size>22.5 MB</size>
             <link>https://drissas.com/wp-content/uploads/2023/01/FLUTTER-REVOLUTION.pdf</link>
         </download>
-    </download>
+    </publication>
 
-    <download>
+    <publication>
         <title>Carte des sentiers de randonnée</title>
         <category>Sport</category>
         <summary>Carte détaillée des sentiers de randonnée avec niveaux de difficulté, points d'intérêt et conseils de sécurité.</summary>
@@ -125,9 +125,9 @@
             <size>18.9 MB</size>
             <link>https://drissas.com/wp-content/uploads/2023/01/FLUTTER-REVOLUTION.pdf</link>
         </download>
-    </download>
+    </publication>
 
-    <download>
+    <publication>
         <title>Application mobile - Mode d'emploi</title>
         <category>Numérique</category>
         <summary>Guide d'utilisation complet de notre application mobile pour profiter pleinement de toutes ses fonctionnalités.</summary>
@@ -157,9 +157,9 @@
             <size>5.3 MB</size>
             <link>https://drissas.com/wp-content/uploads/2023/01/FLUTTER-REVOLUTION.pdf</link>
         </download>
-    </download>
+    </publication>
 
-    <download>
+    <publication>
         <title>Formulaire de demande d'autorisation</title>
         <category>Administratif</category>
         <summary>Formulaire officiel pour les demandes d'autorisation d'événements et manifestations sur le territoire communal.</summary>
@@ -190,5 +190,5 @@
             <size>245 KB</size>
             <link>https://drissas.com/wp-content/uploads/2023/01/FLUTTER-REVOLUTION.pdf</link>
         </download>
-    </download>
-</downloads>
+    </publication>
+</publications>
