@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Événements Tech 2025</title>
+    <description>Les événements technologiques incontournables de 2025</description>
+    <link>https://www.techevents.com</link>
+    <language>fr-FR</language>
+    <lastBuildDate>Tue, 24 Jun 2025 12:00:00 GMT</lastBuildDate>
+    
+    <item>
+      <title>Web Summit 2025 - La "Coupe du monde des conférences tech"</title>
+      <category>Conférence Tech</category>
+      <mainImage>https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800&amp;h=400&amp;fit=crop&amp;q=80</mainImage>
+      <eventStartDate>2025-11-10T09:00:00Z</eventStartDate>
+      <eventEndDate>2025-11-13T18:00:00Z</eventEndDate>
+      <link>https://websummit.com</link>
+      <description>"Là où le futur prend naissance" - Le Web Summit principal, considéré comme la "Coupe du monde des conférences tech". Plus de 70 000 participants attendus à Lisbonne pour découvrir les innovations qui façonnent notre avenir.</description>
+      <pubDate>Mon, 23 Jun 2025 10:00:00 GMT</pubDate>
+      <guid>https://websummit.com/2025</guid>
+    </item>
+    
+    <item>
+      <title>Tech Show Paris 2025 - 5 salons B2B réunis en un seul événement</title>
+      <category>Salon Professionnel</category>
+      <mainImage>https://images.unsplash.com/photo-1515187029135-18ee286d815b?w=800&amp;h=400&amp;fit=crop&amp;q=80</mainImage>
+      <eventStartDate>2025-11-05T08:30:00Z</eventStartDate>
+      <eventEndDate>2025-11-06T18:00:00Z</eventEndDate>
+      <link>https://www.techshowparis.fr</link>
+      <description>Le rendez-vous de référence pour les professionnels de la tech en France. Rassemble Cloud &amp; AI Infrastructure, Cyber Security Expo, DevOps Live, Data &amp; AI Leaders Summit et Data Centre World. Un seul badge pour 5 salons à Paris Expo Porte de Versailles.</description>
+      <pubDate>Sun, 22 Jun 2025 14:30:00 GMT</pubDate>
+      <guid>https://www.techshowparis.fr/2025</guid>
+    </item>
+    
+    <item>
+      <title>Big Data &amp; AI Paris 2025 - Plus grand salon français dédié aux données</title>
+      <category>Big Data &amp; IA</category>
+      <mainImage>https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=800&amp;h=400&amp;fit=crop&amp;q=80</mainImage>
+      <eventStartDate>2025-10-01T09:00:00Z</eventStartDate>
+      <eventEndDate>2025-10-02T18:00:00Z</eventEndDate>
+      <link>https://www.bigdataparis.com</link>
+      <description>Plus grand salon français dédié au Big Data et à l'IA avec 20 000 participants et 250 exposants. Paris Expo Porte de Versailles accueille les experts en données, IA et analytics pour deux jours d'innovations et de networking.</description>
+      <pubDate>Sat, 21 Jun 2025 11:15:00 GMT</pubDate>
+      <guid>https://www.bigdataparis.com/2025</guid>
+    </item>
+    
+    <item>
+      <title>VivaTech 2025 - Le plus grand événement tech et startup d'Europe</title>
+      <category>Innovation &amp; Startups</category>
+      <mainImage>https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800&amp;h=400&amp;fit=crop&amp;q=80</mainImage>
+      <eventStartDate>2025-06-11T09:00:00Z</eventStartDate>
+      <eventEndDate>2025-06-14T19:00:00Z</eventEndDate>
+      <link>https://vivatech.com</link>
+      <description>Le plus grand événement européen dédié à l'innovation technologique et aux startups. Rassemble entrepreneurs, investisseurs, leaders tech et grands groupes. Plus de 150 000 participants attendus pour découvrir les technologies qui transforment le monde.</description>
+      <pubDate>Fri, 20 Jun 2025 09:30:00 GMT</pubDate>
+      <guid>https://vivatech.com/2025</guid>
+    </item>
+    
+    <item>
+      <title>CES 2025 Las Vegas - Le salon mondial de l'innovation technologique</title>
+      <category>Innovation Technologique</category>
+      <mainImage>https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=800&amp;h=400&amp;fit=crop&amp;q=80</mainImage>
+      <eventStartDate>2025-01-07T09:00:00Z</eventStartDate>
+      <eventEndDate>2025-01-10T18:00:00Z</eventEndDate>
+      <link>https://www.ces.tech</link>
+      <description>Le salon mondial de l'innovation dévoile les dernières avancées technologiques : objets connectés, intelligence artificielle, réalité virtuelle, robotique. Les plus grandes marques y présentent leurs innovations révolutionnaires.</description>
+      <pubDate>Thu, 19 Jun 2025 15:20:00 GMT</pubDate>
+      <guid>https://www.ces.tech/2025</guid>
+    </item>
+    
+    <item>
+      <title>Mobile World Congress 2025 - Le plus grand salon mobile au monde</title>
+      <category>Télécommunications</category>
+      <mainImage>https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&amp;h=400&amp;fit=crop&amp;q=80</mainImage>
+      <eventStartDate>2025-02-24T09:00:00Z</eventStartDate>
+      <eventEndDate>2025-02-27T18:00:00Z</eventEndDate>
+      <link>https://www.mwcbarcelona.com</link>
+      <description>Le plus grand salon mondial consacré à la téléphonie mobile et aux technologies sans fil. Focus sur l'évolution de la 5G, les premiers pas de la 6G, IoT, IA et blockchain. Plus de 100 000 professionnels attendus à Barcelone.</description>
+      <pubDate>Wed, 18 Jun 2025 12:45:00 GMT</pubDate>
+      <guid>https://www.mwcbarcelona.com/2025</guid>
+    </item>
+    
+    <item>
+      <title>Apple WWDC 2025 - Worldwide Developers Conference</title>
+      <category>Développement Mobile</category>
+      <mainImage>https://images.unsplash.com/photo-1607522370275-f14206abe5d3?w=800&amp;h=400&amp;fit=crop&amp;q=80</mainImage>
+      <eventStartDate>2025-06-02T10:00:00Z</eventStartDate>
+      <eventEndDate>2025-06-06T17:00:00Z</eventEndDate>
+      <link>https://developer.apple.com/wwdc</link>
+      <description>Événement incontournable pour les développeurs et fans Apple. Dévoilement des nouvelles versions d'iOS, macOS, watchOS et tvOS. Possibles annonces sur les technologies immersives, réalité augmentée et innovations Apple.</description>
+      <pubDate>Tue, 17 Jun 2025 08:15:00 GMT</pubDate>
+      <guid>https://developer.apple.com/wwdc25</guid>
+    </item>
+    
+    <item>
+      <title>Google I/O 2025 - Conférence développeurs Google</title>
+      <category>Développement &amp; IA</category>
+      <mainImage>https://images.unsplash.com/photo-1573804633927-bfcbcd909acd?w=800&amp;h=400&amp;fit=crop&amp;q=80</mainImage>
+      <eventStartDate>2025-05-13T10:00:00Z</eventStartDate>
+      <eventEndDate>2025-05-15T17:00:00Z</eventEndDate>
+      <link>https://io.google/2025</link>
+      <description>Événement phare pour les développeurs dévoilant les dernières avancées Google : Android, intelligence artificielle, cloud computing, assistants vocaux. Innovations en IA, machine learning et technologies émergentes au programme.</description>
+      <pubDate>Mon, 16 Jun 2025 14:30:00 GMT</pubDate>
+      <guid>https://io.google/2025</guid>
+    </item>
+    
+    <item>
+      <title>TNW Conference 2025 Amsterdam - L'événement tech le plus influent d'Europe</title>
+      <category>Tech &amp; Business</category>
+      <mainImage>https://images.unsplash.com/photo-1559136555-9303baea8ebd?w=800&amp;h=400&amp;fit=crop&amp;q=80</mainImage>
+      <eventStartDate>2025-06-19T09:00:00Z</eventStartDate>
+      <eventEndDate>2025-06-20T18:00:00Z</eventEndDate>
+      <link>https://thenextweb.com/conference</link>
+      <description>L'un des événements tech les plus influents en Europe. Attire entrepreneurs, investisseurs et leaders d'opinion. Focus sur l'IA, fintech, blockchain et startups innovantes. Networking premium et insights sur les tendances tech futures.</description>
+      <pubDate>Sun, 15 Jun 2025 10:00:00 GMT</pubDate>
+      <guid>https://thenextweb.com/conference/2025</guid>
+    </item>
+    
+    <item>
+      <title>Startup Grind Global Conference 2025 - Silicon Valley</title>
+      <category>Entrepreneuriat</category>
+      <mainImage>https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800&amp;h=400&amp;fit=crop&amp;q=80</mainImage>
+      <eventStartDate>2025-04-29T09:00:00Z</eventStartDate>
+      <eventEndDate>2025-04-30T18:00:00Z</eventEndDate>
+      <link>https://www.startupgrind.com/global-conference</link>
+      <description>Événement mondial pour les startups et entrepreneurs rassemblant des milliers de professionnels de la Tech, investisseurs, fondateurs et leaders. Conférences, ateliers et opportunités de networking dans la Silicon Valley.</description>
+      <pubDate>Sat, 14 Jun 2025 16:45:00 GMT</pubDate>
+      <guid>https://www.startupgrind.com/global-conference/2025</guid>
+    </item>
+    
+    <item>
+      <title>IoT Solutions World Congress 2025 Barcelone</title>
+      <category>Internet des Objets</category>
+      <mainImage>https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&amp;h=400&amp;fit=crop&amp;q=80</mainImage>
+      <eventStartDate>2025-05-13T09:00:00Z</eventStartDate>
+      <eventEndDate>2025-05-15T18:00:00Z</eventEndDate>
+      <link>https://www.iotsworldcongress.com</link>
+      <description>Congrès mondial sur l'impact des objets connectés avec démonstrations et discussions sur les technologies émergentes. Exploration des applications IoT dans l'industrie, la santé, les villes intelligentes et l'agriculture connectée.</description>
+      <pubDate>Fri, 13 Jun 2025 13:20:00 GMT</pubDate>
+      <guid>https://www.iotsworldcongress.com/2025</guid>
+    </item>
+    
+    <item>
+      <title>AI Summit Paris 2025 - Sommet de l'Intelligence Artificielle</title>
+      <category>Intelligence Artificielle</category>
+      <mainImage>https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&amp;h=400&amp;fit=crop&amp;q=80</mainImage>
+      <eventStartDate>2025-03-13T09:00:00Z</eventStartDate>
+      <eventEndDate>2025-03-14T18:00:00Z</eventEndDate>
+      <link>https://ai-summit-paris.com</link>
+      <description>Sommet mondial réunissant startups, investisseurs et experts en IA pour discuter des technologies de rupture. Conférences sur l'IA générative, le machine learning, la gouvernance des données et l'éthique de l'IA.</description>
+      <pubDate>Thu, 12 Jun 2025 11:10:00 GMT</pubDate>
+      <guid>https://ai-summit-paris.com/2025</guid>
+    </item>
+    
+  </channel>
+</rss>
