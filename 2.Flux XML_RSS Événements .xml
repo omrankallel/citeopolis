@@ -1,12 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
     <title>Événements Tech 2025</title>
     <description>Les événements technologiques incontournables de 2025</description>
     <link>https://www.techevents.com</link>
     <language>fr-FR</language>
     <lastBuildDate>Tue, 24 Jun 2025 12:00:00 GMT</lastBuildDate>
-    
     <item>
       <title>Web Summit 2025 - La "Coupe du monde des conférences tech"</title>
       <category>Conférence Tech</category>
@@ -18,7 +17,6 @@
       <pubDate>Mon, 23 Jun 2025 10:00:00 GMT</pubDate>
       <guid>https://websummit.com/2025</guid>
     </item>
-    
     <item>
       <title>Tech Show Paris 2025 - 5 salons B2B réunis en un seul événement</title>
       <category>Salon Professionnel</category>
@@ -30,11 +28,10 @@
       <pubDate>Sun, 22 Jun 2025 14:30:00 GMT</pubDate>
       <guid>https://www.techshowparis.fr/2025</guid>
     </item>
-    
     <item>
       <title>Big Data &amp; AI Paris 2025 - Plus grand salon français dédié aux données</title>
       <category>Big Data &amp; IA</category>
-      <mainImage>https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=800&amp;h=400&amp;fit=crop&amp;q=80</mainImage>
+      <mainImage>https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&amp;h=400&amp;fit=crop&amp;q=80</mainImage>
       <eventStartDate>2025-10-01T09:00:00Z</eventStartDate>
       <eventEndDate>2025-10-02T18:00:00Z</eventEndDate>
       <link>https://www.bigdataparis.com</link>
@@ -42,7 +39,6 @@
       <pubDate>Sat, 21 Jun 2025 11:15:00 GMT</pubDate>
       <guid>https://www.bigdataparis.com/2025</guid>
     </item>
-    
     <item>
       <title>VivaTech 2025 - Le plus grand événement tech et startup d'Europe</title>
       <category>Innovation &amp; Startups</category>
@@ -54,11 +50,10 @@
       <pubDate>Fri, 20 Jun 2025 09:30:00 GMT</pubDate>
       <guid>https://vivatech.com/2025</guid>
     </item>
-    
     <item>
       <title>CES 2025 Las Vegas - Le salon mondial de l'innovation technologique</title>
       <category>Innovation Technologique</category>
-      <mainImage>https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=800&amp;h=400&amp;fit=crop&amp;q=80</mainImage>
+      <mainImage>https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800&amp;h=400&amp;fit=crop&amp;q=80</mainImage>
       <eventStartDate>2025-01-07T09:00:00Z</eventStartDate>
       <eventEndDate>2025-01-10T18:00:00Z</eventEndDate>
       <link>https://www.ces.tech</link>
@@ -66,7 +61,6 @@
       <pubDate>Thu, 19 Jun 2025 15:20:00 GMT</pubDate>
       <guid>https://www.ces.tech/2025</guid>
     </item>
-    
     <item>
       <title>Mobile World Congress 2025 - Le plus grand salon mobile au monde</title>
       <category>Télécommunications</category>
@@ -78,7 +72,6 @@
       <pubDate>Wed, 18 Jun 2025 12:45:00 GMT</pubDate>
       <guid>https://www.mwcbarcelona.com/2025</guid>
     </item>
-    
     <item>
       <title>Apple WWDC 2025 - Worldwide Developers Conference</title>
       <category>Développement Mobile</category>
@@ -90,7 +83,6 @@
       <pubDate>Tue, 17 Jun 2025 08:15:00 GMT</pubDate>
       <guid>https://developer.apple.com/wwdc25</guid>
     </item>
-    
     <item>
       <title>Google I/O 2025 - Conférence développeurs Google</title>
       <category>Développement &amp; IA</category>
@@ -102,7 +94,6 @@
       <pubDate>Mon, 16 Jun 2025 14:30:00 GMT</pubDate>
       <guid>https://io.google/2025</guid>
     </item>
-    
     <item>
       <title>TNW Conference 2025 Amsterdam - L'événement tech le plus influent d'Europe</title>
       <category>Tech &amp; Business</category>
@@ -114,7 +105,6 @@
       <pubDate>Sun, 15 Jun 2025 10:00:00 GMT</pubDate>
       <guid>https://thenextweb.com/conference/2025</guid>
     </item>
-    
     <item>
       <title>Startup Grind Global Conference 2025 - Silicon Valley</title>
       <category>Entrepreneuriat</category>
@@ -126,7 +116,6 @@
       <pubDate>Sat, 14 Jun 2025 16:45:00 GMT</pubDate>
       <guid>https://www.startupgrind.com/global-conference/2025</guid>
     </item>
-    
     <item>
       <title>IoT Solutions World Congress 2025 Barcelone</title>
       <category>Internet des Objets</category>
@@ -138,7 +127,6 @@
       <pubDate>Fri, 13 Jun 2025 13:20:00 GMT</pubDate>
       <guid>https://www.iotsworldcongress.com/2025</guid>
     </item>
-    
     <item>
       <title>AI Summit Paris 2025 - Sommet de l'Intelligence Artificielle</title>
       <category>Intelligence Artificielle</category>
@@ -150,6 +138,5 @@
       <pubDate>Thu, 12 Jun 2025 11:10:00 GMT</pubDate>
       <guid>https://ai-summit-paris.com/2025</guid>
     </item>
-    
   </channel>
 </rss>
