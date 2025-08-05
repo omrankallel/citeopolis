@@ -10,7 +10,7 @@
         <eventEndDate>2024-09-30</eventEndDate>
         <eventStartTime>11:30</eventStartTime>
         <eventEndTime>21:00</eventEndTime>
-        <mainImage>https://images.unsplash.com/photo-1565958011703-44f9829ba187?w=800&h=600</mainImage>
+        <mainImage>https://images.unsplash.com/photo-1565958011703-44f9829ba187?w=800&amp;h=600</mainImage>
         <imageCaption>Food truck Ti Mangé Kreyol avec spécialités créoles</imageCaption>
         <content>
             <h1>Saveurs créoles authentiques</h1>
@@ -90,7 +90,7 @@
         <eventEndDate>2024-09-30</eventEndDate>
         <eventStartTime>12:00</eventStartTime>
         <eventEndTime>22:00</eventEndTime>
-        <mainImage>https://images.unsplash.com/photo-1551218808-94e220e084d2?w=800&h=600</mainImage>
+        <mainImage>https://images.unsplash.com/photo-1551218808-94e220e084d2?w=800&amp;h=600</mainImage>
         <imageCaption>Food truck Le Petit Marrakech avec spécialités marocaines</imageCaption>
         <content>
             <h1>Voyage culinaire au Maroc</h1>
@@ -170,7 +170,7 @@
         <eventEndDate>2024-12-31</eventEndDate>
         <eventStartTime>00:00</eventStartTime>
         <eventEndTime>23:59</eventEndTime>
-        <mainImage>https://images.unsplash.com/photo-1449965408869-eaa3f722e40d?w=800&h=600</mainImage>
+        <mainImage>https://images.unsplash.com/photo-1449965408869-eaa3f722e40d?w=800&amp;h=600</mainImage>
         <imageCaption>Véhicule taxi moderne et confortable</imageCaption>
         <content>
             <h1>Votre taxi de confiance</h1>
@@ -230,7 +230,7 @@
         <eventEndDate>2024-12-31</eventEndDate>
         <eventStartTime>06:00</eventStartTime>
         <eventEndTime>23:00</eventEndTime>
-        <mainImage>https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800&h=600</mainImage>
+        <mainImage>https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800&amp;h=600</mainImage>
         <imageCaption>Terrasse de l'hôtel avec vue panoramique sur la campagne</imageCaption>
         <content>
             <h1>L'art de vivre provençal</h1>
@@ -301,7 +301,7 @@
         <eventEndDate>2024-12-31</eventEndDate>
         <eventStartTime>14:00</eventStartTime>
         <eventEndTime>23:30</eventEndTime>
-        <mainImage>https://images.unsplash.com/photo-1596727147705-61a532a659bd?w=800&h=600</mainImage>
+        <mainImage>https://images.unsplash.com/photo-1596727147705-61a532a659bd?w=800&amp;h=600</mainImage>
         <imageCaption>Salle de cinéma moderne avec écran panoramique</imageCaption>
         <content>
             <h1>Votre cinéma de proximité</h1>
@@ -382,7 +382,7 @@
         <eventEndDate>2024-12-31</eventEndDate>
         <eventStartTime>00:00</eventStartTime>
         <eventEndTime>23:59</eventEndTime>
-        <mainImage>https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=600</mainImage>
+        <mainImage>https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&amp;h=600</mainImage>
         <imageCaption>Station de vélos électriques en libre service</imageCaption>
         <content>
             <h1>Mobilité verte et pratique</h1>
@@ -443,7 +443,7 @@
         <eventEndDate>2024-12-31</eventEndDate>
         <eventStartTime>08:00</eventStartTime>
         <eventEndTime>19:00</eventEndTime>
-        <mainImage>https://images.unsplash.com/photo-1485965120184-e220f721d03e?w=800&h=600</mainImage>
+        <mainImage>https://images.unsplash.com/photo-1485965120184-e220f721d03e?w=800&amp;h=600</mainImage>
         <imageCaption>Véhicule école moderne avec moniteur diplômé</imageCaption>
         <content>
             <h1>Votre permis de conduire en confiance</h1>
@@ -523,7 +523,7 @@
         <eventEndDate>2024-12-31</eventEndDate>
         <eventStartTime>09:00</eventStartTime>
         <eventEndTime>19:00</eventEndTime>
-        <mainImage>https://images.unsplash.com/photo-1521590832167-7bcbfaa6381f?w=800&h=600</mainImage>
+        <mainImage>https://images.unsplash.com/photo-1521590832167-7bcbfaa6381f?w=800&amp;h=600</mainImage>
         <imageCaption>Salon de coiffure moderne avec équipements professionnels</imageCaption>
         <content>
             <h1>L'art de la coiffure moderne</h1>
@@ -604,7 +604,7 @@
         <eventEndDate>2024-12-31</eventEndDate>
         <eventStartTime>09:00</eventStartTime>
         <eventEndTime>18:00</eventEndTime>
-        <mainImage>https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=600</mainImage>
+        <mainImage>https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&amp;h=600</mainImage>
         <imageCaption>Espace de lecture moderne de la médiathèque</imageCaption>
         <content>
             <h1>Votre espace culturel de proximité</h1>
@@ -685,7 +685,7 @@
         <eventEndDate>2024-12-31</eventEndDate>
         <eventStartTime>12:00</eventStartTime>
         <eventEndTime>22:00</eventEndTime>
-        <mainImage>https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=800&h=600</mainImage>
+        <mainImage>https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=800&amp;h=600</mainImage>
         <imageCaption>Terrasse du restaurant avec vue sur le village</imageCaption>
         <content>
             <h1>Saveurs provençales authentiques</h1>
@@ -766,7 +766,7 @@
         <eventEndDate>2025-06-30</eventEndDate>
         <eventStartTime>14:00</eventStartTime>
         <eventEndTime>19:00</eventEndTime>
-        <mainImage>https://images.unsplash.com/photo-1552318965-6e6be7484ada?w=800&h=600</mainImage>
+        <mainImage>https://images.unsplash.com/photo-1552318965-6e6be7484ada?w=800&amp;h=600</mainImage>
         <imageCaption>Terrain de football du Mont Gros avec équipe junior</imageCaption>
         <content>
             <h1>Football pour tous à La Gaude</h1>
@@ -837,7 +837,7 @@
         <eventEndDate>2024-12-31</eventEndDate>
         <eventStartTime>08:30</eventStartTime>
         <eventEndTime>19:30</eventEndTime>
-        <mainImage>https://images.unsplash.com/photo-1530497610245-94d3c16cda28?w=800&h=600</mainImage>
+        <mainImage>https://images.unsplash.com/photo-1530497610245-94d3c16cda28?w=800&amp;h=600</mainImage>
         <imageCaption>Intérieur moderne de la pharmacie avec conseil personnalisé</imageCaption>
         <content>
             <h1>Votre pharmacie de proximité</h1>
@@ -917,7 +917,7 @@
         <eventEndDate>2024-12-31</eventEndDate>
         <eventStartTime>08:00</eventStartTime>
         <eventEndTime>13:00</eventEndTime>
-        <mainImage>https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=800&h=600</mainImage>
+        <mainImage>https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=800&amp;h=600</mainImage>
         <imageCaption>Étals colorés du marché de La Baronne avec produits locaux</imageCaption>
         <content>
             <h1>Le marché de quartier authentique</h1>
@@ -978,7 +978,7 @@
         <eventEndDate>2024-12-31</eventEndDate>
         <eventStartTime>07:30</eventStartTime>
         <eventEndTime>13:30</eventEndTime>
-        <mainImage>https://images.unsplash.com/photo-1542838132-92c53300491e?w=800&h=600</mainImage>
+        <mainImage>https://images.unsplash.com/photo-1542838132-92c53300491e?w=800&amp;h=600</mainImage>
         <imageCaption>Grand marché d'Apolline avec nombreux étals variés</imageCaption>
         <content>
             <h1>Le grand marché de La Gaude</h1>
@@ -1039,7 +1039,7 @@
         <eventEndDate>2024-12-31</eventEndDate>
         <eventStartTime>07:00</eventStartTime>
         <eventEndTime>20:00</eventEndTime>
-        <mainImage>https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800&h=600</mainImage>
+        <mainImage>https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800&amp;h=600</mainImage>
         <imageCaption>Aire de jeux moderne au Parc des Constellations</imageCaption>
         <content>
             <h1>Espace nature et détente</h1>
@@ -1100,7 +1100,7 @@
         <eventEndDate>2024-12-31</eventEndDate>
         <eventStartTime>06:30</eventStartTime>
         <eventEndTime>19:30</eventEndTime>
-        <mainImage>https://images.unsplash.com/photo-1509440159596-0249088772ff?w=800&h=600</mainImage>
+        <mainImage>https://images.unsplash.com/photo-1509440159596-0249088772ff?w=800&amp;h=600</mainImage>
         <imageCaption>Vitrine de la boulangerie avec pains et pâtisseries artisanales</imageCaption>
         <content>
             <h1>L'art boulanger traditionnel</h1>
@@ -1181,7 +1181,7 @@
         <eventEndDate>2024-12-31</eventEndDate>
         <eventStartTime>08:00</eventStartTime>
         <eventEndTime>18:30</eventEndTime>
-        <mainImage>https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?w=800&h=600</mainImage>
+        <mainImage>https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?w=800&amp;h=600</mainImage>
         <imageCaption>Atelier Midas avec véhicule sur pont élévateur</imageCaption>
         <content>
             <h1>Votre expert automobile</h1>
@@ -1260,7 +1260,7 @@
         <eventEndDate>2024-12-31</eventEndDate>
         <eventStartTime>18:00</eventStartTime>
         <eventEndTime>22:30</eventEndTime>
-        <mainImage>https://images.unsplash.com/photo-1513104890138-7c749659a591?w=800&h=600</mainImage>
+        <mainImage>https://images.unsplash.com/photo-1513104890138-7c749659a591?w=800&amp;h=600</mainImage>
         <imageCaption>Four à pizza traditionnel avec pizza margherita</imageCaption>
         <content>
             <h1>Saveurs italiennes authentiques</h1>
@@ -1341,7 +1341,7 @@
         <eventEndDate>2024-12-31</eventEndDate>
         <eventStartTime>08:30</eventStartTime>
         <eventEndTime>17:00</eventEndTime>
-        <mainImage>https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=600</mainImage>
+        <mainImage>https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&amp;h=600</mainImage>
         <imageCaption>Façade de la mairie de La Gaude avec drapeau français</imageCaption>
         <content>
             <h1>Votre mairie au service des citoyens</h1>
@@ -1423,7 +1423,7 @@
         <eventEndDate>2024-12-31</eventEndDate>
         <eventStartTime>09:00</eventStartTime>
         <eventEndTime>17:30</eventEndTime>
-        <mainImage>https://images.unsplash.com/photo-1582750433449-648ed127bb54?w=800&h=600 </mainImage>
+        <mainImage>https://images.unsplash.com/photo-1582750433449-648ed127bb54?w=800&amp;h=600 </mainImage>
         <imageCaption>Bureau de poste moderne avec guichets automatiques</imageCaption>
         <content>
             <h1>Tous vos services postaux</h1>
