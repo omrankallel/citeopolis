@@ -24,6 +24,24 @@
                   <li>Aliquam dolor magna, rhoncus vitae consectetur</li>
                   <li>Consectetur adipiscing elit augue duis turpis</li>
               </ul>
+              <ol>
+                  <li>Étape 1</li>
+                  <li>Étape 2</li>
+              </ol>
+              <table border="1">
+                  <tr>
+                      <th>Jour</th>
+                      <th>Activité</th>
+                  </tr>
+                  <tr>
+                      <td>Lundi</td>
+                      <td>Randonnée</td>
+                 </tr>
+                 <tr>
+                      <td>Mardi</td>
+                      <td>Plongée</td>
+                 </tr>
+              </table>
             </p>
         </content>
     </article>
@@ -59,3 +77,4 @@
         </content>
     </article>
 </articles>
+
