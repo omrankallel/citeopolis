@@ -47,7 +47,7 @@
         <eventStartDate>2024-06-15</eventStartDate>
         <eventEndDate>2024-09-15</eventEndDate>
         <eventStartTime>19:00</eventStartTime>
-        <eventEndTime>24:00</eventEndTime>
+        <eventEndTime>23:59</eventEndTime>
         <mainImage>https://images.unsplash.com/photo-1533900298318-6b8da08a523e?w=800&amp;h=600</mainImage>
         <imageCaption>Ambiance chaleureuse du marché nocturne</imageCaption>
         <content>
@@ -90,3 +90,4 @@
         </location>
     </event>
 </events>
+
