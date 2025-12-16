@@ -2,7 +2,6 @@
 <articles>
     <article>
         <title>Page de contenu X - Découverte de la côte méditerranéenne</title>
-        <category>Tourisme</category>
         <summary>Chapo lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec rutrum, lacinia ligula sed feugiat. Donec faucibus, dui vel rutrum tempus, nisl orci fermentum quam, ut vulputate odio elit eget velit.</summary>
         <pubDate>2024-06-01T10:00:00Z</pubDate>
         <updateDate>2024-06-05T14:30:00Z</updateDate>
@@ -25,7 +24,6 @@
                   <li>Consectetur adipiscing elit augue duis turpis</li>
               </ul>
             </p>
-            <h4>Titre H2 Lorem ipsum dolor sit amet</h4>
         </content>
     </article>
 
@@ -50,8 +48,6 @@
                 <li>Techniques constructives ancestrales</li>
                 <li>Adaptation au climat méditerranéen</li>
             </ul>
-                        <h4>Architecture traditionnelle</h4>
-
         </content>
     </article>
 
@@ -82,6 +78,7 @@
  </content>
     </article>
 </articles>
+
 
 
 
