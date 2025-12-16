@@ -128,6 +128,7 @@
     </schedule>
     <website>https://www.restaurant-mediterranee.fr</website>
     <phone1>+33 4 93 64 71 23</phone1>
+    <phone2>+33 4 93 64 71 23</phone2>
     <email>reservation@restaurant-mediterranee.fr</email>
     <contact>
       <firstName>Pierre</firstName>
@@ -196,4 +197,5 @@
     <youtube>https://youtube.com/OTCotedAzur</youtube>
   </entry>
 </directory>
+
 
