@@ -7,7 +7,43 @@
         <pubDate>2024-06-01T10:00:00Z</pubDate>
         <updateDate>2024-06-05T14:30:00Z</updateDate>
         <mainImage>https://images.unsplash.com/photo-1551698618-1dfe5d97d256?w=800&amp;h=600</mainImage>
-        
+        <imageCaption>La superbe côte méditerranéenne avec ses eaux cristallines</imageCaption>
+        <content>
+            <h1>Titre H2 Lorem ipsum dolor sit amet</h1>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit amet. Ipsum. Suspendisse suscipit elit elit mauris et bibendum. Nulla tacitus lectus id suscipit semper. Aenean lobortis bibendum ante et duis rhoncus sit amet nisl. Duis et tincidunt lacus, sit amet molestie quis. Donec quis lorem ipsum mauris id consectetur volutpat. Nullam ornare. Mauris pretium tempus enim. Nullam molestie eros at tellus. Nulla consectetur molestie eros at consectetur.</p>
+            <h2>Titre H2 Lorem ipsum dolor sit amet</h2>
+            <p>Quisque mtt sapien, faucibus et vehicula vel rhoncus sit amet nisl. Duis et tincidunt lacus, sit amet. Aenean lobortis bibendum ante et consectetur volutpat. Nullam ornare. Mauris commodo volutpat justo molestie consectetur elit. Donec vel ante eget dolor consectetur molestisque quis elit eros. Nunc commodo volutpat justo nec consectetur.</p>
+
+            <h3>Titre H3 lorem ipsum dolor sit amet</h3>
+            <p>Sed convalmendam alieratrum leo id tincidunt. Praeent in libero ut urna, ex viverra lobortis et id lorem. Integer ut mauris rhoncus. bibendum, rhon vtae, dictum lorem. Fusce velit sem dolor.
+               <ul>
+                  <li>Maecenas accumsan elit eget odio blandit vehicula</li>
+                  <li>Quis lacinia eget fermentum venenatis</li>
+                  <li>Id viverra dui</li>
+                  <li>Etiam dolor enim, consectat vut molestisbus</li>
+                  <li>Aliquam dolor magna, rhoncus vitae consectetur</li>
+                  <li>Consectetur adipiscing elit augue duis turpis</li>
+              </ul>
+              <ol>
+                  <li>Étape 1</li>
+                  <li>Étape 2</li>
+              </ol>
+              <table border="1">
+                  <tr>
+                      <th>Jour</th>
+                      <th>Activité</th>
+                  </tr>
+                  <tr>
+                      <td>Lundi</td>
+                      <td>Randonnée</td>
+                 </tr>
+                 <tr>
+                      <td>Mardi</td>
+                      <td>Plongée</td>
+                 </tr>
+              </table>
+            </p>
+        </content>
     </article>
 
     <article>
@@ -60,5 +96,6 @@
         </content>
     </article>
 </articles>
+
 
 
