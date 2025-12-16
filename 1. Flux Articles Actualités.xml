@@ -37,10 +37,9 @@
         <imageCaption>Vue panoramique sur les monuments historiques</imageCaption>
         <content>
             <h1>Les joyaux cachés de notre patrimoine</h1>
-            <p>Notre région regorge de trésors architecturaux et culturels souvent méconnus du grand public. Ces sites exceptionnels méritent une attention particulière. Découvrez-les sur <a href="https://example.com">notre site dédié</a>.</p>
+            <p>Notre région regorge de trésors architecturaux et culturels souvent méconnus du grand public. Ces sites exceptionnels méritent une attention particulière.</p>
             
             <h2>Architecture traditionnelle</h2>
-            <p>Les constructions anciennes témoignent d'un savoir-faire ancestral unique, alliant <em>fonctionnalité</em> et <u>esthétique</u> dans un environnement méditerranéen. Ces bâtiments représentent un patrimoine inestimable.</p>
             
             <h3>Caractéristiques principales</h3>
             <ul>
@@ -73,10 +72,11 @@
             </ul>
             
             <h3>Visite des restaurants</h3>
-            <p>Nous vous recommandons de visiter les restaurants authentiques situés au cœur de la région pour une <strong>expérience culinaire inoubliable</strong>.</p>
+            <p>Nous vous recommandons de visiter les restaurants authentiques situés au cœur de la région pour une expérience culinaire inoubliable.</p>
  </content>
     </article>
 </articles>
+
 
 
 
