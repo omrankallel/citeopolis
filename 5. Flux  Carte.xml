@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<cartes>
-    <event>
+<map>
+    <point>
         <title>TI MANGÉ KREYOL</title>
         <category>Marchés - Food truck</category>
         <summary>Food truck spécialisé dans la cuisine créole authentique. Découvrez les saveurs des îles dans une ambiance conviviale et chaleureuse.</summary>
@@ -78,9 +78,9 @@
             <size>2.8 MB</size>
             <link>https://drissas.com/wp-content/uploads/2023/01/FLUTTER-REVOLUTION.pdf</link>
         </download>
-    </event>
+    </point>
 
-    <event>
+    <point>
         <title>LE PETIT MARRAKECH</title>
         <category>Marchés - Food truck</category>
         <summary>Food truck marocain authentique proposant tajines, couscous et pâtisseries orientales dans un cadre coloré et chaleureux.</summary>
@@ -158,9 +158,9 @@
             <size>1.9 MB</size>
             <link>https://drissas.com/wp-content/uploads/2023/01/FLUTTER-REVOLUTION.pdf</link>
         </download>
-    </event>
+    </point>
 
-    <event>
+    <point>
         <title>TAXI VALÉRIE</title>
         <category>Transport</category>
         <summary>Service de taxi local disponible 24h/24 pour tous vos déplacements dans la région avec des tarifs préférentiels résidents.</summary>
@@ -218,9 +218,9 @@
             <size>650 KB</size>
             <link>https://drissas.com/wp-content/uploads/2023/01/FLUTTER-REVOLUTION.pdf</link>
         </download>
-    </event>
+    </point>
 
-    <event>
+    <point>
         <title>Hôtel Mon Soleil et Restaurant Longo Maï</title>
         <category>Hôtellerie-Restauration</category>
         <summary>Hôtel de charme avec restaurant gastronomique offrant une vue panoramique sur les collines provençales et un service personnalisé.</summary>
@@ -289,9 +289,9 @@
             <size>5.2 MB</size>
             <link>https://drissas.com/wp-content/uploads/2023/01/FLUTTER-REVOLUTION.pdf</link>
         </download>
-    </event>
+    </point>
 
-    <event>
+    <point>
         <title>Cinéma La Coupole</title>
         <category>Culture</category>
         <summary>Cinéma moderne proposant les dernières nouveautés ainsi que des films d'art et d'essai dans un cadre confortable et accueillant.</summary>
@@ -370,9 +370,9 @@
             <size>1.2 MB</size>
             <link>https://drissas.com/wp-content/uploads/2023/01/FLUTTER-REVOLUTION.pdf</link>
         </download>
-    </event>
+    </point>
 
-    <event>
+    <point>
         <title>Vélos électriques en libre service</title>
         <category>Mobilité</category>
         <summary>Service de vélos électriques en libre-service disponible 24h/24 sur plusieurs points de la commune pour faciliter vos déplacements.</summary>
@@ -431,9 +431,9 @@
             <size>3.5 MB</size>
             <link>https://drissas.com/wp-content/uploads/2023/01/FLUTTER-REVOLUTION.pdf</link>
         </download>
-    </event>
+    </point>
 
-    <event>
+    <point>
         <title>AUTO ECOLE YES</title>
         <category>Formation</category>
         <summary>Auto-école moderne proposant formation au permis de conduire avec des méthodes pédagogiques adaptées et un suivi personnalisé.</summary>
@@ -511,9 +511,9 @@
             <size>850 KB</size>
             <link>https://drissas.com/wp-content/uploads/2023/01/FLUTTER-REVOLUTION.pdf</link>
         </download>
-    </event>
+    </point>
 
-    <event>
+    <point>
         <title>COIFFURE – BLACK ONYX</title>
         <category>Coiffure - Esthétique</category>
         <summary>Salon de coiffure moderne proposant coupes tendances, colorations techniques et soins capillaires haut de gamme dans un cadre contemporain.</summary>
@@ -592,9 +592,9 @@
             <size>1.1 MB</size>
             <link>https://drissas.com/wp-content/uploads/2023/01/FLUTTER-REVOLUTION.pdf</link>
         </download>
-    </event>
+    </point>
 
-    <event>
+    <point>
         <title>Médiathèque Chaïm SOUTINE</title>
         <category>Culture</category>
         <summary>Espace culturel moderne proposant livres, multimédia, animations et ateliers pour tous les âges dans un cadre convivial et accueillant.</summary>
@@ -673,9 +673,9 @@
             <size>4.1 MB</size>
             <link>https://drissas.com/wp-content/uploads/2023/01/FLUTTER-REVOLUTION.pdf</link>
         </download>
-    </event>
+    </point>
 
-    <event>
+    <point>
         <title>RESTAURANT LA GAUDRIOLE</title>
         <category>Restauration</category>
         <summary>Restaurant traditionnel au cœur du village proposant une cuisine provençale authentique dans un cadre chaleureux et convivial.</summary>
@@ -754,9 +754,9 @@
             <size>1.9 MB</size>
             <link>https://drissas.com/wp-content/uploads/2023/01/FLUTTER-REVOLUTION.pdf</link>
         </download>
-    </event>
+    </point>
 
-    <event>
+    <point>
         <title>E.S.B.F Entente Sportive des Baous Football</title>
         <category>Sport</category>
         <summary>Club de football local proposant formation et compétition pour toutes les catégories d'âge dans un esprit convivial et familial.</summary>
@@ -825,9 +825,9 @@
             <size>1.8 MB</size>
             <link>https://drissas.com/wp-content/uploads/2023/01/FLUTTER-REVOLUTION.pdf</link>
         </download>
-    </event>
+    </point>
 
-    <event>
+    <point>
         <title>Pharmacie Plan du Bois</title>
         <category>Santé</category>
         <summary>Pharmacie moderne proposant conseils personnalisés, médicaments, parapharmacie et services de santé dans un cadre accueillant.</summary>
@@ -905,9 +905,9 @@
             <size>2.3 MB</size>
             <link>https://drissas.com/wp-content/uploads/2023/01/FLUTTER-REVOLUTION.pdf</link>
         </download>
-    </event>
+    </point>
 
-    <event>
+    <point>
         <title>MARCHÉ À LA BARONNE</title>
         <category>Marchés - Food truck</category>
         <summary>Marché local hebdomadaire proposant produits frais, spécialités régionales et artisanat dans le quartier résidentiel de La Baronne.</summary>
@@ -966,9 +966,9 @@
             <size>1.3 MB</size>
             <link>https://drissas.com/wp-content/uploads/2023/01/FLUTTER-REVOLUTION.pdf</link>
         </download>
-    </event>
+    </point>
 
-    <event>
+    <point>
         <title>MARCHÉ D'APOLLINE</title>
         <category>Marchés - Food truck</category>
         <summary>Grand marché hebdomadaire de La Gaude proposant un large choix de produits frais, vêtements, brocante et spécialités locales.</summary>
@@ -1027,9 +1027,9 @@
             <size>2.1 MB</size>
             <link>https://drissas.com/wp-content/uploads/2023/01/FLUTTER-REVOLUTION.pdf</link>
         </download>
-    </event>
+    </point>
 
-    <event>
+    <point>
         <title>Parc des Constellations</title>
         <category>Loisirs</category>
         <summary>Espace vert familial de 2 hectares proposant aires de jeux, parcours sportif et espaces de détente dans un cadre naturel préservé.</summary>
@@ -1088,9 +1088,9 @@
             <size>1.4 MB</size>
             <link>https://drissas.com/wp-content/uploads/2023/01/FLUTTER-REVOLUTION.pdf</link>
         </download>
-    </event>
+    </point>
 
-    <event>
+    <point>
         <title>BOULANGERIE PATISSERIE AUX DÉLICES DE LA GAUDE</title>
         <category>Alimentation</category>
         <summary>Boulangerie artisanale proposant pains traditionnels, viennoiseries, pâtisseries et spécialités locales dans un esprit familial.</summary>
@@ -1169,9 +1169,9 @@
             <size>2.7 MB</size>
             <link>https://drissas.com/wp-content/uploads/2023/01/FLUTTER-REVOLUTION.pdf</link>
         </download>
-    </event>
+    </point>
 
-    <event>
+    <point>
         <title>MIDAS</title>
         <category>Automobile</category>
         <summary>Centre auto Midas spécialisé dans l'entretien automobile, pneumatiques, freinage et révisions toutes marques avec garantie constructeur.</summary>
@@ -1248,9 +1248,9 @@
             <size>3.2 MB</size>
             <link>https://drissas.com/wp-content/uploads/2023/01/FLUTTER-REVOLUTION.pdf</link>
         </download>
-    </event>
+    </point>
 
-    <event>
+    <point>
         <title>PIZZA VALERIA</title>
         <category>Restauration</category>
         <summary>Pizzeria familiale proposant pizzas artisanales, pâtes fraîches et spécialités italiennes à emporter ou en livraison dans un cadre convivial.</summary>
@@ -1329,9 +1329,9 @@
             <size>1.6 MB</size>
             <link>https://drissas.com/wp-content/uploads/2023/01/FLUTTER-REVOLUTION.pdf</link>
         </download>
-    </event>
+    </point>
 
-    <event>
+    <point>
         <title>Mairie de La Gaude</title>
         <category>Service public</category>
         <summary>Hôtel de ville proposant tous les services administratifs municipaux avec un accueil personnalisé et des démarches simplifiées pour les citoyens.</summary>
@@ -1411,9 +1411,9 @@
             <size>4.8 MB</size>
             <link>https://drissas.com/wp-content/uploads/2023/01/FLUTTER-REVOLUTION.pdf</link>
         </download>
-    </event>
+    </point>
 
-    <event>
+    <point>
         <title>La Poste</title>
         <category>Service public</category>
         <summary>Bureau de poste proposant tous les services postaux, bancaires et numériques avec des horaires adaptés aux besoins des habitants.</summary>
@@ -1490,5 +1490,6 @@
             <size>2.9 MB</size>
             <link>https://drissas.com/wp-content/uploads/2023/01/FLUTTER-REVOLUTION.pdf</link>
         </download>
-    </event>
-</cartes>
+    </point>
+</map>
+
