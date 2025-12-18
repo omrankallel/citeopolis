@@ -21,7 +21,6 @@
       </ul>
       <h3>Équipe multilingue</h3>
       <p>Notre personnel parle français, anglais, italien et espagnol pour mieux vous accueillir.</p>
-      <h4>Votre guide local</h4>
 
     </content>
     <location>
@@ -90,9 +89,6 @@
         <li>Salade niçoise authentique</li>
         <li>Ratatouille de légumes du soleil</li>
       </ul>
-      <h3>Cuisine authentique en bord de mer</h3>
-      <h4>Cuisine authentique en bord de mer</h4>
-
     </content>
     <location>
       <title>Restaurant La Méditerranée</title>
@@ -154,9 +150,6 @@
       <h1>Séjour d'exception face à la Méditerranée</h1>
       <p>Notre hôtel 4 étoiles vous propose 45 chambres et suites avec vue mer ou jardin. Profitez de notre piscine chauffée, spa et restaurant gastronomique.</p>
       <h2>Services et équipements</h2>
-      <h3>Services et équipements</h3>
-      <h4>Services et équipements</h4>
-
       <ul>
         <li>Piscine chauffée avec vue mer</li>
         <li>Spa et centre de bien-être</li>
@@ -166,14 +159,6 @@
         <li>Parking privé</li>
       </ul>
     </content>
-    <location>
-      <title>Hôtel Vue Mer</title>
-      <address>8 Boulevard de la Corniche</address>
-      <postalCode>06160</postalCode>
-      <city>Juan-les-Pins</city>
-      <latitude>43.5672</latitude>
-      <longitude>7.1189</longitude>
-    </location>
     <additionalInformation>Piscine, spa, restaurant, bar, parking, WiFi, climatisation</additionalInformation>
     <schedule>
       <day name="Réception">
@@ -197,5 +182,6 @@
     <youtube>https://youtube.com/OTCotedAzur</youtube>
   </entry>
 </directory>
+
 
 
