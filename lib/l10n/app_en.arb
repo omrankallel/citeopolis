@@ -1,0 +1,17 @@
+{
+  "nameApp": "Citéopolis App",
+  "@nameApp": {
+    "description": "The name of application"
+  },
+  "changeLanguage": "Change language",
+  "@changeLanguage": {
+    "description": "Change language"
+  },
+  "english": "English",
+  "french": "French",
+    "connected": "Internet connected",
+  "msgConnexion": "No internet connection\nConnect to the internet and try again",
+  "notConnected": "No internet connection",
+  "showToast": "Show toast",
+  "hideToast": "Hide toast"
+}

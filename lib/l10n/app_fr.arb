@@ -1,0 +1,19 @@
+{
+  "nameApp": "Citéopolis App",
+  "@nameApp": {
+    "description": "Le nom de l'application"
+  },
+  "changeLanguage": "Changer la language",
+  "@changeLanguage": {
+    "description": "Changer la  language"
+  },
+  "english": "Anglais",
+  "french": "Français",
+  "connected": "Connecté à Internet",
+  "msgConnexion": "Pas de connexion internet\nConnecte-toi à internet et réessaie",
+  "notConnected": "Pas de connexion Internet",
+  "showToast": "Afficher toast",
+  "hideToast": "Masquer toast"
+
+
+}
